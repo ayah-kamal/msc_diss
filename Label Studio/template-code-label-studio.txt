@@ -1,0 +1,32 @@
+<View>
+  <Text name="text" value="$text"/>
+   <View style="box-shadow: 2px 2px 5px #999;
+               padding: 20px; margin-top: 2em;
+               border-radius: 5px;">
+    <Header value = "Identify the shape of the text"/>
+    <Collapse>
+  	<Panel value="Shapeless Sentence Identification Rules">
+    <View>
+      <View style = "font-size:12px">
+     <Header value = "- Avoid long introductory phrases and clauses. Revise them into their own independent clauses."/>
+     <Header value = "- Avoid long, abstract subjects. Revise a long subject into an introductory subordinate clause"/>
+     <Header value = "- Avoid interrupting subject and verbs and also verbs and objects. Move interrupting element to either beginning or end of sentence, depending on what the next sentence is about."/>
+     <Header value = "- Open the sentence with its point in a short main clause stating the key claim that you want the sentence to make."/>
+     <Header value = "- After the main clause, avoid adding one subordinate clause to another to another to another."/>
+     <Header value = "- Coordinate elements that are parallel both in grammar and the key claim that you want the sentence to make."/>
+       </View>
+      </View>
+     </Panel>
+</Collapse>
+    <Taxonomy name="taxonomy" toName="text">
+      <Choice value="Structured" />
+      <Choice value="Shapeless">
+        <Choice value="Long Subject" />
+        <Choice value="Long Intro Phrase" />
+        <Choice value="Interupptions" />
+        <Choice value="Sprawling Ending" />
+        <Choice value="Coordination" />
+      </Choice>
+    </Taxonomy>
+  </View>
+</View>

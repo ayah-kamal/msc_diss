@@ -1,0 +1,9 @@
+Access Token:
+Use this token to authenticate with our API:
+0f11183808a9bbb4bad792303111f1a8b5d68898
+
+
+Example fetch projects data:
+curl -X GET http://localhost:8080/api/projects/ -H 'Authorization: Token 0f11183808a9bbb4bad792303111f1a8b5d68898'
+
+https://labelstud.io/guide/api.html
