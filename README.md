@@ -1,6 +1,6 @@
-# Enhancing Clarity and Readability in Scientific Writing: An Automated Approach to Identifying Shapeless Sentences
+# Enhancing Clarity and Readability in Scientific Writing: An Automated Approach to Identifying Shapeless Sentences [^1]
 
-This project aims to enhance the readability of scientific writing by automating the identification of "shapeless" sentences, which lack clarity and structure, using a fine-tuned large language model (LLaMA-2). The project utilizes various optimization techniques for efficient model training and includes a comprehensive dataset annotated based on readability principles from the book Style: Lessons in Clarity and Grace by Joseph Bizup and Joseph M. Williams [^1].
+This project aims to enhance the readability of scientific writing by automating the identification of "shapeless" sentences, which lack clarity and structure, using a fine-tuned large language model (LLaMA-2). The project utilizes various optimization techniques for efficient model training and includes a comprehensive dataset annotated based on readability principles from the book Style: Lessons in Clarity and Grace by Joseph Bizup and Joseph M. Williams [^2].
 
 ## Project Structure
 
@@ -24,4 +24,5 @@ This project aims to enhance the readability of scientific writing by automating
 - **elsevier_data_alpaca_format.json**: the main annotated dataset in alpaca format. This is the dataset used in the train_test split and for fine-tuning
 
 
-[^1]: Joseph M. Williams and Joseph Bizup. Style: Lessons in Clarity and Grace. Pearson, 12th edition, 2016.
+[^1]: https://drepo.sdl.edu.sa/items/07aa9c4f-1661-4a65-9773-87452c53a57b
+[^2]: Joseph M. Williams and Joseph Bizup. Style: Lessons in Clarity and Grace. Pearson, 12th edition, 2016.
