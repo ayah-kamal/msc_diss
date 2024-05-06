@@ -1,0 +1,841 @@
+[{
+    "id": 1299,
+    "annotations": [{
+        "id": 626,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "IRXeBJK6-z",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-20T18:22:07.176343Z",
+        "updated_at": "2023-07-20T18:22:07.176343Z",
+        "draft_created_at": null,
+        "lead_time": 3041.975,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "93a67306-c847-4a7f-9407-68e5753dd02f",
+        "last_action": null,
+        "task": 1299,
+        "project": 10,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "13ea8800-S0032386113009889_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The toughening mechanisms were identified as (i) the formation of localised shear-band yielding in the epoxy matrix polymer which is initiated by the silica nanoparticles, and (ii) debonding of the silica nanoparticles followed by plastic void growth of the epoxy matrix polymer."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:44:41.541328Z",
+    "updated_at": "2023-07-20T18:22:07.302106Z",
+    "inner_id": 1,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 10,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1300,
+    "annotations": [{
+        "id": 627,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Interruptions"]
+                ]
+            },
+            "id": "AdJ99Y_UOI",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["interruption between the subject and verb"]
+            },
+            "id": "moECOn1d5C",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-20T18:22:39.743656Z",
+        "updated_at": "2023-07-20T18:22:39.743656Z",
+        "draft_created_at": "2023-07-20T18:22:19.042944Z",
+        "lead_time": 31.916,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "9d150e94-00ef-4387-b635-b000ee46fdab",
+        "last_action": null,
+        "task": 1300,
+        "project": 10,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "13ea8800-S0032386113009889_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "These mechanisms, and hence the toughness of the epoxy polymers containing the silica nanoparticles, were modelled using the Hsieh et al. approach (Polymer 51, 2010, 6284-6294)."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:44:41.541328Z",
+    "updated_at": "2023-07-20T18:22:39.854618Z",
+    "inner_id": 2,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 10,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1301,
+    "annotations": [{
+        "id": 628,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Sprawling Ending"]
+                ]
+            },
+            "id": "YP3SOO4K9I",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["Although it only has 2 subordinate clauses at the end, they are quite long"]
+            },
+            "id": "8DhrfyAEyW",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-20T18:23:51.225781Z",
+        "updated_at": "2023-07-20T18:23:51.225781Z",
+        "draft_created_at": "2023-07-20T18:23:35.228418Z",
+        "lead_time": 70.755,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "9a45072e-525c-430f-a280-23d183d4a1e7",
+        "last_action": null,
+        "task": 1301,
+        "project": 10,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "13ea8800-S0032386113009889_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "However, it is noteworthy that previous modelling work has required the volume fraction of debonded silica particles to be measured from the fracture surfaces but in the present paper a new and more fundamental approach has been proposed."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:44:41.541328Z",
+    "updated_at": "2023-07-20T18:23:51.320740Z",
+    "inner_id": 3,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 10,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1302,
+    "annotations": [{
+        "id": 629,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Coordination"]
+                ]
+            },
+            "id": "0yvI1mN92h",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["The clause uses \"hence\" to connect ideas, while the previous clause used \"once\" as the conjunction. This makes the logical flow slightly disjointed."]
+            },
+            "id": "YRLnupeINA",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-20T18:31:17.084408Z",
+        "updated_at": "2023-07-20T18:31:17.084408Z",
+        "draft_created_at": "2023-07-20T18:25:37.553022Z",
+        "lead_time": 444.776,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "53265cfd-471c-484a-ae14-70ac752f9582",
+        "last_action": null,
+        "task": 1302,
+        "project": 10,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "13ea8800-S0032386113009889_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Here finite-element modelling has demonstrated that once one silica nanoparticle debonds then its nearest neighbours are shielded from the applied stress field, and hence may not debond."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:44:41.541328Z",
+    "updated_at": "2023-07-20T18:31:17.195045Z",
+    "inner_id": 4,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 10,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1303,
+    "annotations": [{
+        "id": 630,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "uqB3OtEjYV",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["Although there is an interruption it is not long as so can be disregarded."]
+            },
+            "id": "YyHDePKoLF",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-20T18:33:50.267509Z",
+        "updated_at": "2023-07-20T18:33:50.267509Z",
+        "draft_created_at": "2023-07-20T18:32:41.133541Z",
+        "lead_time": 152.136,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "3ea97e4e-f400-49e8-b97d-a207c02346ca",
+        "last_action": null,
+        "task": 1303,
+        "project": 10,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "13ea8800-S0032386113009889_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Statistical analysis showed that, for a good, i.e. random, dispersion of nanoparticles, each nanoparticle has six nearest neighbours, so only one in seven particles would be predicted to debond."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:44:41.541328Z",
+    "updated_at": "2023-07-20T18:33:50.378193Z",
+    "inner_id": 5,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 10,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1304,
+    "annotations": [{
+        "id": 631,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Sprawling Ending"]
+                ]
+            },
+            "id": "R4H-MRVnlA",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["The ending does have multiple lengthy clauses and phrases tacked on the end that make it hard to read"]
+            },
+            "id": "JxDIeDr6dv",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-20T18:37:29.518285Z",
+        "updated_at": "2023-07-20T18:37:29.518285Z",
+        "draft_created_at": "2023-07-20T18:36:43.499009Z",
+        "lead_time": 218.514,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "67a7437a-4c62-4ef9-a40d-6bd396dd4d31",
+        "last_action": null,
+        "task": 1304,
+        "project": 10,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "13ea8800-S0032386113009889_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "This approach therefore predicts that only 14.3% of the nanoparticles present will debond, and this value is in excellent agreement with the value of 10-15% of those nanoparticles present debonding which was recorded via direct observations of the fracture surfaces."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:44:41.541328Z",
+    "updated_at": "2023-07-20T18:37:29.628003Z",
+    "inner_id": 6,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 10,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1305,
+    "annotations": [{
+        "id": 632,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "UoWverAb8p",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["Subject is 13 words long."]
+            },
+            "id": "-n3b7ioPwb",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-20T18:40:06.097942Z",
+        "updated_at": "2023-07-20T18:40:06.097942Z",
+        "draft_created_at": "2023-07-20T18:38:14.760746Z",
+        "lead_time": 155.548,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ff3f221b-f5af-4d45-9359-6c427d23af12",
+        "last_action": null,
+        "task": 1305,
+        "project": 10,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "13ea8800-S0032386113009889_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Further, this value of about 15% of silica nanoparticles particles present debonding has also been noted in other published studies, but has never been previously explained."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:44:41.541328Z",
+    "updated_at": "2023-07-20T18:40:06.208453Z",
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 10,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1306,
+    "annotations": [{
+        "id": 633,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "14SjhXHiEQ",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["Although the sentence is long, it is simple and doesn't include a dependent clause."]
+            },
+            "id": "1kdGw0nNGR",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-20T18:41:40.505762Z",
+        "updated_at": "2023-07-20T18:42:05.466429Z",
+        "draft_created_at": "2023-07-20T18:40:44.296074Z",
+        "lead_time": 113.15,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "579a96b8-55d8-4220-afdf-d4856a48b97a",
+        "last_action": null,
+        "task": 1306,
+        "project": 10,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "13ea8800-S0032386113009889_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The predictions from the modelling studies of the toughness of the various epoxy polymers containing the silica nanoparticles were compared with the measured fracture energies and the agreement was found to be good."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:44:41.541328Z",
+    "updated_at": "2023-07-20T18:42:05.576219Z",
+    "inner_id": 8,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 10,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1307,
+    "annotations": [{
+        "id": 634,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "HXrT_zS6I5",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["Although the sentence is long, it is simple and has no dependent clause."]
+            },
+            "id": "WsvCiRyPdv",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-20T18:42:54.105893Z",
+        "updated_at": "2023-07-20T18:42:54.106111Z",
+        "draft_created_at": "2023-07-20T18:42:39.756015Z",
+        "lead_time": 46.267,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "4f41a199-f14d-4852-9ebf-2ab970836860",
+        "last_action": null,
+        "task": 1307,
+        "project": 10,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "13ea8800-S0032386113009889_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Their insulating properties, good temperature resistance and ease of processing also allow epoxy polymers to be used extensively in the electronics industry for applications in printed circuit boards and encapsulated electrical components [1]."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:44:41.541328Z",
+    "updated_at": "2023-07-20T18:42:54.216299Z",
+    "inner_id": 9,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 10,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1308,
+    "annotations": [{
+        "id": 635,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "IEECIjg0Xo",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["Although the sentence is long, it is simple and has no dependent clause."]
+            },
+            "id": "LdIgEoIyrv",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-20T18:44:58.629773Z",
+        "updated_at": "2023-07-20T18:44:58.629773Z",
+        "draft_created_at": "2023-07-20T18:43:38.890782Z",
+        "lead_time": 123.908,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "b3e339ce-0d73-40c5-ba72-b279895cf0ee",
+        "last_action": null,
+        "task": 1308,
+        "project": 10,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "13ea8800-S0032386113009889_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Furthermore, the use of adhesive and composite materials based on epoxy polymers is widespread in the aerospace, automobile and wind-energy industries due to their structural efficiency [2,3]."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:44:41.541328Z",
+    "updated_at": "2023-07-20T18:44:58.740887Z",
+    "inner_id": 10,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 10,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1309,
+    "annotations": [{
+        "id": 636,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "xO3ln4Bq1q",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-20T18:46:19.432898Z",
+        "updated_at": "2023-07-20T18:46:19.432898Z",
+        "draft_created_at": null,
+        "lead_time": 80.087,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "06b75e37-56c5-4598-a2bd-793cc21b751b",
+        "last_action": null,
+        "task": 1309,
+        "project": 10,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "13ea8800-S0032386113009889_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "However, their high cross-link density causes them to be relatively brittle polymers, and this limits their application as structural materials, as they have a poor resistance to the initiation and growth of cracks."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:44:41.541328Z",
+    "updated_at": "2023-07-20T18:46:19.542608Z",
+    "inner_id": 11,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 10,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1310,
+    "annotations": [{
+        "id": 637,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "XuOqxV3mOY",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-20T18:47:53.028646Z",
+        "updated_at": "2023-07-20T18:47:53.028646Z",
+        "draft_created_at": null,
+        "lead_time": 92.545,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "de1a11fc-80a9-4547-b038-b92f18515461",
+        "last_action": null,
+        "task": 1310,
+        "project": 10,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "13ea8800-S0032386113009889_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The addition of silica nanoparticles has been shown to improve these properties without adversely affecting the thermo-mechanical properties of the epoxy polymer [4-8]."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:44:41.541328Z",
+    "updated_at": "2023-07-20T18:47:53.139257Z",
+    "inner_id": 12,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 10,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1311,
+    "annotations": [{
+        "id": 638,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Sprawling Ending"]
+                ]
+            },
+            "id": "wA-OBAxn3v",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-20T18:49:35.656412Z",
+        "updated_at": "2023-07-20T18:49:35.656412Z",
+        "draft_created_at": "2023-07-20T18:48:23.718272Z",
+        "lead_time": 102.025,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "8f596832-c86f-4835-b0f0-835208e087a9",
+        "last_action": null,
+        "task": 1311,
+        "project": 10,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "13ea8800-S0032386113009889_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Another advantage [5,6,8-10] is that due to their very small size, and hence large number, then a relatively low volume fraction of such nanoparticles can induce relatively extensive toughening of the epoxy polymer."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:44:41.541328Z",
+    "updated_at": "2023-07-20T18:49:35.751012Z",
+    "inner_id": 13,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 10,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1312,
+    "annotations": [{
+        "id": 639,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Sprawling Ending"],
+                    ["Shapeless", "Coordination"]
+                ]
+            },
+            "id": "H--qzvC6fj",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["\"they\" in the last dependent clause has an unclear reference which is leading to the coordination issue. The ending of the sentence also contains multiple lengthy clauses that contribute the sprawling ending issue."]
+            },
+            "id": "qyq-yrYNE_",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-20T18:52:34.726716Z",
+        "updated_at": "2023-07-20T18:52:34.726716Z",
+        "draft_created_at": "2023-07-20T18:50:38.895625Z",
+        "lead_time": 178.383,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "dc7c52c5-7429-453c-95c1-325b303e22ff",
+        "last_action": null,
+        "task": 1312,
+        "project": 10,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "13ea8800-S0032386113009889_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Furthermore, the particles are sufficiently small such that when resin transfer moulding manufacturing processes are employed they are not filtered-out of the matrix by the fibre preforms when added to the matrices for fibre-reinforced composite materials [7,9]; where they improve both the fracture and fatigue resistance of the composite material."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:44:41.541328Z",
+    "updated_at": "2023-07-20T18:52:34.836451Z",
+    "inner_id": 14,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 10,
+    "updated_by": 2,
+    "comment_authors": []
+}]

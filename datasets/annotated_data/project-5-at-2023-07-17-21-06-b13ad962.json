@@ -1,0 +1,4165 @@
+[{
+    "id": 773,
+    "annotations": [{
+        "id": 152,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "alkCuMb8te",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:05:07.499529Z",
+        "updated_at": "2023-07-09T18:05:07.499529Z",
+        "draft_created_at": null,
+        "lead_time": 11.024,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "fa38f428-9515-4c1e-ac50-1a837b11a61a",
+        "last_action": null,
+        "task": 773,
+        "project": 5,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Investigating the feasibility of scale up and automation of human induced pluripotent stem cells cultured in aggregates in feeder free conditions"
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T18:05:07.561846Z",
+    "inner_id": 1,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 774,
+    "annotations": [{
+        "id": 153,
+        "completed_by": 3,
+        "result": [],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:09:48.356627Z",
+        "updated_at": "2023-07-09T20:41:48.554936Z",
+        "draft_created_at": null,
+        "lead_time": 732.778,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "81df765d-a2d2-4d23-ae5b-e5f7e0f89349",
+        "last_action": null,
+        "task": 774,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The transfer of a laboratory process into a manufacturing facility is one of the most critical steps required for the large scale production of cell-based therapy products."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T20:41:48.616414Z",
+    "inner_id": 2,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 775,
+    "annotations": [{
+        "id": 154,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "DrKWv0rVzp",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:14:34.827097Z",
+        "updated_at": "2023-07-09T18:14:34.827097Z",
+        "draft_created_at": "2023-07-09T18:12:33.390554Z",
+        "lead_time": 242.286,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "71a67b26-35ee-4108-8dab-0c45ea2d327b",
+        "last_action": null,
+        "task": 775,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "This study describes the first published protocol for scalable automated expansion of human induced pluripotent stem cell lines growing in aggregates in feeder-free and chemically defined medium."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T18:14:34.896854Z",
+    "inner_id": 3,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 776,
+    "annotations": [{
+        "id": 155,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Coordination"]
+                ]
+            },
+            "id": "uCVjeLKNGH",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:17:52.985257Z",
+        "updated_at": "2023-07-09T18:17:52.985257Z",
+        "draft_created_at": "2023-07-09T18:17:44.085384Z",
+        "lead_time": 197.38,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "cef06138-62fa-4d4b-a3a8-30155197b956",
+        "last_action": null,
+        "task": 776,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Cells were successfully transferred between different sites representative of research and manufacturing settings; and passaged manually and using the CompacT SelecT automation platform."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T18:17:53.038704Z",
+    "inner_id": 4,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 777,
+    "annotations": [{
+        "id": 156,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "NFB05IlCL8",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:20:00.650394Z",
+        "updated_at": "2023-07-09T20:30:26.056792Z",
+        "draft_created_at": "2023-07-09T18:18:06.900021Z",
+        "lead_time": 281.339,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "602a8160-ba31-4e5f-b2e6-017026515f6a",
+        "last_action": null,
+        "task": 777,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Modified protocols were developed for the automated system and the management of cells aggregates (clumps) was identified as the critical step."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T20:30:26.135962Z",
+    "inner_id": 5,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 778,
+    "annotations": [{
+        "id": 157,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "o5QD8DYjCZ",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:20:16.444487Z",
+        "updated_at": "2023-07-09T18:20:16.444487Z",
+        "draft_created_at": "2023-07-09T18:20:13.982695Z",
+        "lead_time": 14.998,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ffc5a3b9-c1f7-46d7-af2b-fb6347f01b38",
+        "last_action": null,
+        "task": 778,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Cellular morphology, pluripotency gene expression and differentiation into the three germ layers have been used compare the outcomes of manual and automated processes."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T18:20:16.490891Z",
+    "inner_id": 6,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 779,
+    "annotations": [{
+        "id": 158,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "WC7JtjMA6K",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:20:28.336664Z",
+        "updated_at": "2023-07-09T18:20:28.336664Z",
+        "draft_created_at": null,
+        "lead_time": 11.243,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "d1b7023e-fa5e-4941-8454-8bf560bc09d6",
+        "last_action": null,
+        "task": 779,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Human induced pluripotent stem cells (hiPSC) are generated from reprogrammed fibroblasts by overexpression of pluripotency factors (Takahashi et al., 2007; Yu et al., 2007)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T18:20:28.394958Z",
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 780,
+    "annotations": [{
+        "id": 159,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "npE1YCnQsq",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:20:51.757199Z",
+        "updated_at": "2023-07-09T18:20:51.757199Z",
+        "draft_created_at": null,
+        "lead_time": 22.761,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "15f1bf01-f237-4973-bd91-9ede0742e61b",
+        "last_action": null,
+        "task": 780,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "These pluripotent cells have the unique characteristic to self renew in vitro while maintaining the capacity to differentiate into a broad number of cell types."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T18:20:51.818670Z",
+    "inner_id": 8,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 781,
+    "annotations": [{
+        "id": 160,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "oGH8rqE3-A",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:21:37.213874Z",
+        "updated_at": "2023-07-09T18:21:37.213874Z",
+        "draft_created_at": "2023-07-09T18:21:32.191222Z",
+        "lead_time": 44.605,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "8f4e59eb-3889-4569-b1fd-d94e80e55423",
+        "last_action": null,
+        "task": 781,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Furthermore, the possibility of generating hiPSC from somatic cells using epigenetic reprogramming represents a unique opportunity for personalized regenerative medicine."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T18:21:37.269561Z",
+    "inner_id": 9,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 782,
+    "annotations": [{
+        "id": 162,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Sprawling Ending"]
+                ]
+            },
+            "id": "uf-AG63sV8",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:24:25.736726Z",
+        "updated_at": "2023-07-09T18:24:25.736726Z",
+        "draft_created_at": "2023-07-09T18:23:31.280042Z",
+        "lead_time": 167.719,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "8994e53f-1fd1-4708-98a4-17c0e7ca8388",
+        "last_action": null,
+        "task": 782,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Indeed, these pluripotent stem cells could enable the production of patient specific cell types that are fully immuno-compatible with the original donor thereby avoiding the need for immune suppressive treatment after cell transplantation."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T18:24:25.791486Z",
+    "inner_id": 10,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 783,
+    "annotations": [{
+        "id": 164,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "v5iiPyD7Q7",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:24:53.791699Z",
+        "updated_at": "2023-07-09T18:24:53.791699Z",
+        "draft_created_at": "2023-07-09T18:24:43.740063Z",
+        "lead_time": 27.358,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "e62064b2-3780-4b65-b1c0-8bdad8ca9cbc",
+        "last_action": null,
+        "task": 783,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Nevertheless, the practical, financial and temporal obstacles in producing and validating personalized clinical-grade hiPSC and their differentiated progeny will almost certainly limit the feasibility of this approach."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T18:24:53.845235Z",
+    "inner_id": 11,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 784,
+    "annotations": [{
+        "id": 166,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "IfO5-zo4r1",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:25:27.283027Z",
+        "updated_at": "2023-07-09T18:25:27.283027Z",
+        "draft_created_at": "2023-07-09T18:25:08.012629Z",
+        "lead_time": 32.703,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "133818d4-67e0-4359-9c42-cc89eea1c80e",
+        "last_action": null,
+        "task": 784,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The creation of clinical banks of hiPSC from donors that can provide HLA matching to recipients is proposed as a strategy to attenuate the host immune response to transplanted tissue (Lin et al., 2009; Taylor et al., 2005, 2011)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T18:25:27.344405Z",
+    "inner_id": 12,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 785,
+    "annotations": [{
+        "id": 244,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "l5PFjGkUob",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T20:47:09.015392Z",
+        "updated_at": "2023-07-09T20:47:12.023567Z",
+        "draft_created_at": "2023-07-09T20:46:43.199807Z",
+        "lead_time": 26.255,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "6ed91300-3b0b-4567-9c1f-5f7b6c21f5fe",
+        "last_action": null,
+        "task": 785,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Similarly, hiPSC can be used to develop in vitro disease models, allowing large scale studies otherwise restricted due to the limited availability of primary cells and biopsy material."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T20:47:12.076982Z",
+    "inner_id": 13,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 786,
+    "annotations": [{
+        "id": 168,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "IZ-h-40KU9",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:30:10.871690Z",
+        "updated_at": "2023-07-09T18:30:10.871690Z",
+        "draft_created_at": null,
+        "lead_time": 13.913,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "4e635924-2e9c-452a-8e5c-dfbfeed24d7f",
+        "last_action": null,
+        "task": 786,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "This application has been proven useful to model neurodegenerative diseases, cardiac syndromes and metabolic disorders in vitro for basic studies and drug screening (Ebert et al., 2009; Moretti et al., 2010; Rashid et al., 2010)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T18:30:10.935279Z",
+    "inner_id": 14,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 787,
+    "annotations": [{
+        "id": 169,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "AYdXIrjQzG",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:30:23.862356Z",
+        "updated_at": "2023-07-09T18:30:23.862356Z",
+        "draft_created_at": null,
+        "lead_time": 12.282,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "736041b2-a862-445c-be4d-a893a686925a",
+        "last_action": null,
+        "task": 787,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Successful automated protocols have been developed for the expansion of human mesenchymal stem cells (Thomas et al., 2007) and human embryonic stem cells (hESC) (Thomas et al., 2009b)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T18:30:23.926195Z",
+    "inner_id": 15,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 788,
+    "annotations": [{
+        "id": 170,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "6w1vekVTnJ",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:37:14.632046Z",
+        "updated_at": "2023-07-09T18:37:14.632046Z",
+        "draft_created_at": null,
+        "lead_time": 399.321,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "4f186057-4fb3-45bd-9aa4-31057b216ebb",
+        "last_action": null,
+        "task": 788,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Scale up automation enables scale out for conventional formats with predictable process variation and quality outcome by removing manual interventions."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T18:37:14.680118Z",
+    "inner_id": 16,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 789,
+    "annotations": [{
+        "id": 242,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"],
+                    ["Shapeless", "Coordination"]
+                ]
+            },
+            "id": "AmMLpkPg0K",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T20:44:41.485921Z",
+        "updated_at": "2023-07-09T20:45:48.844450Z",
+        "draft_created_at": "2023-07-09T20:43:04.978641Z",
+        "lead_time": 107.93799999999999,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "620ccc56-0dae-4049-a2f0-6fe257933bb2",
+        "last_action": null,
+        "task": 789,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Furthermore, large scale production of hiPSC for clinical applications would require expansion in culture using clinically compatible conditions in a reproducible way without loss of function and in sufficient numbers to create reproducible and cost effective therapeutic products."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T20:45:48.905998Z",
+    "inner_id": 17,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 790,
+    "annotations": [{
+        "id": 174,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "qw9Qn9KkMP",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:47:34.380116Z",
+        "updated_at": "2023-07-09T18:47:34.380116Z",
+        "draft_created_at": "2023-07-09T18:47:16.135056Z",
+        "lead_time": 38.516,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "8f5fefbc-e939-49f1-aff2-9efd86913354",
+        "last_action": null,
+        "task": 790,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Finally, passaging represent the main difficulty to develop an automation platform to expand hiPSC since these cells must be propagated as aggregates\/clumps to maintain their integrity and quality (Beers et al., 2012)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T18:47:34.447363Z",
+    "inner_id": 18,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 791,
+    "annotations": [{
+        "id": 243,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "1QcWWiKHVI",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T20:46:09.792247Z",
+        "updated_at": "2023-07-09T20:46:09.792247Z",
+        "draft_created_at": "2023-07-09T20:46:01.829408Z",
+        "lead_time": 6.65,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "1e6a6441-5b6a-4195-aa39-1af08d77b2b9",
+        "last_action": null,
+        "task": 791,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Indeed, evidence indicates that hiPSC grown and harvested as single cells are more likely to acquire genetic anomalies (Amps et al., 2011)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T20:46:09.843799Z",
+    "inner_id": 19,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 792,
+    "annotations": [{
+        "id": 176,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "xm77DXFsxc",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:51:43.425983Z",
+        "updated_at": "2023-07-09T18:51:43.425983Z",
+        "draft_created_at": "2023-07-09T18:51:39.460537Z",
+        "lead_time": 27.349,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "01641163-fe0c-470b-9909-9c858e0e0ffc",
+        "last_action": null,
+        "task": 792,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Here, we have addressed all these issues by transferring an established manual method to grow hiPSC in feeder free and chemically defined medium onto an automated platform compatible with large scale production."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T18:51:43.485150Z",
+    "inner_id": 20,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 793,
+    "annotations": [{
+        "id": 177,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "iJS1FfFP2E",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:53:57.844274Z",
+        "updated_at": "2023-07-09T18:53:57.844274Z",
+        "draft_created_at": "2023-07-09T18:52:36.161876Z",
+        "lead_time": 132.465,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "8ed860c6-c2fa-4475-b4eb-40325c04939d",
+        "last_action": null,
+        "task": 793,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "This study shows for the first time that large scale automated production of hiPSC is possible without the need of single cell dissociation thereby respecting their natural properties."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T18:53:57.894672Z",
+    "inner_id": 21,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 794,
+    "annotations": [{
+        "id": 179,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "Atl-JuMWqS",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:54:10.659068Z",
+        "updated_at": "2023-07-09T18:54:10.659068Z",
+        "draft_created_at": null,
+        "lead_time": 12.069,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "11d632c8-14dc-4079-b622-d5e6e2fcf862",
+        "last_action": null,
+        "task": 794,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "hiPSC were cultured in feeder-free conditions using chemically defined medium (CDM-PVA) with Activin A (10ngml-1, R&D System) and FGF2 (12ngml-1, R&D Systems) - iPSC medium, as previously described (Brons et al., 2007)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T18:54:10.716614Z",
+    "inner_id": 22,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 795,
+    "annotations": [{
+        "id": 180,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "qSkzPbjaFl",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:54:28.395401Z",
+        "updated_at": "2023-07-09T18:54:28.395401Z",
+        "draft_created_at": null,
+        "lead_time": 17.018,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "4df2c13b-f548-4546-bc7b-c41bd008d0e2",
+        "last_action": null,
+        "task": 795,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The composition of CDM-PVA was 50% IMDM (Gibco) added to 50% F12+GlutaMax-1 (Gibco), supplemented with 1% lipid concentrate (Gibco), 7μgml-1 of insulin (Roche), 15μgml-1 of transferrin (Roche), 450μM of monothioglycerol (Sigma) and 1mgml-1 of Polyvinyl Alcohol (Sigma)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T18:54:28.449219Z",
+    "inner_id": 23,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 796,
+    "annotations": [{
+        "id": 181,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "u3NYoYmfZo",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:54:50.243058Z",
+        "updated_at": "2023-07-09T18:54:50.243058Z",
+        "draft_created_at": "2023-07-09T18:54:45.284749Z",
+        "lead_time": 20.923,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "1d55e777-d893-401f-80be-953a05f94dd1",
+        "last_action": null,
+        "task": 796,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Cells were harvested after 6 or 7 days of culture (dependent on visually confirmed confluence) using 1mgml-1 collagenase IV (Gibco) and 1mgml-1 dispase (Gibco)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T18:54:50.296981Z",
+    "inner_id": 24,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 797,
+    "annotations": [{
+        "id": 182,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "GjsHnfBOuy",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:59:09.306893Z",
+        "updated_at": "2023-07-09T18:59:09.306893Z",
+        "draft_created_at": "2023-07-09T18:57:59.328637Z",
+        "lead_time": 258.281,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "cfceab9d-2b70-4f46-9b79-6bcb7bf48e48",
+        "last_action": null,
+        "task": 797,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "A second wash step was performed before colonies were gently broken down into smaller cell aggregates (clumps) by pipetting and allowed to settle under gravity."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T18:59:09.360426Z",
+    "inner_id": 25,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 798,
+    "annotations": [{
+        "id": 183,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "XSf8GQLcV5",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:59:24.078089Z",
+        "updated_at": "2023-07-09T18:59:24.078089Z",
+        "draft_created_at": null,
+        "lead_time": 14.09,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "86b5888c-6e54-4708-ab03-4214da7db4f7",
+        "last_action": null,
+        "task": 798,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "It must be noted here that the aim was only to reduce the size of the aggregates and not to reduce them to single cells."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T18:59:24.161891Z",
+    "inner_id": 26,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 799,
+    "annotations": [{
+        "id": 184,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "CingbNkbGU",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:59:37.181963Z",
+        "updated_at": "2023-07-09T18:59:37.181963Z",
+        "draft_created_at": null,
+        "lead_time": 12.254,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "c36686be-b1ae-432c-9167-6bc3e6390ee5",
+        "last_action": null,
+        "task": 799,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Cell clumps were plated at 1:10 split ratio to 0.1% porcine gelatin plates (Sigma), pre-coated with mouse embryonic fibroblast medium containing 10% FBS (Biosera) for 24h at 37°C and 5% (v\/v) CO2."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T18:59:37.253486Z",
+    "inner_id": 27,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 800,
+    "annotations": [{
+        "id": 185,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "MtfKGqLNVT",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:01:50.859624Z",
+        "updated_at": "2023-07-09T19:01:50.859624Z",
+        "draft_created_at": "2023-07-09T19:01:50.537697Z",
+        "lead_time": 133.048,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "caa192b7-cdbf-4214-9553-de759045a40c",
+        "last_action": null,
+        "task": 800,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The CompacT SelecT (The Automation Partnership, UK) is a fully automated cell culture platform which incorporates a small six-axis anthropomorphic robotic arm (Cell Therapy Manufacturing Facility, 2011) that can access 90 T175 flask and plate incubators, controlled at 37°C under an atmosphere of 5% (v\/v) CO2 and humidity."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:01:50.918739Z",
+    "inner_id": 28,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 801,
+    "annotations": [{
+        "id": 186,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "erl-Xgra3k",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:03:15.979164Z",
+        "updated_at": "2023-07-09T19:03:15.979164Z",
+        "draft_created_at": "2023-07-09T19:02:43.296971Z",
+        "lead_time": 84.363,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "352bb0fb-ae7c-4b0d-a9df-850575e346b1",
+        "last_action": null,
+        "task": 801,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The system allows the automation of seeding, feeding and other cell culture processes in order to maintain cell lines in standard T175 cell culture flasks."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:03:16.040847Z",
+    "inner_id": 29,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 802,
+    "annotations": [{
+        "id": 187,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "tMb5DPI185",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:03:41.576705Z",
+        "updated_at": "2023-07-09T19:03:41.576705Z",
+        "draft_created_at": "2023-07-09T19:03:35.747977Z",
+        "lead_time": 24.84,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "7620885c-b531-4250-95f0-9cd5809d4f09",
+        "last_action": null,
+        "task": 802,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Two flask decappers and flask holders, automated medium pumping and an automatic cell counter (Cedex®, Roche Innovatis AG, Germany) are integrated within a high-efficiency particulate air (HEPA) filtered cabinet to ensure sterility."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:03:41.621608Z",
+    "inner_id": 30,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 803,
+    "annotations": [{
+        "id": 188,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "FrSfjwRnm8",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:04:50.989072Z",
+        "updated_at": "2023-07-09T19:04:50.989072Z",
+        "draft_created_at": "2023-07-09T19:04:18.660727Z",
+        "lead_time": 68.523,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "5046aaa9-a1cd-450a-829b-5b26a031db58",
+        "last_action": null,
+        "task": 803,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "At Loughborough University, the CompacT SelecT has been successfully used to culture many different cell types including human mesenchymal cells and human embryonic stem cells (hESC) (Thomas et al., 2007, 2009a,b)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:04:51.063872Z",
+    "inner_id": 31,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 804,
+    "annotations": [{
+        "id": 189,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "FsjYFqIPvu",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:05:18.741366Z",
+        "updated_at": "2023-07-09T19:05:18.741366Z",
+        "draft_created_at": null,
+        "lead_time": 26.959,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "32aab633-e85c-4785-b0eb-69a2f635183c",
+        "last_action": null,
+        "task": 804,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The CompacT SelecT has also been shown to be successful at preventing contamination when the GMP version of the CompacT SelecT passed the \"sterile fill\" runs (Chandra et al., 2012)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:05:18.800857Z",
+    "inner_id": 32,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 805,
+    "annotations": [{
+        "id": 190,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "Swu32_GkOI",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:05:32.199453Z",
+        "updated_at": "2023-07-09T19:05:32.199453Z",
+        "draft_created_at": null,
+        "lead_time": 12.802,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "dc74978c-f2f6-45a2-a163-cd435ae19504",
+        "last_action": null,
+        "task": 805,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The CompacT SelecT allows activities during cell culture such as seeding, media changes and measurement cells in a controlled environment (Thomas, 2012)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:05:32.247200Z",
+    "inner_id": 33,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 806,
+    "annotations": [{
+        "id": 191,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "6sW4jOmqxW",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:06:57.737769Z",
+        "updated_at": "2023-07-09T19:06:57.737769Z",
+        "draft_created_at": null,
+        "lead_time": 84.856,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "67fb6933-70cb-40cf-82bd-a368644c1731",
+        "last_action": null,
+        "task": 806,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [{
+        "id": 48,
+        "user": "a.areebabubaker@gmail.com",
+        "created_username": "a.areebabubaker@gmail.com, 3",
+        "created_ago": "1 week, 1 day",
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "6sW4jOmqxW",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "lead_time": 84.467,
+        "was_postponed": false,
+        "created_at": "2023-07-09T19:06:57.455685Z",
+        "updated_at": "2023-07-09T19:06:57.455685Z",
+        "task": 806,
+        "annotation": null
+    }],
+    "predictions": [],
+    "data": {
+        "text": "Thus this platform can be used to expand and differentiate batches of cells to a tighter specification than manual cell culture (Liu et al., 2010)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:06:57.803722Z",
+    "inner_id": 34,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 807,
+    "annotations": [{
+        "id": 192,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "p-P6HmnP5F",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:08:20.714539Z",
+        "updated_at": "2023-07-09T19:08:20.714539Z",
+        "draft_created_at": "2023-07-09T19:08:17.126885Z",
+        "lead_time": 82.266,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "e8b9ae31-6451-4e91-ba4b-21b10e07b5a3",
+        "last_action": null,
+        "task": 807,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The CompacT SelecT is a preferred platform for development process friendly method of automating the culture of cells that grow in adherent conditions."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:08:20.761977Z",
+    "inner_id": 35,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 808,
+    "annotations": [{
+        "id": 193,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "qZj6wn2Yyx",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:10:30.964585Z",
+        "updated_at": "2023-07-09T19:10:30.964585Z",
+        "draft_created_at": null,
+        "lead_time": 129.144,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "9aae2399-eaf9-4460-bc3c-195fd87b98c4",
+        "last_action": null,
+        "task": 808,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "For many manual cell culture protocols, there is a centrifugation step to concentrate the cell suspension and allow for cells to be washed."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:10:31.020195Z",
+    "inner_id": 36,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 809,
+    "annotations": [{
+        "id": 194,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Coordination"]
+                ]
+            },
+            "id": "iZb1S3YShs",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:12:34.764732Z",
+        "updated_at": "2023-07-09T19:12:34.764732Z",
+        "draft_created_at": "2023-07-09T19:11:36.185052Z",
+        "lead_time": 6.176,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "1577012b-1981-4fd8-abeb-407d433950f4",
+        "last_action": null,
+        "task": 809,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In order to transfer the culture protocol to the CompacT SelecT it was necessary to scale up from a T25 to a T175 flask, media volumes were scaled proportionally to flask surface area, and work within the restricted set of plasticware and the allowable positioning of the plasticware within the automated system (Fig. 1)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:12:34.825649Z",
+    "inner_id": 37,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 810,
+    "annotations": [{
+        "id": 195,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "iDUBrvwZ1w",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:12:44.486151Z",
+        "updated_at": "2023-07-09T19:12:44.486151Z",
+        "draft_created_at": null,
+        "lead_time": 8.738,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "292136ac-dc3e-4ce2-9f80-6c1c4353f105",
+        "last_action": null,
+        "task": 810,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Operating conditions of the manual culture process were followed as closely as possible (temperature, timing, splitting ratio, mixing, volumes), however a number of detailed changes had to be made to the manual protocol as are discussed later in the manuscript."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:12:44.539399Z",
+    "inner_id": 38,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 811,
+    "annotations": [{
+        "id": 196,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "3jnw3L0ml0",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:13:18.422691Z",
+        "updated_at": "2023-07-09T19:13:18.427501Z",
+        "draft_created_at": "2023-07-09T19:13:01.300280Z",
+        "lead_time": 33.193,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "292e3317-8450-462c-b4c1-9b3c8b30a669",
+        "last_action": null,
+        "task": 811,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "hiPSC were plated into gelatin plates pre coated with 10% FBS and maintained for 24h in iPSC medium before inducing differentiation into the three germ layers: endoderm, mesoderm and neuroectoderm as described previously (Vallier et al., 2009)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:13:18.475590Z",
+    "inner_id": 39,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 812,
+    "annotations": [{
+        "id": 198,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "7wUzpzi3YD",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:14:40.462794Z",
+        "updated_at": "2023-07-09T19:14:40.462794Z",
+        "draft_created_at": null,
+        "lead_time": 81.24,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "9564134b-619e-4c3e-a570-1b624d0d5ff6",
+        "last_action": null,
+        "task": 812,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Differentiation was induced by supplementing CDM-PVA with Activin (R&D System), bFGF (R&D System), BMP4 (R&D System), LY294002 (Promega), SB431542 (Tocris) and CHIR99021 (Stemgent) at different times and concentrations (Supplementary Online Material)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:14:40.525545Z",
+    "inner_id": 40,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 813,
+    "annotations": [{
+        "id": 199,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Coordination"]
+                ]
+            },
+            "id": "mR7A6R9vs8",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:15:23.151204Z",
+        "updated_at": "2023-07-09T19:15:23.151204Z",
+        "draft_created_at": "2023-07-09T19:15:17.681681Z",
+        "lead_time": 41.923,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "053633d7-1461-468c-a699-155f665dce00",
+        "last_action": null,
+        "task": 813,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Cells were incubated 1h at room temperature in PBS containing 10% donkey or goat serum (depending on antibody, Serotec), for intra-cellular epitopes 0.1% Triton X-100 (Sigma) was added to the blocking solution."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:15:23.202543Z",
+    "inner_id": 41,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 814,
+    "annotations": [{
+        "id": 200,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "4yb2KijSgv",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:21:58.095582Z",
+        "updated_at": "2023-07-09T19:21:58.095582Z",
+        "draft_created_at": "2023-07-09T19:21:55.455164Z",
+        "lead_time": 394.157,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "cdf7f2bd-418d-4e7f-bcf8-bd3d5e27adaa",
+        "last_action": null,
+        "task": 814,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Dilutions were as follows: TRA-1-60 (Santa Cruz, 1:100), OCT4 (Santa Cruz, 1:100), NANOG (R&D Systems, 1:100), and anti-SOX2 (R&D Systems, 1:100), SOX17 (R&D Systems, 1:200), EOMES (Abcam, 1:100), BRAC (R&D Systems, 1:100), MIXL1 (Abcam, 1:100), Nestin (Abcam, 1:100)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:21:58.145646Z",
+    "inner_id": 42,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 815,
+    "annotations": [{
+        "id": 202,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "jGUqyR2YGD",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:23:13.178903Z",
+        "updated_at": "2023-07-09T19:23:13.178903Z",
+        "draft_created_at": "2023-07-09T19:23:11.380529Z",
+        "lead_time": 74.39,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "c75c41b4-37f9-424c-a0f5-4810e981a7f5",
+        "last_action": null,
+        "task": 815,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Cells were washed 3 times in PBS and incubated with secondary antibodies, Alexa Fluor 568 (Invitrogen) and Alexa Fluor 488 (Invitrogen), for 2h at room temperature."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:23:13.235883Z",
+    "inner_id": 43,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 816,
+    "annotations": [{
+        "id": 204,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "UHdvnbsLTV",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:23:35.419040Z",
+        "updated_at": "2023-07-09T19:23:35.419040Z",
+        "draft_created_at": "2023-07-09T19:23:28.499527Z",
+        "lead_time": 21.557,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "8723f6dd-0661-4192-8ea6-cc9544e8c72b",
+        "last_action": null,
+        "task": 816,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "RNA and primer were denatured at 65°C for 5min and RT-PCR reaction mixtures incubated at 25°C for 10min, 42°C for 50min and 70°C for 10min."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:23:35.469662Z",
+    "inner_id": 44,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 817,
+    "annotations": [{
+        "id": 206,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "oz7Jw94lTZ",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:24:06.721137Z",
+        "updated_at": "2023-07-09T19:24:06.721137Z",
+        "draft_created_at": "2023-07-09T19:23:56.758344Z",
+        "lead_time": 30.604,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "0883668c-9886-4011-8bd4-844a8fa45ad2",
+        "last_action": null,
+        "task": 817,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "A negative control that contained only water and a positive control that contained RNA extracted from human embryonic stem cells (H9-WiCell) were also ran."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:24:06.767163Z",
+    "inner_id": 45,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 818,
+    "annotations": [{
+        "id": 208,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "tQq33npOvu",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:24:24.822486Z",
+        "updated_at": "2023-07-09T19:24:24.822486Z",
+        "draft_created_at": "2023-07-09T19:24:20.062220Z",
+        "lead_time": 17.424,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "943ec0bd-0123-4e84-b4e1-1b0e70ec6a83",
+        "last_action": null,
+        "task": 818,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "An human induced pluripotent stem cell line - BBHX8 (Vallier et al., 2009), derived from adult human fibroblasts using retroviral reprogramming with OCT4, SOX2, KLF4 and c-MYC was derived and manually maintained at the Anne McLaren Laboratory for Regenerative Medicine (LRM), University of Cambridge."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:24:24.870000Z",
+    "inner_id": 46,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 819,
+    "annotations": [{
+        "id": 209,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "c_XhjMAAnI",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:25:48.932006Z",
+        "updated_at": "2023-07-09T19:25:48.932006Z",
+        "draft_created_at": "2023-07-09T19:24:52.499760Z",
+        "lead_time": 83.361,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "19b28ed3-f2f8-4f0a-932c-8d28696a7c23",
+        "last_action": null,
+        "task": 819,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In order to develop an automation process to expand hiPSC using CompacT SelecT, the hiPSC line was transferred to the Centre for Biological Engineering (CBE), Loughborough University where it was further cultured and passaged in T25 flasks using the manual protocol established at LRM (Brons et al., 2007)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:25:48.993148Z",
+    "inner_id": 47,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 820,
+    "annotations": [{
+        "id": 211,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "mrNsVXyy5D",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:26:07.870155Z",
+        "updated_at": "2023-07-09T19:26:07.870155Z",
+        "draft_created_at": "2023-07-09T19:26:04.878005Z",
+        "lead_time": 18.267,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "c747afd5-4be9-4c0e-bfb1-d54808709502",
+        "last_action": null,
+        "task": 820,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "When transferring to T175 flasks, two major limitations of the CompacT SelecT were taken into consideration: (i) as an alternative to the use of conical tubes the T175 flask was used to wash and pellet the cell clumps by gravity."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:26:07.931276Z",
+    "inner_id": 48,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 821,
+    "annotations": [{
+        "id": 213,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "8WCEdK89Rq",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:26:16.952202Z",
+        "updated_at": "2023-07-09T19:26:16.952202Z",
+        "draft_created_at": null,
+        "lead_time": 8.387,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "fbbb9938-25cb-4a8c-9f9b-56184bc668c6",
+        "last_action": null,
+        "task": 821,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "(ii) 10ml pipettes were used instead of 1000μl tips when breaking the cell clumps to a desirable size (Fig. 2)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:26:17.010162Z",
+    "inner_id": 49,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 822,
+    "annotations": [{
+        "id": 214,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "Sh8ieXf0h6",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:27:22.328902Z",
+        "updated_at": "2023-07-09T19:27:22.328902Z",
+        "draft_created_at": "2023-07-09T19:27:19.492821Z",
+        "lead_time": 64.44,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "43007d7c-83e3-45fd-87fe-07981e87fc3c",
+        "last_action": null,
+        "task": 822,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Cells were maintained using the manual protocol in both T25 and T175 flasks to show process transfer and scale up within both facilities."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:27:22.400588Z",
+    "inner_id": 50,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 823,
+    "annotations": [{
+        "id": 215,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "19mFAOCDVJ",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:27:42.017277Z",
+        "updated_at": "2023-07-09T19:27:42.017277Z",
+        "draft_created_at": null,
+        "lead_time": 18.901,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "d85083e0-8229-426d-a792-b3c196da7448",
+        "last_action": null,
+        "task": 823,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The manual process of expanding T175 flasks was executed for three weeks to gain confidence in the protocol before cells were transferred to the CompacT SelecT."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:27:42.080262Z",
+    "inner_id": 51,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 824,
+    "annotations": [{
+        "id": 216,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "FibDiVbKa4",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:29:48.279359Z",
+        "updated_at": "2023-07-09T19:29:48.279359Z",
+        "draft_created_at": "2023-07-09T19:28:23.612938Z",
+        "lead_time": 125.57,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "b3532d4c-da4a-4bfa-9ba1-c08083baccdc",
+        "last_action": null,
+        "task": 824,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "A split ratio of 1:10 was maintained and the cell clumps broken to the appropriate size by the operator using a 10ml pipette (Table 1)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:29:48.334533Z",
+    "inner_id": 52,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 825,
+    "annotations": [{
+        "id": 217,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "P-DRD1GqT1",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:30:40.497916Z",
+        "updated_at": "2023-07-09T19:30:40.497916Z",
+        "draft_created_at": null,
+        "lead_time": 51.546,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "d1e693b4-fedb-4191-9aa5-6bca2950a637",
+        "last_action": null,
+        "task": 825,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "However it become evident that mimicking the breaking of cell clumps to the desirable size by the operator would be the most difficult step to automate."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:30:40.558461Z",
+    "inner_id": 53,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 826,
+    "annotations": [{
+        "id": 218,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "zkJJ6cNsy6",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:30:55.968742Z",
+        "updated_at": "2023-07-09T19:30:55.968742Z",
+        "draft_created_at": null,
+        "lead_time": 14.786,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "dbd0da15-a5da-4334-b278-d6b86877adeb",
+        "last_action": null,
+        "task": 826,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "To adapt the T175 manual protocol to the CompacT SelecT, four iterations of the automation protocol were written and tested in the CompacT SelecT."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:30:56.052707Z",
+    "inner_id": 54,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 827,
+    "annotations": [{
+        "id": 219,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "dXIFxNeE30",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:35:47.364928Z",
+        "updated_at": "2023-07-09T19:35:47.364928Z",
+        "draft_created_at": "2023-07-09T19:32:18.357546Z",
+        "lead_time": 290.605,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "0f1b479f-51db-449d-83c5-f324a9bd694a",
+        "last_action": null,
+        "task": 827,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The changes made in the four versions of the automated protocol were based on: (a) the time for the colonies to settle down by gravity after washing, (b) the distance of the pipette from the bottom of the flask when removing diluted enzyme solution without aspirating the cells clumps, (c) the pipetting speed and number of mixing steps required to achieve an homogeneous cell suspension of the desirable cell clump size without the presence of an undue number of single cells, and (d) the split ratio (Table 2)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:35:47.420577Z",
+    "inner_id": 55,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 828,
+    "annotations": [{
+        "id": 220,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "I3u_VV898Y",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:38:02.693099Z",
+        "updated_at": "2023-07-09T19:38:02.693099Z",
+        "draft_created_at": "2023-07-09T19:36:18.885220Z",
+        "lead_time": 134.291,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "39d962bd-a4c9-457a-b7d6-843c7fbe7bf4",
+        "last_action": null,
+        "task": 828,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "To take into account the small volumes of some reagents and to prevent inaccuracies of the dispensed volumes by a 10ml pipette or 1.6mm bore tubing, the media formulation was mixed manually."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:38:02.755239Z",
+    "inner_id": 56,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 829,
+    "annotations": [{
+        "id": 221,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Coordination"]
+                ]
+            },
+            "id": "FMD_G_tiZX",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:43:17.599870Z",
+        "updated_at": "2023-07-09T19:43:17.599870Z",
+        "draft_created_at": "2023-07-09T19:41:43.183582Z",
+        "lead_time": 314.222,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "92d21c9e-9c7f-4025-b494-296b5f0d2ff1",
+        "last_action": null,
+        "task": 829,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In the first version (A) of the automated protocol, several cell clumps were lost during the washing steps as the time for cell clumps to settle was insufficient, additionally several clumps were aspirated due to the pipette reaching close to the bottom of the flask when aspirating the enzymatic solution."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:43:17.647355Z",
+    "inner_id": 57,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 830,
+    "annotations": [{
+        "id": 222,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "XZpPg9yYrs",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:43:26.916749Z",
+        "updated_at": "2023-07-09T19:43:26.916749Z",
+        "draft_created_at": null,
+        "lead_time": 8.605,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "81049f64-fb0a-4bfd-83f6-9fbd11172af8",
+        "last_action": null,
+        "task": 830,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "This was chosen to account for any potential cell loss during the automation steps described in the above paragraph (a)-(c)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.503686Z",
+    "updated_at": "2023-07-09T19:43:26.985114Z",
+    "inner_id": 58,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 831,
+    "annotations": [{
+        "id": 223,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "6p6zgaXcwb",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:47:32.395896Z",
+        "updated_at": "2023-07-09T19:47:32.395896Z",
+        "draft_created_at": null,
+        "lead_time": 244.368,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "e6e7f3eb-45e0-422d-8de5-61d64076664a",
+        "last_action": null,
+        "task": 831,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "It proved difficult to use the CEDEX cell counter to count clumps of cells in order to passage cells based on cell count as the CEDEX could not count the clumps accurately (data not shown)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.511345Z",
+    "updated_at": "2023-07-09T19:47:32.442430Z",
+    "inner_id": 59,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 832,
+    "annotations": [{
+        "id": 224,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "aoOpEZwSdc",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:47:43.682665Z",
+        "updated_at": "2023-07-09T19:47:43.682665Z",
+        "draft_created_at": null,
+        "lead_time": 10.589,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "d49db195-fd15-4377-a338-da65c22eb937",
+        "last_action": null,
+        "task": 832,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "This would have improved process reproducibility, however the methods available for counting cell aggregates\/clump are not yet suitable to be integrated within an automation platform."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.511345Z",
+    "updated_at": "2023-07-09T19:47:43.730302Z",
+    "inner_id": 60,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 833,
+    "annotations": [{
+        "id": 225,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "A_UaK3NpFS",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:48:26.473785Z",
+        "updated_at": "2023-07-09T19:48:26.473785Z",
+        "draft_created_at": "2023-07-09T19:48:11.587802Z",
+        "lead_time": 42.128,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "71e18ded-7265-4ccb-99f1-f4ca8a331490",
+        "last_action": null,
+        "task": 833,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [{
+        "id": 71,
+        "user": "a.areebabubaker@gmail.com",
+        "created_username": "a.areebabubaker@gmail.com, 3",
+        "created_ago": "1 week, 1 day",
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "A_UaK3NpFS",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "lead_time": 41.887,
+        "was_postponed": false,
+        "created_at": "2023-07-09T19:48:26.664711Z",
+        "updated_at": "2023-07-09T19:48:26.664711Z",
+        "task": 833,
+        "annotation": null
+    }],
+    "predictions": [],
+    "data": {
+        "text": "While the robot placed the flasks gently in the incubator carousel without disturbing the cells, as soon as the carousel was rotated, cell clumps moved under centrifugal force to concentrate in parts of the flask resulting in a heterogeneous distribution of the cell clumps\/colonies in the flask; this in particular can result in the growth of differentiated colonies."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.511345Z",
+    "updated_at": "2023-07-09T19:48:26.537692Z",
+    "inner_id": 61,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 834,
+    "annotations": [{
+        "id": 226,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Coordination"]
+                ]
+            },
+            "id": "R56kyjKPP4",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:56:47.643054Z",
+        "updated_at": "2023-07-09T19:56:47.643054Z",
+        "draft_created_at": "2023-07-09T19:48:58.714120Z",
+        "lead_time": 499.751,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "0850c418-d448-47ea-8b94-fae6f4dc4ddd",
+        "last_action": null,
+        "task": 834,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "This observation showed the importance of leaving the unattached cells in an undisturbed condition and that even the slightest movement can result in a heterogeneous distribution of the colonies."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.511345Z",
+    "updated_at": "2023-07-09T19:56:47.714537Z",
+    "inner_id": 62,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 835,
+    "annotations": [{
+        "id": 227,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "zgw5z7VY-0",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:59:41.385968Z",
+        "updated_at": "2023-07-09T19:59:41.385968Z",
+        "draft_created_at": "2023-07-09T19:57:13.866124Z",
+        "lead_time": 172.607,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "c9cff9a0-fae9-49a4-94be-843dd57d4306",
+        "last_action": null,
+        "task": 835,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Of the four flasks\/protocol versions (A-D) tested in the CompacT SelecT, C was the best protocol based on colony morphology and absence of differentiation 7 days after passage (Fig. 2)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.511345Z",
+    "updated_at": "2023-07-09T19:59:41.440457Z",
+    "inner_id": 63,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 836,
+    "annotations": [{
+        "id": 228,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "vrW524yBRZ",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T20:00:15.704562Z",
+        "updated_at": "2023-07-09T20:00:15.704562Z",
+        "draft_created_at": "2023-07-09T19:59:59.925627Z",
+        "lead_time": 33.204,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "f7585e49-26b1-4070-8c82-0221aa3ef5f9",
+        "last_action": null,
+        "task": 836,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "To further assess the quality of these cells when compared to manual protocols (T25Manual and T175Manual), expression of pluripotency markers was analyzed using qPCR and immunochemistry."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.511345Z",
+    "updated_at": "2023-07-09T20:00:15.768164Z",
+    "inner_id": 64,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 837,
+    "annotations": [{
+        "id": 229,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "LqmNDE1aWV",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T20:00:55.359643Z",
+        "updated_at": "2023-07-09T20:00:55.359643Z",
+        "draft_created_at": "2023-07-09T20:00:44.509642Z",
+        "lead_time": 38.5,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "37536625-67bb-4f68-b6c3-194b52043ea5",
+        "last_action": null,
+        "task": 837,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "These analyses showed high levels and homogenous expression of pluripotency markers and morphology characteristic of hiPSC for both manual and automated protocols (Fig. 3)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.511345Z",
+    "updated_at": "2023-07-09T20:00:55.406028Z",
+    "inner_id": 65,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 838,
+    "annotations": [{
+        "id": 230,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "jHnqhl-hob",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T20:03:41.801733Z",
+        "updated_at": "2023-07-09T20:03:41.801733Z",
+        "draft_created_at": "2023-07-09T20:02:56.879820Z",
+        "lead_time": 165.318,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "34c1e770-808d-4578-ba6a-d2b38dd5214f",
+        "last_action": null,
+        "task": 838,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In addition, capacity of differentiation toward the three germ layers was confirmed by growing the hiPSC into culture conditions inductive for endoderm, mesoderm and neuroectoderm differentiation."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.511345Z",
+    "updated_at": "2023-07-09T20:03:41.870817Z",
+    "inner_id": 66,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 839,
+    "annotations": [{
+        "id": 231,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "ZhfS2bJIjB",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T20:04:56.482438Z",
+        "updated_at": "2023-07-09T20:04:56.482438Z",
+        "draft_created_at": null,
+        "lead_time": 73.507,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "91a41043-5159-49a8-882b-81074a045a02",
+        "last_action": null,
+        "task": 839,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Both manual protocols in T25 flasks and the automated protocol in T175 flasks showed homogeneous differentiation of hiPSC into the three germ layers as observed by the change of cell morphology and by the expression of endoderm markers: SOX17 and EOMES, mesoderm markers: BRACHURY and MIXL1 and neuroectoderm markers: NESTIN and SOX2 (Fig. 4)."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.511345Z",
+    "updated_at": "2023-07-09T20:04:56.537056Z",
+    "inner_id": 67,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 840,
+    "annotations": [{
+        "id": 232,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "SNS1i31kJ8",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T20:05:08.161721Z",
+        "updated_at": "2023-07-09T20:05:08.161721Z",
+        "draft_created_at": null,
+        "lead_time": 10.489,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "bcd1f58c-a474-40e1-a4fc-53f4db9109b8",
+        "last_action": null,
+        "task": 840,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "These results suggest that cells expanded with our automation protocol retain the capacity to produce cell types with a clinical interest."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.511345Z",
+    "updated_at": "2023-07-09T20:05:08.241783Z",
+    "inner_id": 68,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 841,
+    "annotations": [{
+        "id": 233,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "id-WJdV-xI",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T20:07:26.001192Z",
+        "updated_at": "2023-07-09T20:07:26.001192Z",
+        "draft_created_at": "2023-07-09T20:05:33.540077Z",
+        "lead_time": 136.285,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "6b9c73cd-883b-4130-a9d0-1890038de386",
+        "last_action": null,
+        "task": 841,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Considered together, these data suggest that the transfer of protocols between the two facilities was successful and that both scale-up and automation protocols were shown to maintain cell function comparable to manually passaged hiPSC."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.511345Z",
+    "updated_at": "2023-07-09T20:07:26.064934Z",
+    "inner_id": 69,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 842,
+    "annotations": [{
+        "id": 234,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "BStuF-x_o1",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T20:07:40.031458Z",
+        "updated_at": "2023-07-09T20:07:40.031458Z",
+        "draft_created_at": null,
+        "lead_time": 12.891,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "166b1836-520b-433f-98ec-9a0de671f323",
+        "last_action": null,
+        "task": 842,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In conclusion, we have successfully demonstrated a protocol passaging hiPSC in an automated system, the CompacT SelecT, with cells maintained as aggregates."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.511345Z",
+    "updated_at": "2023-07-09T20:07:40.090297Z",
+    "inner_id": 70,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 843,
+    "annotations": [{
+        "id": 235,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "6CCrRKQ8zY",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T20:13:11.980764Z",
+        "updated_at": "2023-07-09T20:13:11.980764Z",
+        "draft_created_at": null,
+        "lead_time": 330.407,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "90a839d5-998e-4761-b39a-eefd6e4c30f0",
+        "last_action": null,
+        "task": 843,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [{
+        "id": 78,
+        "user": "a.areebabubaker@gmail.com",
+        "created_username": "a.areebabubaker@gmail.com, 3",
+        "created_ago": "1 week",
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "6CCrRKQ8zY",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "lead_time": 330.336,
+        "was_postponed": false,
+        "created_at": "2023-07-09T20:13:12.028783Z",
+        "updated_at": "2023-07-09T20:13:12.028783Z",
+        "task": 843,
+        "annotation": null
+    }],
+    "predictions": [],
+    "data": {
+        "text": "The comparison between manual and automated conditions showed the maintenance and passaging of hiPSC is feasible using the CompacT SelecT system, however to improve reproducibility some detailed changes will have to be implemented."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.511345Z",
+    "updated_at": "2023-07-09T20:13:12.094580Z",
+    "inner_id": 71,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 844,
+    "annotations": [{
+        "id": 236,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "B2emwqBUBe",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T20:13:52.762779Z",
+        "updated_at": "2023-07-09T20:13:52.762779Z",
+        "draft_created_at": "2023-07-09T20:13:40.456355Z",
+        "lead_time": 39.985,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "1ca5b167-2579-499c-bb58-16eaccb40987",
+        "last_action": null,
+        "task": 844,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Further work is necessary to define more accurately the critical protocol parameters and take account of the constraints required when generating fully functional hiPSC lines for clinical applications."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.511345Z",
+    "updated_at": "2023-07-09T20:13:52.875731Z",
+    "inner_id": 72,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 845,
+    "annotations": [{
+        "id": 245,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "0yIr14RrEt",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T20:48:08.734336Z",
+        "updated_at": "2023-07-09T20:48:08.734336Z",
+        "draft_created_at": "2023-07-09T20:48:00.466402Z",
+        "lead_time": 6.918,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "e2d61e33-a065-4a6a-97ef-de0bca423059",
+        "last_action": null,
+        "task": 845,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "With respect to future automated solutions incubator design must take into account the current necessity of not disturbing cells that require to be grown as aggregates, such as hiPSC and that take time (potentially up to 24h) to attach."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.511345Z",
+    "updated_at": "2023-07-09T20:48:08.790269Z",
+    "inner_id": 73,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 846,
+    "annotations": [{
+        "id": 238,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "ARIqxL1FxF",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T20:20:04.482614Z",
+        "updated_at": "2023-07-09T20:20:04.482614Z",
+        "draft_created_at": "2023-07-09T20:19:20.449543Z",
+        "lead_time": 163.068,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "4efcba02-9ca9-4535-a9cf-c1db91d606df",
+        "last_action": null,
+        "task": 846,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Automation would most certainly benefit from development of (conical) plastic vessels of the volume necessary to accommodate cell suspensions from T175 flasks as this could reduce the time for cell clumps to settle and thus speeding the passaging protocol."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.511345Z",
+    "updated_at": "2023-07-09T20:20:04.538116Z",
+    "inner_id": 74,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 847,
+    "annotations": [{
+        "id": 239,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "ZLmFTRwBRH",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T20:25:07.146670Z",
+        "updated_at": "2023-07-09T20:25:07.146670Z",
+        "draft_created_at": "2023-07-09T20:24:31.644240Z",
+        "lead_time": 301.929,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "0b785f4e-9389-4cd2-bf27-aee6269ef0ba",
+        "last_action": null,
+        "task": 847,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The option to use a pipette with smaller bore than a 10ml pipette would assist the optimization of breaking cell clumps to the desirable size and reduce the single cell debris caused by pipetting."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.511345Z",
+    "updated_at": "2023-07-09T20:25:07.212176Z",
+    "inner_id": 75,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 848,
+    "annotations": [{
+        "id": 240,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "MTbGVAJurd",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T20:25:34.847954Z",
+        "updated_at": "2023-07-09T20:25:34.847954Z",
+        "draft_created_at": "2023-07-09T20:25:22.905144Z",
+        "lead_time": 26.958,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "a677120b-6265-4922-8a96-077e1842ce75",
+        "last_action": null,
+        "task": 848,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "While these modifications would be required to optimize the present protocol to ensure maximum yields of cells, this study represents a proof of principle that hiPSC can be expanded in clumps using automation without loss of quality."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.511345Z",
+    "updated_at": "2023-07-09T20:25:34.895349Z",
+    "inner_id": 76,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 849,
+    "annotations": [{
+        "id": 241,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "bwux810N1W",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T20:25:53.695016Z",
+        "updated_at": "2023-07-09T20:25:53.695016Z",
+        "draft_created_at": "2023-07-09T20:25:48.660577Z",
+        "lead_time": 17.714,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "0f79a294-d453-4e9b-88c2-364b0ad86a0b",
+        "last_action": null,
+        "task": 849,
+        "project": 5,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c55d4a4f-S016816561300552X_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The authors acknowledge the contributions of the following: 'Fundação para a Ciência e a Tecnologia' (SFRH\/BD\/69033\/2010) and the Cambridge Hospitals National Institute for Health Research Biomedical Research Center, EPSRC Centre for Innovative Manufacturing in Regenerative Medicine and TAP Biosystems."
+    },
+    "meta": {},
+    "created_at": "2023-07-09T18:04:21.511345Z",
+    "updated_at": "2023-07-09T20:25:53.767897Z",
+    "inner_id": 77,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 5,
+    "updated_by": 3,
+    "comment_authors": []
+}]

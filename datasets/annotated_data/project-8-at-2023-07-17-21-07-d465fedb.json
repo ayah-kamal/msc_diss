@@ -1,0 +1,1690 @@
+[{
+    "id": 1050,
+    "annotations": [{
+        "id": 431,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "R3OnVbewGz",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:13:26.068890Z",
+        "updated_at": "2023-07-11T12:13:26.068890Z",
+        "draft_created_at": "2023-07-11T12:13:23.844074Z",
+        "lead_time": 100.684,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "c22c46f7-f7c7-4641-af75-e8347fc78f49",
+        "last_action": null,
+        "task": 1050,
+        "project": 8,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 467,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "rnsAqgZWiR",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:47:41.920073Z",
+        "updated_at": "2023-07-11T12:47:41.920073Z",
+        "draft_created_at": null,
+        "lead_time": 3.527,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "cee8b070-fcbd-4ee8-a04f-d05c1a998849",
+        "last_action": null,
+        "task": 1050,
+        "project": 8,
+        "updated_by": 7,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "6ed32398-S1750583613004192_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The Sleipner storage site: Capillary flow modeling of a layered CO2 plume requires fractured shale barriers within the Utsira Formation"
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:39:51.871921Z",
+    "updated_at": "2023-07-11T12:47:42.015515Z",
+    "inner_id": 1,
+    "total_annotations": 2,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 8,
+    "updated_by": 7,
+    "comment_authors": []
+}, {
+    "id": 1051,
+    "annotations": [{
+        "id": 432,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "1cwWNkBs3H",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:25:04.357922Z",
+        "updated_at": "2023-07-11T12:25:04.357922Z",
+        "draft_created_at": "2023-07-11T12:14:50.144548Z",
+        "lead_time": 672.234,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "52a2a198-14c1-4f40-ac15-53a17f697d5f",
+        "last_action": null,
+        "task": 1051,
+        "project": 8,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 434,
+        "completed_by": 5,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "vCQ8bb42IZ",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:26:02.791306Z",
+        "updated_at": "2023-07-11T12:33:13.486433Z",
+        "draft_created_at": "2023-07-11T12:25:50.960881Z",
+        "lead_time": 734.141,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "66c6ee82-fbed-4860-acec-b1546be0afb5",
+        "last_action": null,
+        "task": 1051,
+        "project": 8,
+        "updated_by": 5,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 468,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "df5jS2qFeB",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:48:13.429018Z",
+        "updated_at": "2023-07-11T12:48:13.429018Z",
+        "draft_created_at": null,
+        "lead_time": 2.915,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "a5e997a9-07ae-4c53-b2db-e4cd42766eec",
+        "last_action": null,
+        "task": 1051,
+        "project": 8,
+        "updated_by": 7,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "6ed32398-S1750583613004192_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "CO2 is separated from the Sleipner gas condensate field and stored in the pore space of the Utsira Formation, a saline aquifer approximately 1km below the surface and 200km from the coast."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:39:51.871921Z",
+    "updated_at": "2023-07-11T12:48:13.516137Z",
+    "inner_id": 2,
+    "total_annotations": 3,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 8,
+    "updated_by": 7,
+    "comment_authors": []
+}, {
+    "id": 1052,
+    "annotations": [{
+        "id": 433,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "DGs3rI4uTz",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:25:57.855733Z",
+        "updated_at": "2023-07-11T12:33:05.781305Z",
+        "draft_created_at": "2023-07-11T12:25:56.233409Z",
+        "lead_time": 72.957,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "4ef607dd-17a7-4824-bc91-c3181677b22f",
+        "last_action": null,
+        "task": 1052,
+        "project": 8,
+        "updated_by": 5,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 444,
+        "completed_by": 5,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "P2Mib2ubAP",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:31:33.725814Z",
+        "updated_at": "2023-07-11T12:31:33.725814Z",
+        "draft_created_at": "2023-07-11T12:31:33.471837Z",
+        "lead_time": 8.52,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "44f25f03-8a89-45fb-95c1-32f636919248",
+        "last_action": null,
+        "task": 1052,
+        "project": 8,
+        "updated_by": 5,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 469,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "dxp4yLYf8-",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:48:42.556273Z",
+        "updated_at": "2023-07-11T12:48:42.556273Z",
+        "draft_created_at": "2023-07-11T12:48:40.402642Z",
+        "lead_time": 10.938,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "c1a1e99d-e996-4e9f-86d3-e348326ed90b",
+        "last_action": null,
+        "task": 1052,
+        "project": 8,
+        "updated_by": 7,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "6ed32398-S1750583613004192_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The buoyant CO2 plume ascended rapidly through eight thin shale barriers within the aquifer to reach the top seal in less than three years."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:39:51.871921Z",
+    "updated_at": "2023-07-11T12:48:42.650265Z",
+    "inner_id": 3,
+    "total_annotations": 3,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 8,
+    "updated_by": 7,
+    "comment_authors": []
+}, {
+    "id": 1053,
+    "annotations": [{
+        "id": 435,
+        "completed_by": 4,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless", "Sprawling Ending"]
+                ]
+            },
+            "id": "G9QgppvZKZ",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:28:52.766696Z",
+        "updated_at": "2023-07-11T12:28:52.766696Z",
+        "draft_created_at": "2023-07-11T12:28:41.710425Z",
+        "lead_time": 161.495,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ad9ce12e-6d5d-4734-ba02-57c65abd9667",
+        "last_action": null,
+        "task": 1053,
+        "project": 8,
+        "updated_by": 4,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 437,
+        "completed_by": 6,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "FLL0FuW9ZG",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:29:07.152530Z",
+        "updated_at": "2023-07-11T12:30:12.426512Z",
+        "draft_created_at": null,
+        "lead_time": 111.185,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "761b7b30-71b0-4167-abbc-43f87cc3d931",
+        "last_action": null,
+        "task": 1053,
+        "project": 8,
+        "updated_by": 5,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 447,
+        "completed_by": 5,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless", "Sprawling Ending"]
+                ]
+            },
+            "id": "4twuFfzd7a",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:32:11.964562Z",
+        "updated_at": "2023-07-11T12:32:11.964562Z",
+        "draft_created_at": null,
+        "lead_time": 32.708,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "8df1a062-d725-4c54-9696-bab41e09fa4c",
+        "last_action": null,
+        "task": 1053,
+        "project": 8,
+        "updated_by": 5,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 470,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless", "Coordination"]
+                ]
+            },
+            "id": "EUrUEYBXa_",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:50:00.120678Z",
+        "updated_at": "2023-07-11T12:50:00.120678Z",
+        "draft_created_at": null,
+        "lead_time": 45.261,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "d60481f3-9d7b-480a-8c56-e1a59d546868",
+        "last_action": null,
+        "task": 1053,
+        "project": 8,
+        "updated_by": 7,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "6ed32398-S1750583613004192_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The plume's progress has been monitored by eight seismic surveys, as well as gravimetric and electromagnetic monitoring, which record the spreading of nine thin CO2 layers."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:39:51.871921Z",
+    "updated_at": "2023-07-11T12:50:00.218844Z",
+    "inner_id": 4,
+    "total_annotations": 4,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 8,
+    "updated_by": 7,
+    "comment_authors": []
+}, {
+    "id": 1054,
+    "annotations": [{
+        "id": 436,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "0LaKO4H3A_",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:28:56.463605Z",
+        "updated_at": "2023-07-11T12:34:32.163675Z",
+        "draft_created_at": "2023-07-11T12:28:49.825963Z",
+        "lead_time": 67.281,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "8056d3b3-b42a-490b-8446-01fe9bc63cda",
+        "last_action": null,
+        "task": 1054,
+        "project": 8,
+        "updated_by": 7,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 448,
+        "completed_by": 5,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "im837JpLL9",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:32:56.335880Z",
+        "updated_at": "2023-07-11T12:35:01.675148Z",
+        "draft_created_at": "2023-07-11T12:32:52.100310Z",
+        "lead_time": 44.346000000000004,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "19353f4b-9049-4466-9586-16a9234ed634",
+        "last_action": null,
+        "task": 1054,
+        "project": 8,
+        "updated_by": 6,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "6ed32398-S1750583613004192_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The calibrated capillary flow simulation indicates that a mass balance for the plume is likely, but can only replicate the plume geometry if the thin intra-formational shale barriers are fractured."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:39:51.871921Z",
+    "updated_at": "2023-07-11T12:35:01.760777Z",
+    "inner_id": 5,
+    "total_annotations": 2,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 8,
+    "updated_by": 6,
+    "comment_authors": []
+}, {
+    "id": 1055,
+    "annotations": [{
+        "id": 438,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "6JdpmD2-eB",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:29:59.608185Z",
+        "updated_at": "2023-07-11T12:29:59.608185Z",
+        "draft_created_at": "2023-07-11T12:29:51.501207Z",
+        "lead_time": 53.833,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ec007902-340e-404a-aeef-f32751cdd0bf",
+        "last_action": null,
+        "task": 1055,
+        "project": 8,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 439,
+        "completed_by": 4,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "69kIPzv8y-",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:30:21.149743Z",
+        "updated_at": "2023-07-11T12:34:04.424132Z",
+        "draft_created_at": null,
+        "lead_time": 52.284,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "66e7204e-b0c3-4e29-93bd-96bc76a97811",
+        "last_action": null,
+        "task": 1055,
+        "project": 8,
+        "updated_by": 6,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 455,
+        "completed_by": 5,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless", "Coordination"]
+                ]
+            },
+            "id": "LUTXF-ToLa",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:34:58.834606Z",
+        "updated_at": "2023-07-11T12:36:24.352169Z",
+        "draft_created_at": null,
+        "lead_time": 148.096,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "3d82b717-6b68-4838-9a45-1365eec870a9",
+        "last_action": null,
+        "task": 1055,
+        "project": 8,
+        "updated_by": 6,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "6ed32398-S1750583613004192_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The fractures are very unlikely to have been caused by CO2 injection given the confining stress of the rock and weak overpressure of the plume, and so fracturing must pre-date injection."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:39:51.871921Z",
+    "updated_at": "2023-07-11T12:36:24.444890Z",
+    "inner_id": 6,
+    "total_annotations": 3,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 8,
+    "updated_by": 6,
+    "comment_authors": []
+}, {
+    "id": 1056,
+    "annotations": [{
+        "id": 440,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "u_xkKigkVs",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:30:48.367884Z",
+        "updated_at": "2023-07-11T12:30:48.367884Z",
+        "draft_created_at": null,
+        "lead_time": 48.314,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "fecf7434-41cc-4485-b54d-08485a88750f",
+        "last_action": null,
+        "task": 1056,
+        "project": 8,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 443,
+        "completed_by": 4,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "i_ZrK8lahr",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:31:20.636543Z",
+        "updated_at": "2023-07-11T12:31:20.636543Z",
+        "draft_created_at": null,
+        "lead_time": 32.609,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "8aba5808-c595-4549-a7fa-a361e7d0ca23",
+        "last_action": null,
+        "task": 1056,
+        "project": 8,
+        "updated_by": 4,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 456,
+        "completed_by": 5,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "3vetnR4WQD",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:35:29.476430Z",
+        "updated_at": "2023-07-11T12:37:53.462063Z",
+        "draft_created_at": null,
+        "lead_time": 108.697,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "6ccbbb0b-2959-4b5a-8725-3c7d25f228cd",
+        "last_action": null,
+        "task": 1056,
+        "project": 8,
+        "updated_by": 6,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "6ed32398-S1750583613004192_filtered.txt",
+    "drafts": [{
+        "id": 194,
+        "user": "ilmaaliyaf@gmail.com",
+        "created_username": "Ilma Fiddien ilmaaliyaf@gmail.com, 4",
+        "created_ago": "6 days, 7 hours",
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "i_ZrK8lahr",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "lead_time": 32.497,
+        "was_postponed": false,
+        "created_at": "2023-07-11T12:31:20.582800Z",
+        "updated_at": "2023-07-11T12:31:20.582800Z",
+        "task": 1056,
+        "annotation": null
+    }],
+    "predictions": [],
+    "data": {
+        "text": "A novel mechanism is suggested: the deglaciation of regional ice sheets that have rapidly and repeatedly unloaded approximately 1km of ice."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:39:51.871921Z",
+    "updated_at": "2023-07-11T12:37:53.550341Z",
+    "inner_id": 7,
+    "total_annotations": 3,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 8,
+    "updated_by": 6,
+    "comment_authors": []
+}, {
+    "id": 1057,
+    "annotations": [{
+        "id": 441,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "b91Prh0gOa",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:31:09.482935Z",
+        "updated_at": "2023-07-11T12:31:09.482935Z",
+        "draft_created_at": "2023-07-11T12:31:00.450557Z",
+        "lead_time": 20.218,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "cfe1c6ca-48db-410a-8083-1da8be68a3a0",
+        "last_action": null,
+        "task": 1057,
+        "project": 8,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 450,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "IzdCwCZdRm",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:33:21.423285Z",
+        "updated_at": "2023-07-11T12:33:21.423285Z",
+        "draft_created_at": null,
+        "lead_time": 10.479,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "d9f0b43a-99b2-43ad-a4be-b1f630338109",
+        "last_action": null,
+        "task": 1057,
+        "project": 8,
+        "updated_by": 7,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 461,
+        "completed_by": 5,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless", "Long Subject"],
+                    ["Shapeless"]
+                ]
+            },
+            "id": "uxqL0ZQMcm",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:36:48.912615Z",
+        "updated_at": "2023-07-11T12:48:03.437471Z",
+        "draft_created_at": "2023-07-11T12:36:26.699744Z",
+        "lead_time": 53.525,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "c147c10f-d7da-446e-b3f2-e5d6f11dce08",
+        "last_action": null,
+        "task": 1057,
+        "project": 8,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "6ed32398-S1750583613004192_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Shallow CO2 storage sites in the Northern North Sea and other regions that have been loaded by Quaternary ice sheets are likely to behave in a similar manner."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:39:51.871921Z",
+    "updated_at": "2023-07-11T12:48:03.542966Z",
+    "inner_id": 8,
+    "total_annotations": 3,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 8,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 1058,
+    "annotations": [{
+        "id": 442,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "UO1w1l4d0j",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:31:18.935343Z",
+        "updated_at": "2023-07-11T12:31:18.935343Z",
+        "draft_created_at": null,
+        "lead_time": 8.984,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "fa0c6a85-6f34-4ac3-aa22-a0bd6d9a0792",
+        "last_action": null,
+        "task": 1058,
+        "project": 8,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 464,
+        "completed_by": 5,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "_KdJ3mP9Ia",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:37:47.025777Z",
+        "updated_at": "2023-07-11T12:37:47.025777Z",
+        "draft_created_at": null,
+        "lead_time": 3.488,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "5d9d6357-d712-4f6d-b72b-040a516e944a",
+        "last_action": null,
+        "task": 1058,
+        "project": 8,
+        "updated_by": 5,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "6ed32398-S1750583613004192_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "This is proposed by the G8 and the International Energy Agency as an essential technology for lowering greenhouse gas emissions."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:39:51.871921Z",
+    "updated_at": "2023-07-11T12:37:47.123284Z",
+    "inner_id": 9,
+    "total_annotations": 2,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 8,
+    "updated_by": 5,
+    "comment_authors": []
+}, {
+    "id": 1059,
+    "annotations": [{
+        "id": 445,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "NI05b_3wAK",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:31:37.164507Z",
+        "updated_at": "2023-07-11T12:31:37.164507Z",
+        "draft_created_at": null,
+        "lead_time": 17.8,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "3fdd1089-548d-427e-adc4-0d5fbd9c6b18",
+        "last_action": null,
+        "task": 1059,
+        "project": 8,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "6ed32398-S1750583613004192_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "CCS reduces the emission of CO2 at a power station, or other large industrial sources such as oil and gas fields."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:39:51.871921Z",
+    "updated_at": "2023-07-11T12:31:37.260327Z",
+    "inner_id": 10,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 8,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 1060,
+    "annotations": [{
+        "id": 446,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "yfAnX1qcJy",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:31:54.952657Z",
+        "updated_at": "2023-07-11T12:31:54.952657Z",
+        "draft_created_at": null,
+        "lead_time": 17.381,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "0d84398a-e8e3-49fc-833a-45a3c4333f47",
+        "last_action": null,
+        "task": 1060,
+        "project": 8,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "6ed32398-S1750583613004192_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "This captured CO2 is compressed, transported by pipeline, and injected for storage into porous rock formations deep below the land or sea surface."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:39:51.871921Z",
+    "updated_at": "2023-07-11T12:31:55.046738Z",
+    "inner_id": 11,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 8,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 1061,
+    "annotations": [{
+        "id": 449,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "N_-u-hS3G-",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:33:04.485157Z",
+        "updated_at": "2023-07-11T12:33:04.485157Z",
+        "draft_created_at": null,
+        "lead_time": 69.075,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "8fe8d4be-f5b1-4bb6-a58f-85a37dc53a67",
+        "last_action": null,
+        "task": 1061,
+        "project": 8,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 457,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "YKzSZmZ-ib",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:35:40.650595Z",
+        "updated_at": "2023-07-11T12:35:40.650595Z",
+        "draft_created_at": null,
+        "lead_time": 8.594,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "0c689883-dd30-4004-b54e-3f20087aebb6",
+        "last_action": null,
+        "task": 1061,
+        "project": 8,
+        "updated_by": 7,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "6ed32398-S1750583613004192_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "This is the longest running carbon capture and storage experiment in the world, with more than 14 Mt of supercritical CO2 injected during the period 1996-2013."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:39:51.871921Z",
+    "updated_at": "2023-07-11T12:35:40.752920Z",
+    "inner_id": 12,
+    "total_annotations": 2,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 8,
+    "updated_by": 7,
+    "comment_authors": []
+}, {
+    "id": 1062,
+    "annotations": [{
+        "id": 451,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "2aIDuwubbA",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:33:27.621472Z",
+        "updated_at": "2023-07-11T12:33:27.621472Z",
+        "draft_created_at": "2023-07-11T12:33:24.354269Z",
+        "lead_time": 22.726,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "411d1ea1-5713-45a0-9599-12b2c0877a17",
+        "last_action": null,
+        "task": 1062,
+        "project": 8,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 452,
+        "completed_by": 4,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "mutG9g8d0X",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:34:13.285601Z",
+        "updated_at": "2023-07-11T12:34:13.285601Z",
+        "draft_created_at": "2023-07-11T12:33:49.517393Z",
+        "lead_time": 10.211,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "2cb5de3e-ce54-4f8c-8f5f-4d80a6a90ed3",
+        "last_action": null,
+        "task": 1062,
+        "project": 8,
+        "updated_by": 4,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "6ed32398-S1750583613004192_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The injection schedule is intended to remain at around 0.9Mt\/yr until around 2020, separating and storing CO2 from the West Sleipner gas-condensate field to prevent climate change."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:39:51.871921Z",
+    "updated_at": "2023-07-11T12:34:13.379941Z",
+    "inner_id": 13,
+    "total_annotations": 2,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 8,
+    "updated_by": 4,
+    "comment_authors": []
+}, {
+    "id": 1063,
+    "annotations": [{
+        "id": 453,
+        "completed_by": 4,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "lF7vIpLLe6",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:34:29.713736Z",
+        "updated_at": "2023-07-11T12:34:29.713736Z",
+        "draft_created_at": null,
+        "lead_time": 14.381,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "3c6f9338-8039-4f29-bbdd-4ad99b21d404",
+        "last_action": null,
+        "task": 1063,
+        "project": 8,
+        "updated_by": 4,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 454,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "Q3L6s6Vs5Y",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:34:52.139195Z",
+        "updated_at": "2023-07-11T12:34:52.139195Z",
+        "draft_created_at": null,
+        "lead_time": 84.067,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "a1534b74-6acf-4f1a-bbee-37e8b8ff5049",
+        "last_action": null,
+        "task": 1063,
+        "project": 8,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "6ed32398-S1750583613004192_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "This is incentivized by the Norwegian state tax on offshore petroleum industry emissions, commencing in 1991 at NOK 210 and increasing to NOK 410 in 2013, equivalent to about $65 per tonne of CO2."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:39:51.871921Z",
+    "updated_at": "2023-07-11T12:34:52.248170Z",
+    "inner_id": 14,
+    "total_annotations": 2,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 8,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 1064,
+    "annotations": [{
+        "id": 458,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Sprawling Ending"]
+                ]
+            },
+            "id": "WXHFxxWClm",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:35:52.795176Z",
+        "updated_at": "2023-07-11T12:35:52.795176Z",
+        "draft_created_at": null,
+        "lead_time": 60.1,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "aeaf4e6d-7db5-4ef6-ad68-f7d9da2b1187",
+        "last_action": null,
+        "task": 1064,
+        "project": 8,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "6ed32398-S1750583613004192_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "This is considered to be a shallow depth setting for a storage environment (Chadwick et al., 2008) as the pressure and temperature conditions are likely to be close to the critical point above which CO2 becomes a more buoyant gas phase."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:39:51.871921Z",
+    "updated_at": "2023-07-11T12:35:53.009290Z",
+    "inner_id": 15,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 8,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 1065,
+    "annotations": [{
+        "id": 460,
+        "completed_by": 4,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless", "Interruptions"],
+                    ["Shapeless"]
+                ]
+            },
+            "id": "2Y1lXCWW4g",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:36:39.499384Z",
+        "updated_at": "2023-07-11T12:36:45.418139Z",
+        "draft_created_at": "2023-07-11T12:36:23.601293Z",
+        "lead_time": 43.803000000000004,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "a2645b6e-e967-4ee8-bbe2-fa2e9fbee7a0",
+        "last_action": null,
+        "task": 1065,
+        "project": 8,
+        "updated_by": 4,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 463,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Interruptions"]
+                ]
+            },
+            "id": "PQfyvac_w-",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:37:40.443041Z",
+        "updated_at": "2023-07-11T12:37:40.444031Z",
+        "draft_created_at": "2023-07-11T12:36:19.563848Z",
+        "lead_time": 106.852,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "b7d60a18-3638-487e-be1f-6b7a87061550",
+        "last_action": null,
+        "task": 1065,
+        "project": 8,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "6ed32398-S1750583613004192_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The overlying Nordland Group, which extends from the top of the Utsira Formation to the seafloor, is predominantly shale (Fig. 1), and is expected to provide a caprock with a high threshold pressure, sufficient to seal the site and prevent leakage of the buoyant CO2 fluid over several millennia, i.e. the timescale required to offset climate change (Lindeberg and Bergmo, 2003)."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:39:51.871921Z",
+    "updated_at": "2023-07-11T12:37:40.540388Z",
+    "inner_id": 16,
+    "total_annotations": 2,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 8,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 1066,
+    "annotations": [{
+        "id": 462,
+        "completed_by": 4,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "yKsL4NwuXC",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:37:03.082368Z",
+        "updated_at": "2023-07-11T12:37:03.082368Z",
+        "draft_created_at": null,
+        "lead_time": 12.392,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "388b2263-9453-4fb9-971b-f324be31ae9b",
+        "last_action": null,
+        "task": 1066,
+        "project": 8,
+        "updated_by": 4,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 466,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "DCjAKV_kep",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:45:00.276919Z",
+        "updated_at": "2023-07-11T12:45:00.276919Z",
+        "draft_created_at": null,
+        "lead_time": 7.15,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "d186502d-7d30-488d-9eb7-bfc0f2abe5eb",
+        "last_action": null,
+        "task": 1066,
+        "project": 8,
+        "updated_by": 7,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "6ed32398-S1750583613004192_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Saline formations worldwide are considered to be candidates for carbon sequestration because of their suitable depths, large storage volumes, and common occurrence."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:39:51.871921Z",
+    "updated_at": "2023-07-11T12:45:00.374383Z",
+    "inner_id": 17,
+    "total_annotations": 2,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 8,
+    "updated_by": 7,
+    "comment_authors": []
+}, {
+    "id": 1067,
+    "annotations": [{
+        "id": 465,
+        "completed_by": 4,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless", "Long Subject"],
+                    ["Shapeless", "Coordination"],
+                    ["Shapeless"]
+                ]
+            },
+            "id": "Z6R4FgHRHo",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:37:49.151653Z",
+        "updated_at": "2023-07-11T12:37:49.151653Z",
+        "draft_created_at": "2023-07-11T12:37:36.246843Z",
+        "lead_time": 43.229,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "c209bfd9-89b4-40c9-8980-5b8e724de1f3",
+        "last_action": null,
+        "task": 1067,
+        "project": 8,
+        "updated_by": 4,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "6ed32398-S1750583613004192_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "However, one of the critical uncertainties for saline formation storage is the ability of the caprock (primary seal), and the overlying containment geology (secondary seals), to retain buoyant CO2 without leakage."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:39:51.871921Z",
+    "updated_at": "2023-07-11T12:37:49.242341Z",
+    "inner_id": 18,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 8,
+    "updated_by": 4,
+    "comment_authors": []
+}, {
+    "id": 1143,
+    "annotations": [{
+        "id": 459,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "MbQAi4mgxu",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:36:33.418244Z",
+        "updated_at": "2023-07-11T12:36:33.418244Z",
+        "draft_created_at": null,
+        "lead_time": 17.906,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "29f4ab36-fa71-4890-bb1e-b5cae2dc20c8",
+        "last_action": null,
+        "task": 1143,
+        "project": 8,
+        "updated_by": 7,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "6ed32398-S1750583613004192_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Given these flow rate indications, it makes sense, a priori, to model the plume distribution with an invasion percolation simulator."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:39:51.871921Z",
+    "updated_at": "2023-07-11T12:36:33.517263Z",
+    "inner_id": 94,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 8,
+    "updated_by": 7,
+    "comment_authors": []
+}]

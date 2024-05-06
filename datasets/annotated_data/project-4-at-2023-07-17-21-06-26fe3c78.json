@@ -1,0 +1,3858 @@
+[{
+    "id": 561,
+    "annotations": [{
+        "id": 111,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Sprawling Ending"]
+                ]
+            },
+            "id": "PtfWbC-s4S",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T19:39:57.575340Z",
+        "updated_at": "2023-07-07T19:39:57.575340Z",
+        "draft_created_at": "2023-07-07T15:47:04.050469Z",
+        "lead_time": 7.247,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "e5febb0a-5580-41fe-8add-db9548acb3cd",
+        "last_action": null,
+        "task": 561,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In this research, we developed a robust two-layer classifier that can accurately classify normal hearing (NH) from hearing impaired (HI) infants with congenital sensori-neural hearing loss (SNHL) based on their Magnetic Resonance (MR) images."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T19:39:57.656407Z",
+    "inner_id": 1,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 562,
+    "annotations": [{
+        "id": 112,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "nY_rkNtB_z",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T19:40:42.523963Z",
+        "updated_at": "2023-07-07T19:40:42.523963Z",
+        "draft_created_at": null,
+        "lead_time": 44.403,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "69c73843-6968-4e27-8cf5-c9a815b1a631",
+        "last_action": null,
+        "task": 562,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Unlike traditional methods that examine the intensity of each single voxel, we extracted high-level features to characterize the structural MR images (sMRI) and functional MR images (fMRI)."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T19:40:42.586854Z",
+    "inner_id": 2,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 563,
+    "annotations": [{
+        "id": 113,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Interruptions"]
+                ]
+            },
+            "id": "XQ1ge5zIhC",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T19:41:55.005605Z",
+        "updated_at": "2023-07-07T19:41:55.005605Z",
+        "draft_created_at": "2023-07-07T19:40:52.960144Z",
+        "lead_time": 71.997,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "859ce442-63b1-4f75-8954-e1734107144a",
+        "last_action": null,
+        "task": 563,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Others, e.g. the anterior cingulate cortex (ACC), were not necessarily expected to play a role in differentiating HI from NH children and provided a new understanding of brain function and of the disorder itself."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T19:41:55.066392Z",
+    "inner_id": 3,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 564,
+    "annotations": [{
+        "id": 114,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Sprawling Ending"]
+                ]
+            },
+            "id": "drjO24bfCG",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T19:42:17.964141Z",
+        "updated_at": "2023-07-07T19:42:17.964141Z",
+        "draft_created_at": null,
+        "lead_time": 22.467,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "65a623eb-bfa3-4593-879f-d37ef8af5298",
+        "last_action": null,
+        "task": 564,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "These important brain regions provided clues about neuroimaging markers that may be relevant to the future use of functional neuroimaging to guide predictions about speech and language outcomes in HI infants who receive a cochlear implant."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T19:42:18.014576Z",
+    "inner_id": 4,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 565,
+    "annotations": [{
+        "id": 115,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "491qPMqwt3",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T19:42:54.348266Z",
+        "updated_at": "2023-07-07T19:42:54.348266Z",
+        "draft_created_at": null,
+        "lead_time": 7.56,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "4b93e18b-a8b4-45c9-b35e-dad6feabf995",
+        "last_action": null,
+        "task": 565,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "This type of prognostic information could be extremely useful and is currently not available to clinicians by any other means."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T19:42:54.409775Z",
+    "inner_id": 5,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 566,
+    "annotations": [{
+        "id": 116,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "umzWW6zKJB",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T19:43:15.035906Z",
+        "updated_at": "2023-07-07T19:43:15.035906Z",
+        "draft_created_at": null,
+        "lead_time": 20.025,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "d2991cf4-24b8-4957-894a-e1b6b68806fc",
+        "last_action": null,
+        "task": 566,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "It has been estimated that approximately 1 to 6 infants per 1000 are born with severe to profound congenital sensori-neural hearing loss (SNHL) (Bachmann and Arvedson, 1998; Cunningham and Cox, 2003; Kemper and Downs, 2000; Northern, 1994)."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T19:43:15.100204Z",
+    "inner_id": 6,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 567,
+    "annotations": [{
+        "id": 117,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "6w7lNilu_x",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T19:43:29.271497Z",
+        "updated_at": "2023-07-07T19:48:10.280164Z",
+        "draft_created_at": null,
+        "lead_time": 290.12000000000006,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "063271f9-1876-4437-be3f-cdfcbb09f783",
+        "last_action": null,
+        "task": 567,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Those children receive little or no benefit from hearing aids and face challenges in developing language abilities due to their inability to detect acoustic-phonetic signals, which are essential for hearing-dependent learning."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T19:48:10.331326Z",
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 568,
+    "annotations": [{
+        "id": 118,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "02GLpVhE7M",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T19:48:23.941665Z",
+        "updated_at": "2023-07-07T19:48:23.941665Z",
+        "draft_created_at": null,
+        "lead_time": 10.528,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "cc9aa7bd-31c6-41ad-ba14-b8f6f17ac93f",
+        "last_action": null,
+        "task": 568,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Cochlear implantation (CI) is a surgical procedure that inserts an electronic device into the cochlea for direct stimulation of the auditory nerve and has been demonstrated to be effective in restoring hearing in patients suffering from SNHL."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T19:48:23.991170Z",
+    "inner_id": 8,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 569,
+    "annotations": [{
+        "id": 119,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "4XX32cLg_C",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T19:51:05.681415Z",
+        "updated_at": "2023-07-07T19:51:05.681415Z",
+        "draft_created_at": null,
+        "lead_time": 160.84,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "bfd574ea-7e96-4c98-abe5-163ff9213a43",
+        "last_action": null,
+        "task": 569,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Statistical data from the National Institute on Deafness and Other Communication Disorders (NIDCD) indicate that approximately 28,400 children in the United States have received a cochlear implant as of December 2010."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T19:51:05.738027Z",
+    "inner_id": 9,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 570,
+    "annotations": [{
+        "id": 120,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "f_CZOmn6ao",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T19:54:43.473623Z",
+        "updated_at": "2023-07-07T19:54:43.473623Z",
+        "draft_created_at": null,
+        "lead_time": 216.866,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "e09fedf9-d638-4909-be56-073db6d48641",
+        "last_action": null,
+        "task": 570,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "While many congenitally deaf CI recipients achieve a high degree of accuracy in speech perception and develop near-normal language skills, about 30% of the recipients do not derive any benefit from the CI (Niparko et al., 2010)."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T19:54:43.548598Z",
+    "inner_id": 10,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 571,
+    "annotations": [{
+        "id": 121,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "qxdWp3SqTm",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T19:56:41.531393Z",
+        "updated_at": "2023-07-07T19:56:41.531393Z",
+        "draft_created_at": "2023-07-07T19:54:55.856453Z",
+        "lead_time": 117.073,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "79442926-273b-474a-bd7c-72107b4ceb72",
+        "last_action": null,
+        "task": 571,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "A deeper understanding of hearing loss and better characterization of the brain regions affected by hearing loss will help reduce the high variance in CI outcomes and result in a more effective treatment of children with hearing loss."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T19:56:41.587128Z",
+    "inner_id": 11,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 572,
+    "annotations": [{
+        "id": 122,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "MVn-8i-U6x",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T19:56:55.946897Z",
+        "updated_at": "2023-07-07T19:56:55.946897Z",
+        "draft_created_at": null,
+        "lead_time": 13.81,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "13139de9-3a75-48d9-826c-04ab508abf64",
+        "last_action": null,
+        "task": 572,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In recent years, Magnetic Resonance (MR) images have been used to study neurological disorders and brain development in children, such as reading and attention problems, traumatic brain injury, hearing impairment, perinatal stroke and other conditions (Horowitz-Kraus and Holland, 2012; Leach and Holland, 2010; Smith et al., 2011; Tillema et al., 2008; Tlustos et al., 2011)."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T19:56:56.009408Z",
+    "inner_id": 12,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 573,
+    "annotations": [{
+        "id": 123,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "kraehccYAf",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T19:57:21.807968Z",
+        "updated_at": "2023-07-07T19:57:21.807968Z",
+        "draft_created_at": null,
+        "lead_time": 25.264,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "704f8057-9717-4f3a-877b-405815848a36",
+        "last_action": null,
+        "task": 573,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Jonas et al. reviewed a total number of 162 patients' structural MRI scans, and detected 51 abnormalities in 49 patients."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T19:57:21.859327Z",
+    "inner_id": 13,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 574,
+    "annotations": [{
+        "id": 124,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "FxWG2SlhwF",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T19:57:38.746480Z",
+        "updated_at": "2023-07-07T19:57:38.746480Z",
+        "draft_created_at": null,
+        "lead_time": 16.369,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "605cd3a4-57e6-4932-8eab-fb56a0c16073",
+        "last_action": null,
+        "task": 574,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Those abnormalities included white matter changes, structural or anatomical abnormalities, neoplasms, gray matter changes, vasculitis and neuro-metabolic changes (Jonas et al., 2012)."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T19:57:38.810759Z",
+    "inner_id": 14,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 575,
+    "annotations": [{
+        "id": 125,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "rnjOcqeLNF",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T19:57:55.672733Z",
+        "updated_at": "2023-07-07T19:57:55.672733Z",
+        "draft_created_at": null,
+        "lead_time": 16.325,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "79bd625e-cf6a-424d-ae4c-35839db0a65f",
+        "last_action": null,
+        "task": 575,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Furthermore, functional MRI studies have demonstrated that the activation pattern of HI is different from that of NH during certain scanning tasks (Bilecen et al., 2000; Patel et al., 2007; Propst et al., 2010; Scheffler et al., 1998; Tschopp et al., 2000)."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T19:57:55.726958Z",
+    "inner_id": 15,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 576,
+    "annotations": [{
+        "id": 126,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "lb_yONPMHj",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T19:58:03.485614Z",
+        "updated_at": "2023-07-07T19:58:03.485614Z",
+        "draft_created_at": null,
+        "lead_time": 7.162,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "e192d057-6f50-4566-b9c9-8f581adc2150",
+        "last_action": null,
+        "task": 576,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "For example, Propst and colleagues studied the activation pattern of HI with narrowband noise and speech-in-noise tasks (Propst et al., 2010)."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T19:58:03.536945Z",
+    "inner_id": 16,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 577,
+    "annotations": [{
+        "id": 127,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "QB-UJDjNem",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T19:58:21.103895Z",
+        "updated_at": "2023-07-07T19:58:21.103895Z",
+        "draft_created_at": "2023-07-07T19:58:19.236950Z",
+        "lead_time": 17.022,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "d2d2235b-a829-4803-b09f-baa56483b2f7",
+        "last_action": null,
+        "task": 577,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In the narrowband noise task, they found that HI children had weaker activation in the auditory areas when compared to NH children."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T19:58:21.159923Z",
+    "inner_id": 17,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 578,
+    "annotations": [{
+        "id": 128,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "optn3KJxLR",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T19:59:02.134163Z",
+        "updated_at": "2023-07-07T19:59:02.134163Z",
+        "draft_created_at": null,
+        "lead_time": 40.447,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "1fbf6aef-16ab-429d-b966-14e7cf80ffee",
+        "last_action": null,
+        "task": 578,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In the speech-in-noise task, HI children activated the secondary auditory processing areas only in the left hemisphere, rather than bilaterally as is typical of NH."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T19:59:02.191155Z",
+    "inner_id": 18,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 579,
+    "annotations": [{
+        "id": 129,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "vxpya_WSX4",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T19:59:56.805771Z",
+        "updated_at": "2023-07-07T19:59:56.805771Z",
+        "draft_created_at": null,
+        "lead_time": 54.086,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "73e79cc5-5a25-4d08-8355-e54b3ac5984e",
+        "last_action": null,
+        "task": 579,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "A strong correlation (linear regression coefficient, R=0.88) was detected between the improvement in post-CI hearing threshold and the amount of activation in the A1 region before CI (Patel et al., 2007)."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T19:59:56.854992Z",
+    "inner_id": 19,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 580,
+    "annotations": [{
+        "id": 130,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "fkPRhMlZXf",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T20:01:04.200050Z",
+        "updated_at": "2023-07-07T20:01:04.200050Z",
+        "draft_created_at": null,
+        "lead_time": 66.787,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "b2d628c4-4e1d-4a47-a59f-a2c5a0df2678",
+        "last_action": null,
+        "task": 580,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Despite these recent advances, it remains unclear whether these structural and functional abnormalities are sufficient to distinguish HI from NH individuals."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T20:01:04.247452Z",
+    "inner_id": 20,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 581,
+    "annotations": [{
+        "id": 131,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "HEFBTQfkjU",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T20:01:14.432472Z",
+        "updated_at": "2023-07-07T20:01:14.432472Z",
+        "draft_created_at": null,
+        "lead_time": 9.641,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "a80dcaba-bd85-4076-82b0-cbdc8e822b5b",
+        "last_action": null,
+        "task": 581,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In this study, we set out to investigate whether we can accurately classify HI from NH individuals based on MR images alone by utilizing machine learning techniques."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T20:01:14.489878Z",
+    "inner_id": 21,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 582,
+    "annotations": [{
+        "id": 132,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "xr_o_vQmnZ",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T20:01:31.013992Z",
+        "updated_at": "2023-07-07T20:01:31.013992Z",
+        "draft_created_at": null,
+        "lead_time": 16.001,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "34f44fe5-8025-47b2-a31f-625fad12d079",
+        "last_action": null,
+        "task": 582,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "We have trained three classifiers, one based on structural MR (sMRI) images, another based on functional MR (fMRI) images, and a third that integrates sMRI and fMRI images."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T20:01:31.068504Z",
+    "inner_id": 22,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 583,
+    "annotations": [{
+        "id": 133,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "Hoqt6y12pm",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T20:03:40.071664Z",
+        "updated_at": "2023-07-07T20:03:40.071664Z",
+        "draft_created_at": "2023-07-07T20:01:44.129159Z",
+        "lead_time": 128.107,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "311e9aea-0a16-4649-946e-7496da2a82c7",
+        "last_action": null,
+        "task": 583,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "While traditional methods utilize voxel-based morphometric (VBM) features, in which each single voxel serves as an independent feature, we extracted high-level features to characterize the 3D images."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T20:03:40.134100Z",
+    "inner_id": 23,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 584,
+    "annotations": [{
+        "id": 134,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "5-iV4ZctiD",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T20:07:00.781398Z",
+        "updated_at": "2023-07-07T20:07:10.459758Z",
+        "draft_created_at": null,
+        "lead_time": 204.004,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "635fd796-6dee-4d61-828a-0efa4912eb9c",
+        "last_action": null,
+        "task": 584,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Specifically, we employed the Scale Invariant Feature Transform (SIFT) algorithm to detect and describe local features in sMRI and extracted region-level features to represent the functional contrast maps."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T20:07:10.511703Z",
+    "inner_id": 24,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 585,
+    "annotations": [{
+        "id": 135,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "cKWa8eHIpa",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T20:12:41.571070Z",
+        "updated_at": "2023-07-07T20:12:41.571070Z",
+        "draft_created_at": "2023-07-07T20:11:51.575552Z",
+        "lead_time": 329.881,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "d880dfa5-734d-40f1-8640-ad8f0f203cc7",
+        "last_action": null,
+        "task": 585,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The set of SIFT features extracted from an image contains important characteristics of this image and can be used for subsequent analysis, e.g. object recognition, gesture recognition etc."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T20:12:41.622024Z",
+    "inner_id": 25,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 586,
+    "annotations": [{
+        "id": 136,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "t4rlSh3U5A",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T20:13:16.594427Z",
+        "updated_at": "2023-07-07T20:13:16.594427Z",
+        "draft_created_at": null,
+        "lead_time": 34.402,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "94415ae5-cbf2-4bfc-a173-ee41fcf51497",
+        "last_action": null,
+        "task": 586,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In this study, we employed the SIFT algorithm to extract SIFT features from brain structural MR images, and devised an approach for the automatic classification of NH vs. HI based on the SIFT features."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T20:13:16.651870Z",
+    "inner_id": 26,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 587,
+    "annotations": [{
+        "id": 137,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "9KTYKGxHeZ",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T20:13:40.421935Z",
+        "updated_at": "2023-07-07T20:13:40.421935Z",
+        "draft_created_at": null,
+        "lead_time": 23.242,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "07aeabde-a0a1-4219-9fd4-b5c255e749a9",
+        "last_action": null,
+        "task": 587,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Secondly, brain regions identified by the classifiers enable us to better understand hearing loss, and may serve as valuable indicators for the CI outcome and facilitate follow-up treatment post-CI (Jonas et al., 2012)."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T20:13:40.470149Z",
+    "inner_id": 27,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 588,
+    "annotations": [{
+        "id": 138,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "y5NLZe2AGF",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T20:18:57.682832Z",
+        "updated_at": "2023-07-07T20:18:57.682832Z",
+        "draft_created_at": null,
+        "lead_time": 316.189,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "f47e2cf0-5a7b-4ffd-9505-c4e1bc64d638",
+        "last_action": null,
+        "task": 588,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Finally, our algorithm can be easily extended to assist in diagnosing other disorders affecting children's brains, e.g., speech sound disorders of childhood, leading to a path for improving child health."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T20:18:57.741033Z",
+    "inner_id": 28,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 589,
+    "annotations": [{
+        "id": 139,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "SBRpS13yx6",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T20:21:02.847749Z",
+        "updated_at": "2023-07-07T20:21:02.847749Z",
+        "draft_created_at": null,
+        "lead_time": 124.303,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "36ab52b8-fba6-46af-a64e-78e350387f0c",
+        "last_action": null,
+        "task": 589,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In Materials and methods, we describe in sequence the data sources and the preprocessing procedures, the methods of analyzing sMRI and fMRI images, the integrative model that combines these two methods, and the validation of our classifiers."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T20:21:02.910824Z",
+    "inner_id": 29,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 590,
+    "annotations": [{
+        "id": 140,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Coordination"]
+                ]
+            },
+            "id": "RsjD3kA5_S",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T20:29:07.901110Z",
+        "updated_at": "2023-07-07T21:01:49.247463Z",
+        "draft_created_at": "2023-07-07T20:29:07.473294Z",
+        "lead_time": 2443.054,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "1a62d907-ec07-4bf6-b3e9-a25d7c13e205",
+        "last_action": null,
+        "task": 590,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In Results, we compare the classification performance of the sMRI classifier, the fMRI classifier and the combined classifier, and assess the stability of feature selection as well as the discriminatory power of features."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T21:01:49.298014Z",
+    "inner_id": 30,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 591,
+    "annotations": [{
+        "id": 141,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "kvVAa0bRBb",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T21:01:59.215221Z",
+        "updated_at": "2023-07-07T21:01:59.215221Z",
+        "draft_created_at": null,
+        "lead_time": 8.214,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "66a15895-3723-4c44-9ad9-f62980e98001",
+        "last_action": null,
+        "task": 591,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Finally, in Discussion, we summarize the present work, highlight the significance of our approach, and discuss the limitations and envisioned future improvements."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T21:01:59.275658Z",
+    "inner_id": 31,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 592,
+    "annotations": [{
+        "id": 142,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "9KxZw37OIQ",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-07T21:02:03.852229Z",
+        "updated_at": "2023-07-07T21:02:03.852229Z",
+        "draft_created_at": null,
+        "lead_time": 4.006,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ecd91e8f-8907-43df-93e8-f17e4e0bbe27",
+        "last_action": null,
+        "task": 592,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "We also examine the predictive brain regions our classifiers identified and discuss their relevance in the context of hearing loss."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-07T21:02:03.907753Z",
+    "inner_id": 32,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 593,
+    "annotations": [{
+        "id": 143,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "-eBM9x43Zx",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-08T19:38:14.900453Z",
+        "updated_at": "2023-07-08T19:38:14.900453Z",
+        "draft_created_at": null,
+        "lead_time": 1022.428,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "e3ea79c2-8a6a-4f2b-bf1f-10202a669c02",
+        "last_action": null,
+        "task": 593,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "All hearing impaired participants were referred by the Division of Otolaryngology for MRI as part of the cochlear implant staging process and consented to participate in our adjoining fMRI protocol."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-08T19:38:14.958045Z",
+    "inner_id": 33,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 594,
+    "annotations": [{
+        "id": 144,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "ZoS8lbsfez",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-08T19:38:25.563864Z",
+        "updated_at": "2023-07-08T19:38:25.563864Z",
+        "draft_created_at": null,
+        "lead_time": 10.346,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "a05f94b9-9ace-448a-82e7-1b61a84197ee",
+        "last_action": null,
+        "task": 594,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "They had documented bilateral severe to profound hearing loss with average hearing thresholds in the range of 90dB or greater."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-08T19:38:25.616540Z",
+    "inner_id": 34,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 595,
+    "annotations": [{
+        "id": 145,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "UPK0VTp7kR",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-08T19:40:58.468350Z",
+        "updated_at": "2023-07-08T19:40:58.468350Z",
+        "draft_created_at": null,
+        "lead_time": 152.566,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "3817a6d3-ec2a-4f4c-b650-5cc6961b3eb3",
+        "last_action": null,
+        "task": 595,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Nine of these subjects had no measureable hearing response in either ear at the maximum level of our audiometry equipment, at 120dB and can be considered deaf."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-08T19:40:58.522202Z",
+    "inner_id": 35,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 596,
+    "annotations": [{
+        "id": 146,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "0nFOvIu42O",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-08T19:41:18.929687Z",
+        "updated_at": "2023-07-08T19:41:18.929687Z",
+        "draft_created_at": null,
+        "lead_time": 20.15,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "18757413-5352-45be-af2b-138413eeec7e",
+        "last_action": null,
+        "task": 596,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [{
+        "id": 23,
+        "user": "ayahfkamal@gmail.com",
+        "created_username": "ayahfkamal@gmail.com, 1",
+        "created_ago": "1 week, 2 days",
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "0nFOvIu42O",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "lead_time": 20.037,
+        "was_postponed": false,
+        "created_at": "2023-07-08T19:41:18.846473Z",
+        "updated_at": "2023-07-08T19:41:18.846473Z",
+        "task": 596,
+        "annotation": null
+    }],
+    "predictions": [],
+    "data": {
+        "text": "They were recruited for the control group if they met the inclusion criteria: gestational age of at least 36weeks, normal otoacoustic emissions hearing, and normal neuroanatomy determined by the neuroradiologist."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-08T19:41:18.992898Z",
+    "inner_id": 36,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 597,
+    "annotations": [{
+        "id": 147,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "NGW0dxVVjt",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-08T19:42:52.862820Z",
+        "updated_at": "2023-07-08T19:42:52.862820Z",
+        "draft_created_at": null,
+        "lead_time": 93.579,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "8bfc6ee5-cdf7-48d3-954f-3a505b1e8062",
+        "last_action": null,
+        "task": 597,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Informed consent of parent or guardian was obtained prior to the study protocol, and the parent agreed to additional hearing tests at a separate visit."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-08T19:42:52.923279Z",
+    "inner_id": 37,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 598,
+    "annotations": [{
+        "id": 148,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "n39rsJ-L_s",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-08T19:44:03.380643Z",
+        "updated_at": "2023-07-08T19:44:03.380643Z",
+        "draft_created_at": null,
+        "lead_time": 70.207,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "2913dcca-ced7-4f2c-8ef3-be798a74205a",
+        "last_action": null,
+        "task": 598,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Exclusions included head circumference <5 percentile or >95 percentile, orthodontic or metallic implants that interfere with the MRI, abnormal brain pathology in the central auditory pathways."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-08T19:44:03.433611Z",
+    "inner_id": 38,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 599,
+    "annotations": [{
+        "id": 149,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "lDY11D4HLY",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-08T19:44:15.566220Z",
+        "updated_at": "2023-07-08T19:44:15.566220Z",
+        "draft_created_at": null,
+        "lead_time": 11.87,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "794df50e-0ca4-4917-bda4-548636266b0f",
+        "last_action": null,
+        "task": 599,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Examples of indications for scanning in this group were, \"odd body positioning-rule out chiari malformation\", \"recent onset irritable behavior-rule out brain tumor\"."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-08T19:44:15.638279Z",
+    "inner_id": 39,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 600,
+    "annotations": [{
+        "id": 150,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "cj04sXo-2l",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-08T19:47:04.875356Z",
+        "updated_at": "2023-07-08T19:47:04.875356Z",
+        "draft_created_at": "2023-07-08T19:46:57.849274Z",
+        "lead_time": 168.947,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "1a449b5a-7cb4-40c4-9b88-2cd2295517b7",
+        "last_action": null,
+        "task": 600,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "All of these brain scans of both hearing impaired group and control group were reviewed by a pediatric neuroradiologist and assessed as having no anatomical findings of significance."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-08T19:47:04.940039Z",
+    "inner_id": 40,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 601,
+    "annotations": [{
+        "id": 151,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "Fi03gJ7Cva",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-08T19:47:21.807866Z",
+        "updated_at": "2023-07-08T19:47:21.807866Z",
+        "draft_created_at": null,
+        "lead_time": 16.613,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "b4bf6e2b-b523-4134-a369-118bcc821497",
+        "last_action": null,
+        "task": 601,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "One of the challenges of research in pediatric neuroimaging is that it is unethical to expose children to more than minimal risk for the purposes of research."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-08T19:47:21.865416Z",
+    "inner_id": 41,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 602,
+    "annotations": [{
+        "id": 161,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Sprawling Ending"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "1ZvGhIz2xQ",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:22:48.459183Z",
+        "updated_at": "2023-07-09T18:22:48.459183Z",
+        "draft_created_at": "2023-07-08T19:56:48.224330Z",
+        "lead_time": 471.792,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "f7b498b5-f4cb-4a56-9854-a8b29bed565f",
+        "last_action": null,
+        "task": 602,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Consequently, one of the fine points in the design of the present study is that we were required to select our control population among infants who were referred for an MRI scan with sedation because of a clinical indication."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-09T18:22:48.519526Z",
+    "inner_id": 42,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 603,
+    "annotations": [{
+        "id": 163,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "QEZr4fjvpP",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:24:48.706011Z",
+        "updated_at": "2023-07-09T18:24:48.706011Z",
+        "draft_created_at": "2023-07-09T18:23:31.027423Z",
+        "lead_time": 119.896,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "b96758ed-29e9-444e-bb8c-db6466476035",
+        "last_action": null,
+        "task": 603,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "With the precautions described above and other procedures we took to insure normal auditory function and brain anatomy, this is perhaps the best control group that could be obtained for this age group in an ethical fashion."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-09T18:24:48.763702Z",
+    "inner_id": 43,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 604,
+    "annotations": [{
+        "id": 165,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "Atw8PhHaLg",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:24:59.318802Z",
+        "updated_at": "2023-07-09T18:24:59.318802Z",
+        "draft_created_at": null,
+        "lead_time": 10.269,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "65886245-6d55-43be-be5a-3571ac7b2bc8",
+        "last_action": null,
+        "task": 604,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Anatomical images for this study were acquired using a 3.0Tesla Siemens Trio MRI scanner in the clinical Department of Radiology."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-09T18:24:59.383067Z",
+    "inner_id": 44,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 605,
+    "annotations": [{
+        "id": 171,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "rteQxx0OOW",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:39:00.632823Z",
+        "updated_at": "2023-07-09T18:39:00.632823Z",
+        "draft_created_at": "2023-07-09T18:25:31.530144Z",
+        "lead_time": 840.663,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "af56c308-74f6-4c9b-b936-538b17df1d2c",
+        "last_action": null,
+        "task": 605,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Isotropic images of the brain were acquired using an inversion recovery prepared rapid gradient-echo 3D method (MP-RAGE) covering the entire brain at a spatial resolution of 1×1×1mm in an axial orientation."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-09T18:39:00.687996Z",
+    "inner_id": 45,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 606,
+    "annotations": [{
+        "id": 172,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "wFoNLuedlc",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:39:13.486401Z",
+        "updated_at": "2023-07-09T18:39:13.486401Z",
+        "draft_created_at": null,
+        "lead_time": 12.462,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "b506b4c0-641d-4a5f-9917-93716d8de9e6",
+        "last_action": null,
+        "task": 606,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "These high resolution 3D-T1 weighted images were used for co-registration of fMRI scans which were also acquired during this scheduled MRI."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-09T18:39:13.552304Z",
+    "inner_id": 46,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 607,
+    "annotations": [{
+        "id": 178,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "B3VAultCFo",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T18:54:02.077328Z",
+        "updated_at": "2023-07-09T18:54:02.077328Z",
+        "draft_created_at": null,
+        "lead_time": 887.934,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "28ba6da1-e519-409f-aaee-f67dc6138317",
+        "last_action": null,
+        "task": 607,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Functional MRI scans were performed using a silent background fMRI acquisition technique that allowed auditory stimuli to be presented during a silent gradient interval of the scan, followed by an acquisition interval that captured the peak BOLD response of relevant brain regions (Schmithorst and Holland, 2004)."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-09T18:54:02.134563Z",
+    "inner_id": 47,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 608,
+    "annotations": [{
+        "id": 197,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"]
+                ]
+            },
+            "id": "eXIPNG3d1d",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:14:20.389392Z",
+        "updated_at": "2023-07-09T19:14:20.389392Z",
+        "draft_created_at": null,
+        "lead_time": 514.648,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "39ffc3a3-38b6-4009-b576-39ca0bd2039e",
+        "last_action": null,
+        "task": 608,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Using the scanner described above we acquired BOLD fMRI scans in an axial plane (4×4mm resolution), using the manufacturer's standard gradient echo, EPI sequence covering the same FOV as the 3D T1 images (see paragraph above), with the following parameters: TR\/TE=2000\/23msec, flip angle=90°, matrix=64×64 and 25 axial slices with thickness=5mm."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-09T19:14:20.450041Z",
+    "inner_id": 48,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 609,
+    "annotations": [{
+        "id": 201,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Interruptions"]
+                ]
+            },
+            "id": "o9V3QW5Ko8",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": true,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:23:08.220727Z",
+        "updated_at": "2023-07-09T19:23:08.220727Z",
+        "draft_created_at": "2023-07-09T19:19:06.260284Z",
+        "lead_time": 527.16,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "abf940ba-c8ea-46be-bcb0-14a30fc86d84",
+        "last_action": null,
+        "task": 609,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In the present study, all stimulus and control intervals were of equal duration (5s) in a three-phase auditory paradigm consisting of speech, silence, and narrow band noise tones interleaved with acquisition periods of 6s during which 3 image volumes were obtained covering the whole brain."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-09T19:23:08.286607Z",
+    "inner_id": 49,
+    "total_annotations": 0,
+    "cancelled_annotations": 1,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 610,
+    "annotations": [{
+        "id": 203,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "7yYjNQ4zGC",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:23:16.827966Z",
+        "updated_at": "2023-07-09T19:23:16.827966Z",
+        "draft_created_at": null,
+        "lead_time": 8.246,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "00c73794-01a3-47e8-a4cd-f49e659c1e3f",
+        "last_action": null,
+        "task": 610,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "This condition was followed by a 6s data acquisition and then a 5s interval of silence as a control condition."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-09T19:23:16.885290Z",
+    "inner_id": 50,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 611,
+    "annotations": [{
+        "id": 205,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "BMtR1jj45d",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:23:49.474539Z",
+        "updated_at": "2023-07-09T19:23:49.474539Z",
+        "draft_created_at": "2023-07-09T19:23:34.780138Z",
+        "lead_time": 32.318,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "cd0806e2-0553-42f7-9260-1b0231e62444",
+        "last_action": null,
+        "task": 611,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Five NBN tones of 1s duration with center frequencies of 250, 500, 1000, 2000 and 4000Hz and bandwidth of 50% were played in random order during this control condition, for a total of 5s during a silent interval of the scanner."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-09T19:23:49.533339Z",
+    "inner_id": 51,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 612,
+    "annotations": [{
+        "id": 207,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "lZanqf1UI9",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:24:19.729978Z",
+        "updated_at": "2023-07-09T19:24:19.729978Z",
+        "draft_created_at": "2023-07-09T19:24:15.290756Z",
+        "lead_time": 29.914,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "bd581fca-3282-43a7-bea6-de3d6a476dd2",
+        "last_action": null,
+        "task": 612,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "An additional interval of 1s of silence followed each acquisition to provide an acoustic demarcation prior to the stimulus onset of each stimulus condition."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-09T19:24:19.795440Z",
+    "inner_id": 52,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 613,
+    "annotations": [{
+        "id": 210,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "MnQir_GZnZ",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:25:58.824927Z",
+        "updated_at": "2023-07-09T19:25:58.824927Z",
+        "draft_created_at": "2023-07-09T19:24:39.070113Z",
+        "lead_time": 98.731,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "943ccd99-3c58-464f-af57-2e554d55cdc7",
+        "last_action": null,
+        "task": 613,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Auditory stimuli were administered through calibrated MR compatible headphones at a sound level of 10-15dB greater than the individual participant's Pure Tone Average (PTA) hearing threshold."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-09T19:25:58.881231Z",
+    "inner_id": 53,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 614,
+    "annotations": [{
+        "id": 212,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "gDseHYX18O",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-09T19:26:15.078438Z",
+        "updated_at": "2023-07-09T19:26:15.078438Z",
+        "draft_created_at": "2023-07-09T19:26:11.603944Z",
+        "lead_time": 15.901,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "4e80328c-6309-4a64-bcee-251d391ba179",
+        "last_action": null,
+        "task": 614,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Each hearing impaired participant in the study had a recent audiogram, which was used to determine the sound level for fMRI."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-09T19:26:15.138143Z",
+    "inner_id": 54,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 615,
+    "annotations": [{
+        "id": 268,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Coordination"]
+                ]
+            },
+            "id": "oAHOdc4_WH",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-10T23:05:25.351126Z",
+        "updated_at": "2023-07-10T23:05:25.358633Z",
+        "draft_created_at": "2023-07-10T21:15:42.739441Z",
+        "lead_time": 3.884,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "8431a353-532a-4251-94b0-705b7d332323",
+        "last_action": null,
+        "task": 615,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "fMRI data were initially analyzed on a voxel-by-voxel basis to identify the activated brain regions using a standard pre-processing pipeline implemented in the Cincinnati Children's Hospital Image Processing Software (CCHIPS) (Schmithorst et al., 2010) written in IDL computer language."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-10T23:05:25.409790Z",
+    "inner_id": 55,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 616,
+    "annotations": [{
+        "id": 269,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "gge2U9CqHF",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-10T23:06:12.278956Z",
+        "updated_at": "2023-07-10T23:06:12.278956Z",
+        "draft_created_at": null,
+        "lead_time": 46.61,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "0b8a3f0e-c900-414b-b5b0-31d5f641f7c1",
+        "last_action": null,
+        "task": 616,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Since the subjects were sedated, we assumed that the anatomical image was naturally aligned with the functional images for each individual."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-10T23:06:12.334327Z",
+    "inner_id": 56,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 617,
+    "annotations": [{
+        "id": 270,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "yJ8ItFzpSr",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-10T23:08:00.859629Z",
+        "updated_at": "2023-07-10T23:08:00.859629Z",
+        "draft_created_at": "2023-07-10T23:06:29.858273Z",
+        "lead_time": 108.222,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "1dc6493c-95f8-467d-83e0-1f40e8446bfe",
+        "last_action": null,
+        "task": 617,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "To generate both normalized contrast maps used in the current study as well as contrast maps in native space for other uses, we first generated contrast maps in each individual's native space and then normalized the contrast maps to standard space."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-10T23:08:00.933261Z",
+    "inner_id": 57,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 618,
+    "annotations": [{
+        "id": 271,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "3j_K88557J",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-10T23:08:13.966036Z",
+        "updated_at": "2023-07-10T23:08:13.966036Z",
+        "draft_created_at": null,
+        "lead_time": 12.766,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "433fbd33-3ee4-4682-82e1-799bb8d1dd7f",
+        "last_action": null,
+        "task": 618,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The raw EPI images were simultaneously corrected for Nyquist ghosting and geometrical distortion (due to B0 field inhomogeneity) (Schmithorst et al., 2001)."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-10T23:08:14.028302Z",
+    "inner_id": 58,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 619,
+    "annotations": [{
+        "id": 274,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "Phfc6UrA3r",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-10T23:24:54.136771Z",
+        "updated_at": "2023-07-10T23:24:54.136771Z",
+        "draft_created_at": "2023-07-10T23:09:28.581528Z",
+        "lead_time": 29.056,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "24ef5fa4-7a53-4255-9648-5e4f6ffc2340",
+        "last_action": null,
+        "task": 619,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Finally, the individual image volumes (1,2,3) in the event-related fMRI acquisition were separated and submitted to a final pre-processing step using the General Linear Model (Worsley et al., 2002) to construct individual Z-maps for each volume and contrast condition (speech vs. silence, speech vs. tones and tones vs. silence)."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-10T23:24:54.242993Z",
+    "inner_id": 59,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 620,
+    "annotations": [{
+        "id": 275,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "BWKxgUoCrB",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-10T23:25:10.117770Z",
+        "updated_at": "2023-07-10T23:25:10.117770Z",
+        "draft_created_at": null,
+        "lead_time": 15.415,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "90a010ce-ea85-47f0-abc0-65af47450271",
+        "last_action": null,
+        "task": 620,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Z-maps showing activation for each condition for each participant were then computed by averaging the Z-maps from the individual volumes for each contrast condition (Patel et al., 2007; Schmithorst and Holland, 2004)."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-10T23:25:10.217686Z",
+    "inner_id": 60,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 621,
+    "annotations": [{
+        "id": 286,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "Gbv7UgKMvu",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-10T23:47:14.189775Z",
+        "updated_at": "2023-07-10T23:47:14.189775Z",
+        "draft_created_at": null,
+        "lead_time": 1323.179,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "1f041a13-0adc-4b00-a917-b6c84fe4554b",
+        "last_action": null,
+        "task": 621,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The neuroradiologist reviewed both functional and anatomical MRI scans for each participant and completed a standardized report indicating whether brain abnormalities or brain activities were detected in primary auditory areas, language areas or other brain regions."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-10T23:47:14.299054Z",
+    "inner_id": 61,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 622,
+    "annotations": [{
+        "id": 287,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "K0gMzaT7bU",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-10T23:47:28.524430Z",
+        "updated_at": "2023-07-10T23:47:28.524430Z",
+        "draft_created_at": null,
+        "lead_time": 13.452,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ce45fe03-e655-4849-aa5c-c1e3198321af",
+        "last_action": null,
+        "task": 622,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "After that, we performed spatial normalization using SPM8 with a T1 template constructed from a control group of age matched subjects selected specifically for this infant cohort (Altaye et al., 2008)."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-10T23:47:28.639903Z",
+    "inner_id": 62,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 623,
+    "annotations": [{
+        "id": 346,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "9PQnZRw6HB",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T00:41:36.720749Z",
+        "updated_at": "2023-07-11T00:41:36.720749Z",
+        "draft_created_at": null,
+        "lead_time": 3247.339,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "d47d651d-f2e6-45fe-911e-e603cab7ca77",
+        "last_action": null,
+        "task": 623,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "For sMRI images, we used SIFT features to represent the brain images and developed an algorithm to analyze the SIFT features."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-11T00:41:36.820481Z",
+    "inner_id": 63,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 624,
+    "annotations": [{
+        "id": 356,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "nYU8kE4rVB",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T00:51:29.751111Z",
+        "updated_at": "2023-07-11T00:51:29.751111Z",
+        "draft_created_at": "2023-07-11T00:49:24.391986Z",
+        "lead_time": 592.476,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "30d6c176-94fd-4dfc-8082-eb86b8c4fba9",
+        "last_action": null,
+        "task": 624,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "We have previously applied this method to Alzheimer's disease, Parkinson's disease and bipolar disease, and it has demonstrated promising classification performance (Chen et al., 2013)."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-11T00:51:29.845475Z",
+    "inner_id": 64,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 625,
+    "annotations": [{
+        "id": 360,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Intro Phrase"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "9fO4VNb__B",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T00:53:39.856956Z",
+        "updated_at": "2023-07-11T00:53:39.856956Z",
+        "draft_created_at": "2023-07-11T00:51:56.157440Z",
+        "lead_time": 129.532,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "7e253507-a60c-4379-803f-e4b1b605b1c3",
+        "last_action": null,
+        "task": 625,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Due to the high density of SIFT features in the brain images and the pair-wise comparison among SIFT features required in a later step, analyzing the 3D brain image as a whole is computationally infeasible."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-11T00:53:39.948890Z",
+    "inner_id": 65,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 626,
+    "annotations": [{
+        "id": 376,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "c816brDQOi",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T01:11:45.134536Z",
+        "updated_at": "2023-07-11T01:11:45.134536Z",
+        "draft_created_at": null,
+        "lead_time": 1084.382,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "673ea848-1b02-4131-8e2e-076104297496",
+        "last_action": null,
+        "task": 626,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Since the dimensions of brain image were not divisible by 20, the cubes at the end of dimensions only contained the remaining volume of the brain image and therefore had a size smaller than 20×20×20."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-11T01:11:45.225216Z",
+    "inner_id": 66,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 627,
+    "annotations": [{
+        "id": 385,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "Eu0rUZzxBp",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T01:23:35.352800Z",
+        "updated_at": "2023-07-11T01:23:35.352800Z",
+        "draft_created_at": null,
+        "lead_time": 709.359,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "a779ec9b-9c3a-4236-b9cb-0fe4da640831",
+        "last_action": null,
+        "task": 627,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The cube size mainly affects the computation speed and accuracy of the likelihood scores as described in the Feature evaluation section below."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-11T01:23:35.443475Z",
+    "inner_id": 67,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 628,
+    "annotations": [{
+        "id": 391,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "KXxuNFza98",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T01:26:19.617730Z",
+        "updated_at": "2023-07-11T01:26:19.617730Z",
+        "draft_created_at": null,
+        "lead_time": 163.741,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "3b9dcf8a-6ac8-45d8-b842-bcea4c650fb3",
+        "last_action": null,
+        "task": 628,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "A larger size leads to a much longer computation time, while a smaller size decreases the accuracy of likelihood scores and subsequently leads to lower classification accuracy."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-11T01:26:19.709173Z",
+    "inner_id": 68,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 629,
+    "annotations": [{
+        "id": 392,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "7ipIz-B-Wu",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T01:26:32.334462Z",
+        "updated_at": "2023-07-11T01:26:32.334462Z",
+        "draft_created_at": null,
+        "lead_time": 12.19,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "9037b529-a6b7-49c5-8bf5-83bbef8d30d3",
+        "last_action": null,
+        "task": 629,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In this study, we used the SIFT algorithm provided in a publicly available computer vision software package vlFeat (Vedaldi and Fulkerson, 2010)."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-11T01:26:32.427655Z",
+    "inner_id": 69,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 630,
+    "annotations": [{
+        "id": 395,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "PMpis-wrre",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T01:27:07.150314Z",
+        "updated_at": "2023-07-11T01:27:07.150314Z",
+        "draft_created_at": null,
+        "lead_time": 34.262,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "c00b9b95-f36c-4853-94ef-e0d8c27976a5",
+        "last_action": null,
+        "task": 630,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The existence of a SIFT feature suggests that there is a blob-like image component at the center location of the SIFT feature and the scale of the feature represents the radius of the blob-like component."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-11T01:27:07.242303Z",
+    "inner_id": 70,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 631,
+    "annotations": [{
+        "id": 397,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Interruptions"]
+                ]
+            },
+            "id": "IQVkZVcz2m",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T01:27:39.220592Z",
+        "updated_at": "2023-07-11T01:27:39.220592Z",
+        "draft_created_at": "2023-07-11T01:27:19.092720Z",
+        "lead_time": 31.551,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "10b9c2a5-e655-49fb-b121-53a5649678a9",
+        "last_action": null,
+        "task": 631,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The orientation, as shown by the line starting from the center of the circle, represents the general direction of change in image intensity."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-11T01:27:39.313510Z",
+    "inner_id": 71,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 632,
+    "annotations": [{
+        "id": 402,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "_UzUlzpQPP",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T01:32:40.922198Z",
+        "updated_at": "2023-07-11T01:32:40.922198Z",
+        "draft_created_at": null,
+        "lead_time": 13.64,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "587b5c85-4fe8-4496-99a3-a9cd2af1463d",
+        "last_action": null,
+        "task": 632,
+        "project": 4,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "e09b8ebe-S2213158213001253_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The length of a line represents the number of pixels which have a gradient direction the same as the line, and some of the lines may have a length of zero."
+    },
+    "meta": {},
+    "created_at": "2023-07-07T15:42:40.941871Z",
+    "updated_at": "2023-07-11T01:32:41.020445Z",
+    "inner_id": 72,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 4,
+    "updated_by": 1,
+    "comment_authors": []
+}]

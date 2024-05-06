@@ -1,0 +1,2190 @@
+[{
+    "id": 1010,
+    "annotations": [{
+        "id": 559,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "LluRerQHYk",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:10:04.557048Z",
+        "updated_at": "2023-07-11T19:10:06.410906Z",
+        "draft_created_at": null,
+        "lead_time": 16.161,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "42eaf12c-6d48-484e-96b7-726ba34d34d3",
+        "last_action": null,
+        "task": 1010,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 588,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "WbvcbF21qf",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["Does not have any dependent clauses"]
+            },
+            "id": "G25gFTwg3R",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-13T19:23:06.689710Z",
+        "updated_at": "2023-07-13T19:23:06.689710Z",
+        "draft_created_at": "2023-07-13T19:23:01.239993Z",
+        "lead_time": 17.821,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "cf023e2b-07d2-4983-99fa-82c13939dc11",
+        "last_action": null,
+        "task": 1010,
+        "project": 7,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The path of the chirality delivery in the crystalline and chiral nucleotide-Co(II) complex, [Co(GMP)(H2O)5]·3H2O (GMP=guanosine-5′-monophosphate), has been studied based on X-ray single crystal diffraction analysis, liquid- and solid-state circular dichroism (CD) spectroscopy."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-13T19:23:06.754409Z",
+    "inner_id": 1,
+    "total_annotations": 2,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 1011,
+    "annotations": [{
+        "id": 520,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "A4AqwgdIos",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T18:53:05.212965Z",
+        "updated_at": "2023-07-11T18:53:05.212965Z",
+        "draft_created_at": null,
+        "lead_time": 10.855,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "911523d8-f049-4af3-b501-650f5e0b5aa2",
+        "last_action": null,
+        "task": 1011,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The multiple and helical H-bonding is a distinctive way of chirality delivery from the discrete molecules to three-dimensional supramolecular architecture."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T18:53:05.276019Z",
+    "inner_id": 2,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1012,
+    "annotations": [{
+        "id": 521,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "upOYCWmaP_",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T18:53:26.407679Z",
+        "updated_at": "2023-07-11T18:53:26.407679Z",
+        "draft_created_at": "2023-07-11T18:53:23.610517Z",
+        "lead_time": 20.671,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "9e3c0598-2814-4336-b071-ffd2f2cc5e7e",
+        "last_action": null,
+        "task": 1012,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The molecular chirality of crystallized nucleotide-transition metal coordination complex is delivered to three-dimensional supramolecular architecture through multiple and helical H-bonding in its crystal lattice."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T18:53:26.471493Z",
+    "inner_id": 3,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1013,
+    "annotations": [{
+        "id": 522,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "ON9ckLxydZ",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T18:53:32.378034Z",
+        "updated_at": "2023-07-11T18:53:32.378034Z",
+        "draft_created_at": null,
+        "lead_time": 5.471,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "e89897a9-d483-43ca-9ace-06c6eb65e36a",
+        "last_action": null,
+        "task": 1013,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The chirality delivery is a growing topic of interest in light of its importance in biology and advanced materials [1]."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T18:53:32.457393Z",
+    "inner_id": 4,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1014,
+    "annotations": [{
+        "id": 523,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "4CErEPYmgC",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T18:54:07.317395Z",
+        "updated_at": "2023-07-11T18:54:07.317395Z",
+        "draft_created_at": "2023-07-11T18:53:46.428748Z",
+        "lead_time": 34.388,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "49fadb67-8ea4-43e6-86c7-13ff5bb9dee9",
+        "last_action": null,
+        "task": 1014,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "To understand the way and mechanism of chirality delivery is important for controllable synthesis of chiral material and understanding the functions of biological system, which is still a challenge to chemists."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T18:54:07.364860Z",
+    "inner_id": 5,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1015,
+    "annotations": [{
+        "id": 524,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "SCX97fFVor",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T18:54:17.252807Z",
+        "updated_at": "2023-07-11T18:54:17.252807Z",
+        "draft_created_at": null,
+        "lead_time": 9.464,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "63fde4a4-1bee-461b-826b-c2ae5bf9d99e",
+        "last_action": null,
+        "task": 1015,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Noncovalent interactions such as H-bonding, aromatic stacking, electrostatic, etc. are vital in the self-assembly process and in determining the final geometry of the resulting metallosupramolecular structures [3,4]."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T18:54:17.347643Z",
+    "inner_id": 6,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1016,
+    "annotations": [{
+        "id": 525,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "dYHrtbH0Tz",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T18:54:31.365933Z",
+        "updated_at": "2023-07-11T18:54:31.365933Z",
+        "draft_created_at": null,
+        "lead_time": 13.592,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "8bb866f7-677c-4e93-b96e-6bea4d8f2413",
+        "last_action": null,
+        "task": 1016,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "As we know, nucleotide is a kind of optically active and fundamental biomolecules and can be chiral ligands for transition metal [5,6]."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T18:54:31.444564Z",
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1017,
+    "annotations": [{
+        "id": 526,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "s9DX0CYYlf",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T18:55:04.403895Z",
+        "updated_at": "2023-07-11T18:55:04.403895Z",
+        "draft_created_at": "2023-07-11T18:54:47.813008Z",
+        "lead_time": 32.495,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "0c695881-8640-45f4-83ce-f1ca3990a4ba",
+        "last_action": null,
+        "task": 1017,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Although there are a few of nucleotide coordination complexes reported [7,8], the coordination chemistry and supramolecular chemistry of nucleotide-metal systems are still in infant."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T18:55:04.497995Z",
+    "inner_id": 8,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1018,
+    "annotations": [{
+        "id": 527,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "7FLhsjG5sL",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T18:55:53.465460Z",
+        "updated_at": "2023-07-11T18:55:53.465460Z",
+        "draft_created_at": "2023-07-11T18:55:23.172739Z",
+        "lead_time": 48.512,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "8306340f-6f70-4c01-a1de-e99edaa7ead7",
+        "last_action": null,
+        "task": 1018,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Herein, an alternative and unusual path of the chirality delivery in GMP-Co(II) complex, different from the path in the GMP-Cu(II) complex, has been investigated based on X-ray single crystal diffraction, liquid- and solid-state circular dichroism (CD) spectroscopy."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T18:55:53.544712Z",
+    "inner_id": 9,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1019,
+    "annotations": [{
+        "id": 528,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "aZaayLp-4u",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T18:56:01.920534Z",
+        "updated_at": "2023-07-11T18:56:01.920534Z",
+        "draft_created_at": null,
+        "lead_time": 7.88,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "eeca9e34-4968-402e-b13c-a1be600a5b4c",
+        "last_action": null,
+        "task": 1019,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The molecular structure of complex 1 is built up of a Co(II) ion coordinated with one GMP ligand and five coordinated water molecules (Fig. 1, Tables S1 and S2)."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T18:56:02.014850Z",
+    "inner_id": 10,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1020,
+    "annotations": [{
+        "id": 529,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "rxFVX08dpa",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T18:56:14.121364Z",
+        "updated_at": "2023-07-11T18:56:14.121364Z",
+        "draft_created_at": "2023-07-11T18:56:13.773415Z",
+        "lead_time": 11.641,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "f5fa6503-bee4-4c81-8da2-338a10218e8a",
+        "last_action": null,
+        "task": 1020,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The chirality of GMP ligand was remained in the molecule of 1 and induced molecular chirality based on the distorted octahedral geometry of the Co(II) center."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T18:56:14.184624Z",
+    "inner_id": 11,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1021,
+    "annotations": [{
+        "id": 530,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "5JMv8iQOcj",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T18:56:35.365439Z",
+        "updated_at": "2023-07-11T18:56:35.365439Z",
+        "draft_created_at": null,
+        "lead_time": 20.726,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "87724753-8b13-4f03-88f4-e69e29e2496b",
+        "last_action": null,
+        "task": 1021,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Different to nucleotide-ratio in complex 1 is 1:1, which makes the large freedom of GMP ligand especially for phosphate group."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T18:56:35.428115Z",
+    "inner_id": 12,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1022,
+    "annotations": [{
+        "id": 531,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "MkSEf_Dle7",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T18:56:58.159889Z",
+        "updated_at": "2023-07-11T18:56:58.159889Z",
+        "draft_created_at": null,
+        "lead_time": 22.282,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "2f2f4aa3-fa2b-4068-8285-819ab707d8ee",
+        "last_action": null,
+        "task": 1022,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "It leads to the diversity of H-bonding pattern and helical pattern in molecular packing in crystal lattice in the viewpoint of supramolecular chemistry."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T18:56:58.222560Z",
+    "inner_id": 13,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1023,
+    "annotations": [{
+        "id": 532,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "tVQaPxghqW",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T18:57:07.818970Z",
+        "updated_at": "2023-07-11T18:57:07.818970Z",
+        "draft_created_at": null,
+        "lead_time": 9.141,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "f9de9889-1901-469c-98a8-80925a09abcd",
+        "last_action": null,
+        "task": 1023,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The molecules are linked by a strong H-bonding, O11-H11A…O5 (1.845Å, 2.657Å, 166.64°) and O9-H9A…O6 (1.945Å, 2.755Å, 168.27°) (Fig. 2(a)) to form a 1D right-handed helical chain along b axis."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T18:57:07.882862Z",
+    "inner_id": 14,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1024,
+    "annotations": [{
+        "id": 533,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "wM9Xayp3Hq",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T18:58:50.587027Z",
+        "updated_at": "2023-07-11T18:58:50.587027Z",
+        "draft_created_at": "2023-07-11T18:57:26.265996Z",
+        "lead_time": 102.214,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "eef5c850-b2c2-43f7-ace3-af1203e14ae3",
+        "last_action": null,
+        "task": 1024,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The twist is mainly origin from the flexibility of sugar moiety and phosphate group and π-π packing between adjacent helical chains, which induces rotation angle to be nearly 180° and is different from the previous report [7a]."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T18:58:50.649513Z",
+    "inner_id": 15,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1025,
+    "annotations": [{
+        "id": 534,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "tOWJMLNLil",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T18:59:01.271178Z",
+        "updated_at": "2023-07-11T18:59:01.271178Z",
+        "draft_created_at": null,
+        "lead_time": 10.155,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "76bc8ccb-3418-4741-9151-471d5a8c54de",
+        "last_action": null,
+        "task": 1025,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Then, these 1D helix chains are assembly by H-bonding at the presence of solvent water molecules (O13, O14) to construct the 3D chiral supramolecular architectures."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T18:59:01.350218Z",
+    "inner_id": 16,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1026,
+    "annotations": [{
+        "id": 535,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "lPxuouZLqb",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T18:59:11.414912Z",
+        "updated_at": "2023-07-11T18:59:11.414912Z",
+        "draft_created_at": null,
+        "lead_time": 9.623,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "dcb22ee0-b632-454b-853c-a8e0b2131ead",
+        "last_action": null,
+        "task": 1026,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "One kind of the assembly mode is the neighbor helical chains linked by strong and right-handed helical H-bonding along b axis [O8-H80…O14 (1.741Å, 2.550Å, 176.33°), O14-H14B…O4 (1.969Å, 2.782Å, 168.51°), O9-H9B…O4 (2.173Å, 2.173Å, 168.27°)] (Fig. 2(b))."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T18:59:11.478071Z",
+    "inner_id": 17,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1027,
+    "annotations": [{
+        "id": 536,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "aM8Dx6AE81",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T18:59:26.278187Z",
+        "updated_at": "2023-07-11T18:59:26.278187Z",
+        "draft_created_at": "2023-07-11T18:59:24.427961Z",
+        "lead_time": 14.376,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "e18fe642-32cc-4ff1-b453-d658c790b5c0",
+        "last_action": null,
+        "task": 1027,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Interestingly, this H-bonding mode is the same with that within the 1D chain, which is twisted nearly by 180° and the screw pitch is 11.072(4)Å."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T18:59:26.341863Z",
+    "inner_id": 18,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1028,
+    "annotations": [{
+        "id": 537,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "Kw6pmzRAQY",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T18:59:50.698858Z",
+        "updated_at": "2023-07-11T18:59:50.698858Z",
+        "draft_created_at": "2023-07-11T18:59:39.993819Z",
+        "lead_time": 23.908,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "679dc2fd-0de1-4da0-95b3-03be3d1d9974",
+        "last_action": null,
+        "task": 1028,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "That is to say, the 1D chain consisted of the half of the blue chain and the half of the green chain is the same with homocolor chain, blue or green one."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T18:59:50.761680Z",
+    "inner_id": 19,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1029,
+    "annotations": [{
+        "id": 538,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "FizqBfUv-R",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:00:01.026653Z",
+        "updated_at": "2023-07-11T19:00:01.026653Z",
+        "draft_created_at": null,
+        "lead_time": 9.791,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "8b4a756e-41b3-4630-9657-55359ffc12bb",
+        "last_action": null,
+        "task": 1029,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Further, these 2D sheets are packed based on π-π stacking (3.3304Å) between on the ab plane combining with H-bonding [O14-H14A…O15 (1.890Å, 2.691Å, 164.53°); O14-H14B…O4 (1.969Å, 2.782Å, 168.51°)] (Fig. 2(c))."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T19:00:01.121296Z",
+    "inner_id": 20,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1030,
+    "annotations": [{
+        "id": 539,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "Oz1U0zgv4Q",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:00:24.770633Z",
+        "updated_at": "2023-07-11T19:00:24.770633Z",
+        "draft_created_at": "2023-07-11T19:00:23.821980Z",
+        "lead_time": 23.212,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "c46af8e0-bd54-41a8-9349-e6fa3e708fe3",
+        "last_action": null,
+        "task": 1030,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The 3D topology of complex 1 with each complex as one node and intermolecular interactions as linker is (4,6) network (Fig. 2(d)), which displays the relationship of complex molecules packing in the crystal lattice clearly."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T19:00:24.833977Z",
+    "inner_id": 21,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1031,
+    "annotations": [{
+        "id": 540,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "wZWJn-NWkf",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:00:34.894129Z",
+        "updated_at": "2023-07-11T19:00:34.894129Z",
+        "draft_created_at": null,
+        "lead_time": 9.628,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ed6bb7cc-0559-4185-a407-72bc922a62e6",
+        "last_action": null,
+        "task": 1031,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Both of the chirality of the ligand and complex 1 have been confirmed by liquid circular dichroism (CD) studies (Fig. 3(a))."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T19:00:34.956725Z",
+    "inner_id": 22,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1032,
+    "annotations": [{
+        "id": 541,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "A3UbxfQbw0",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:00:57.016369Z",
+        "updated_at": "2023-07-11T19:00:57.016369Z",
+        "draft_created_at": null,
+        "lead_time": 21.621,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "4a39ece2-0253-47c3-908a-3555cf78da25",
+        "last_action": null,
+        "task": 1032,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [{
+        "id": 237,
+        "user": "a.areebabubaker@gmail.com",
+        "created_username": "a.areebabubaker@gmail.com, 3",
+        "created_ago": "6 days, 1 hour",
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "A3UbxfQbw0",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "lead_time": 21.48,
+        "was_postponed": false,
+        "created_at": "2023-07-11T19:00:56.873409Z",
+        "updated_at": "2023-07-11T19:00:56.873409Z",
+        "task": 1032,
+        "annotation": null
+    }],
+    "predictions": [],
+    "data": {
+        "text": "The CD spectrum of the GMP ligands in aqueous solution has a strong negative band at 196nm which relates to the conformation of the sugar moiety."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T19:00:57.063825Z",
+    "inner_id": 23,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1033,
+    "annotations": [{
+        "id": 542,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "DDZm1ODGaL",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:01:09.510250Z",
+        "updated_at": "2023-07-11T19:01:09.510250Z",
+        "draft_created_at": "2023-07-11T19:01:08.918801Z",
+        "lead_time": 12.002,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "43906570-6ab0-49fc-88aa-5a514cda92f0",
+        "last_action": null,
+        "task": 1033,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Most of the CD active transitions are n→π* in nature [11], although the π→π* transitions dominate UV-vis spectrum (Fig. S1)."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T19:01:09.589250Z",
+    "inner_id": 24,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1034,
+    "annotations": [{
+        "id": 543,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "uDFB72GhvJ",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:01:16.386282Z",
+        "updated_at": "2023-07-11T19:01:16.386282Z",
+        "draft_created_at": null,
+        "lead_time": 6.343,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "1c9bd09b-b675-4b37-84bb-bca50da81844",
+        "last_action": null,
+        "task": 1034,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The absence of this band in the spectrum of GMP might be caused by the balance between α- and β-anomers through mutarotation in water solution [10]."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T19:01:16.464167Z",
+    "inner_id": 25,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1035,
+    "annotations": [{
+        "id": 544,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "NtEDfAz4Mv",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:02:33.721740Z",
+        "updated_at": "2023-07-11T19:02:33.721740Z",
+        "draft_created_at": "2023-07-11T19:01:34.530558Z",
+        "lead_time": 76.807,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "e6595b04-e0d4-40b4-8ae1-28351788f7c4",
+        "last_action": null,
+        "task": 1035,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The typical CD spectrum illustrates that the GMP ligands are the d-ribonucleotide which has a positive band near 220nm and was found to be the mirror image of the l-ribo [5]."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T19:02:33.800829Z",
+    "inner_id": 26,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1036,
+    "annotations": [{
+        "id": 545,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "LhYGD3wqjw",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:03:01.076742Z",
+        "updated_at": "2023-07-11T19:03:01.076742Z",
+        "draft_created_at": "2023-07-11T19:02:50.865512Z",
+        "lead_time": 26.801,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "4fd86aea-a64f-4ec7-baf7-d8e1bdb821d7",
+        "last_action": null,
+        "task": 1036,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Compared to the ligand, the positive cotton effect (CE) of complex 1 becomes weaker and narrower, which can be explained by the fact that the coordination of Co(II) to the nucleobase reduces the n→π* transition of the chromophore [12] and the number of G4 is decreased [3]."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T19:03:01.139969Z",
+    "inner_id": 27,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1037,
+    "annotations": [{
+        "id": 546,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "Oohqu5B-EA",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:03:08.371507Z",
+        "updated_at": "2023-07-11T19:03:08.371507Z",
+        "draft_created_at": null,
+        "lead_time": 6.784,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "23c49f7c-98f1-4446-9e3a-43cd293eb3f2",
+        "last_action": null,
+        "task": 1037,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Weak negative bands centered at 250, 253 and 269nm appear, which are composed of two π→π* transition and one n→π* transition, respectively [5]."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T19:03:08.447403Z",
+    "inner_id": 28,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1038,
+    "annotations": [{
+        "id": 547,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "KGkYzxeamr",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:05:20.451207Z",
+        "updated_at": "2023-07-11T19:05:20.451207Z",
+        "draft_created_at": "2023-07-11T19:03:29.956221Z",
+        "lead_time": 131.519,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "a0d33489-9715-4c3e-a1a7-7e928febfd35",
+        "last_action": null,
+        "task": 1038,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "This negative CE demonstrates that the chiral of GMP delivers to GMP-Co(II) compounds and GMP mainly keeps the β-anomers in the complex."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T19:05:20.514108Z",
+    "inner_id": 29,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1039,
+    "annotations": [{
+        "id": 548,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "Tta_H1abvf",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:05:30.135030Z",
+        "updated_at": "2023-07-11T19:05:30.135030Z",
+        "draft_created_at": null,
+        "lead_time": 9.14,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "4ebd59b6-34e5-4c82-a277-7d75d79939d8",
+        "last_action": null,
+        "task": 1039,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "To deliberate the chirality of the supramolecular architecture, solid state circular dichroism spectra were measured in a KCl matrix for GMP ligand and the single-crystals of complex 1 (Fig. 3(b))."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T19:05:30.214119Z",
+    "inner_id": 30,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1040,
+    "annotations": [{
+        "id": 549,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "YNW6EdCwx-",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:05:44.724943Z",
+        "updated_at": "2023-07-11T19:05:44.724943Z",
+        "draft_created_at": null,
+        "lead_time": 14.016,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "9ee6b553-087c-404e-8b26-7c4b39f3ab88",
+        "last_action": null,
+        "task": 1040,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In solid-state, mutarotation is more difficult and the negative band at the 260nm nearby can be detected which indicates that the GMP ligand is mainly β-anomers."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T19:05:44.787990Z",
+    "inner_id": 31,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1041,
+    "annotations": [{
+        "id": 550,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "uzmBW-dacC",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:05:52.870774Z",
+        "updated_at": "2023-07-11T19:05:52.870774Z",
+        "draft_created_at": null,
+        "lead_time": 7.626,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ae1ce2e8-9037-4034-8d6f-4834f93103ed",
+        "last_action": null,
+        "task": 1041,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In the spectrum of complex 1, the weak negative band at 215-225nm indicates that the GMP exists as l-ribo [5], which is induced by the strong π-π and hydrogen bonding interaction."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T19:05:52.966096Z",
+    "inner_id": 32,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1042,
+    "annotations": [{
+        "id": 551,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "US3M6ZFpL6",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:06:00.185533Z",
+        "updated_at": "2023-07-11T19:06:00.185533Z",
+        "draft_created_at": null,
+        "lead_time": 6.789,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "41865951-5c21-4fcb-a543-e0d58c4322b9",
+        "last_action": null,
+        "task": 1042,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "For solid samples, CD spectroscopy is highly sensitive to even a very small distortion from planarity of the aromatic chromophore [12]."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T19:06:00.263831Z",
+    "inner_id": 33,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1043,
+    "annotations": [{
+        "id": 552,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "yY8D92u9e6",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:07:15.204351Z",
+        "updated_at": "2023-07-11T19:07:15.204351Z",
+        "draft_created_at": "2023-07-11T19:06:17.437356Z",
+        "lead_time": 74.48,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "4540e0cd-5b5d-40b0-a619-0f491124866f",
+        "last_action": null,
+        "task": 1043,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The strong negative CE centered at 297nm (θ≈-10mdeg) is due to the excitation coupling of π→π* transitions of the aromatic chromophores, including the intra- and intermolecular coupling of the guanine chromophores [13], which is consistent with the single crystal structure."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T19:07:15.268026Z",
+    "inner_id": 34,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1044,
+    "annotations": [{
+        "id": 553,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "aVweM_PYF9",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:08:00.004450Z",
+        "updated_at": "2023-07-11T19:08:00.004450Z",
+        "draft_created_at": "2023-07-11T19:07:37.601907Z",
+        "lead_time": 44.275,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "62989053-8ad0-4b24-859b-b74c37428b3c",
+        "last_action": null,
+        "task": 1044,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In this work, the experiment results confirmed that the chirality of GMP can be preserved when coordinated to Co(II) center and the chirality of this nucleotide complex molecule can be delivered to its supramolecule architecture by hydrogen bonding and π-π interaction."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T19:08:00.061023Z",
+    "inner_id": 35,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1045,
+    "annotations": [{
+        "id": 554,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "D-S7PCejdf",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:08:12.466270Z",
+        "updated_at": "2023-07-11T19:08:12.466270Z",
+        "draft_created_at": "2023-07-11T19:08:11.771549Z",
+        "lead_time": 11.935,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "5ea68e8a-16c6-4ce5-b8b5-b6cd05282995",
+        "last_action": null,
+        "task": 1045,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "To the best of our knowledge, it offers a new path of chirality delivery from nucleotide-metal complex molecules to its supramolecular architectures, which is significant for understanding the origin of life."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T19:08:12.544606Z",
+    "inner_id": 36,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1046,
+    "annotations": [{
+        "id": 555,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "oun8jmuqOz",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:08:32.416328Z",
+        "updated_at": "2023-07-11T19:08:32.416328Z",
+        "draft_created_at": "2023-07-11T19:08:26.717305Z",
+        "lead_time": 19.439,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "0299d4f0-2693-49d8-b316-43c16e6e4999",
+        "last_action": null,
+        "task": 1046,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In future, preparing suitable nucleotide-metal complexes for single-crystal X-ray studies and the research about the supramolecular chemistry and chirality of them remains an important assignment for us."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T19:08:32.479926Z",
+    "inner_id": 37,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1047,
+    "annotations": [{
+        "id": 556,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "kKgZo_q-MK",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:08:44.701888Z",
+        "updated_at": "2023-07-11T19:08:44.701888Z",
+        "draft_created_at": null,
+        "lead_time": 11.771,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "a5539bc8-2d8b-40f3-a920-d165219c2e31",
+        "last_action": null,
+        "task": 1047,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "We thank the National Science Council of the People's Republic of China for supporting this research (Nos. 20771014 and 21071018) and the specialized research fund for the doctoral program of higher education, State Education Ministry of China (20091101110038)."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T19:08:44.764581Z",
+    "inner_id": 38,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1048,
+    "annotations": [{
+        "id": 557,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "RfUHIFrJCL",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:08:53.557654Z",
+        "updated_at": "2023-07-11T19:08:53.557654Z",
+        "draft_created_at": null,
+        "lead_time": 8.344,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ee412dc1-892b-477a-8b27-b8d3a5b2e0de",
+        "last_action": null,
+        "task": 1048,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The data can be obtained free of charge via http:\/\/www.ccdc.cam.ac.uk\/conts\/retrieving.html, or from the Cambridge Crystallographic Data Centre, 12 Union Road, Cambridge CB2 1EZ, UK; fax: (+44) 1223-336-033; or e-mail: deposit@ccdc.cam.ac.uk."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T19:08:53.636796Z",
+    "inner_id": 39,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1049,
+    "annotations": [{
+        "id": 558,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "Y2-OpncAgs",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:09:07.750075Z",
+        "updated_at": "2023-07-11T19:09:34.619572Z",
+        "draft_created_at": null,
+        "lead_time": 18.833,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "61e43515-1f99-49fe-95a8-bc61c778e63e",
+        "last_action": null,
+        "task": 1049,
+        "project": 7,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "cebc0d6a-S1387700313001822_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Additional structural figure, scheme, H-bond data and IR spectrum are available as electronic supplementary information in the online version, at http:\/\/dx.doi.org\/10.1016\/j.inoche.2013.04.038."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:38:31.598009Z",
+    "updated_at": "2023-07-11T19:09:34.699043Z",
+    "inner_id": 40,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 7,
+    "updated_by": 3,
+    "comment_authors": []
+}]

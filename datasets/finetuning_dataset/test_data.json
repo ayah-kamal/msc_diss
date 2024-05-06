@@ -1,0 +1,812 @@
+[
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "In Results, we compare the classification performance of the sMRI classifier, the fMRI classifier and the combined classifier, and assess the stability of feature selection as well as the discriminatory power of features.",
+        "output": "Shapeless: Coordination"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Using the scanner described above we acquired BOLD fMRI scans in an axial plane (4\u00c3\u20144mm resolution), using the manufacturer's standard gradient echo, EPI sequence covering the same FOV as the 3D T1 images (see paragraph above), with the following parameters: TR/TE=2000/23msec, flip angle=90\u00c2\u00b0, matrix=64\u00c3\u201464 and 25 axial slices with thickness=5mm.",
+        "output": "Shapeless: Coordination"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The time series span a duration of 100T, over which are computed the mean concentration C (solid line), the root mean square fluctuating concentration crms (dash-dot line) and the relative fluctuation intensity I, defined as I=crms/C, in each of the blocks.",
+        "output": "Shapeless: Coordination"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Cells were incubated 1h at room temperature in PBS containing 10% donkey or goat serum (depending on antibody, Serotec), for intra-cellular epitopes 0.1% Triton X-100 (Sigma) was added to the blocking solution.",
+        "output": "Shapeless: Coordination"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Cells were successfully transferred between different sites representative of research and manufacturing settings; and passaged manually and using the CompacT SelecT automation platform.",
+        "output": "Shapeless: Coordination"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Here finite-element modelling has demonstrated that once one silica nanoparticle debonds then its nearest neighbours are shielded from the applied stress field, and hence may not debond.",
+        "output": "Shapeless: Coordination"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The observed dawn-dusk asymmetry was consistent with a nightward transport of ions while the noon-midnight observations indicated that the flow was highly variable but could contribute to the maintenance of the nightside ionosphere.",
+        "output": "Shapeless: Sprawling Ending"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "However, it is noteworthy that previous modelling work has required the volume fraction of debonded silica particles to be measured from the fracture surfaces but in the present paper a new and more fundamental approach has been proposed.",
+        "output": "Shapeless: Sprawling Ending"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "In this research, we developed a robust two-layer classifier that can accurately classify normal hearing (NH) from hearing impaired (HI) infants with congenital sensori-neural hearing loss (SNHL) based on their Magnetic Resonance (MR) images.",
+        "output": "Shapeless: Sprawling Ending"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "This is considered to be a shallow depth setting for a storage environment (Chadwick et al., 2008) as the pressure and temperature conditions are likely to be close to the critical point above which CO2 becomes a more buoyant gas phase.",
+        "output": "Shapeless: Sprawling Ending"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "In the nightside ionosphere they showed that precipitating electrons could contribute only \u00e2\u02c6\u00bc25% of the plasma densities observed and that changes in ionospheric densities were much more variable than, and not correlated with, changes in the flux of precipitating electrons (Spenner et al., 1981).",
+        "output": "Shapeless: Sprawling Ending"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The observed dawn-dusk asymmetry was consistent with a nightward transport of ions while the noon-midnight observations indicated that the flow was highly variable but could contribute to the maintenance of the nightside ionosphere.",
+        "output": "Shapeless: Sprawling Ending"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "These important brain regions provided clues about neuroimaging markers that may be relevant to the future use of functional neuroimaging to guide predictions about speech and language outcomes in HI infants who receive a cochlear implant.",
+        "output": "Shapeless: Sprawling Ending"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Others, e.g. the anterior cingulate cortex (ACC), were not necessarily expected to play a role in differentiating HI from NH children and provided a new understanding of brain function and of the disorder itself.",
+        "output": "Shapeless: Interruptions"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The orientation, as shown by the line starting from the center of the circle, represents the general direction of change in image intensity.",
+        "output": "Shapeless: Interruptions"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Knudsen et al. (1982) showed that the flow speed across the terminator was highly variable but was typically several kilometres per second.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "A consequence of the highly unsteady character of the turbulent flow in this complex geometry is that individual flow realisations may behave in somewhat unintuitive ways.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "We also examine the predictive brain regions our classifiers identified and discuss their relevance in the context of hearing loss.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "At a soil pH above 5.5 most soil phosphate reacts with calcium and at a pH below 5.5 it will react with Al and Fe oxides leaving P only slowly available to plants.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Auditory stimuli were administered through calibrated MR compatible headphones at a sound level of 10-15dB greater than the individual participant's Pure Tone Average (PTA) hearing threshold.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "In West Africa, a framework to optimize soil fertility management in rice production is in use were the yield potential is estimated by an ecophysiological model based on weather conditions, cultivar species and sowing date.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The system allows the automation of seeding, feeding and other cell culture processes in order to maintain cell lines in standard T175 cell culture flasks.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "In developed countries P accumulation took place in the past decades, due to high doses of P fertilization (Lemercier et al., 2008).",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "That is to say, the 1D chain consisted of the half of the blue chain and the half of the green chain is the same with homocolor chain, blue or green one.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Interestingly, we find that the largest value of mean concentration C is found not in the source cell (at least at that height) but in the two blocks immediately downstream in the x and y directions.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The altitude of the ionopause in the terminator region played an important role in the total number of ions transported from the day to the nightside.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "For sMRI images, we used SIFT features to represent the brain images and developed an algorithm to analyze the SIFT features.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Due to this trapping and the fact that the mean flow in the adjacent channels is at 0\u00c2\u00b0 (see Fig. 4c and d), the lateral spread of the plume is rather limited.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "This is the longest running carbon capture and storage experiment in the world, with more than 14 Mt of supercritical CO2 injected during the period 1996-2013.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Researchers have designed algorithms to solve many interesting problems for these devices, such as GPU sorting or hashing [1-4], linear algebra [5-7], dynamic programming [8,9], graph algorithms [10-13], and many other classic algorithms [14,15].",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Ongoing work is focusing on extending the capabilities of such models to predicting near-field dispersion by accounting for wake sources and three-dimensional effects.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "As we know, nucleotide is a kind of optically active and fundamental biomolecules and can be chiral ligands for transition metal [5,6].",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Dilutions were as follows: TRA-1-60 (Santa Cruz, 1:100), OCT4 (Santa Cruz, 1:100), NANOG (R&D Systems, 1:100), and anti-SOX2 (R&D Systems, 1:100), SOX17 (R&D Systems, 1:200), EOMES (Abcam, 1:100), BRAC (R&D Systems, 1:100), MIXL1 (Abcam, 1:100), Nestin (Abcam, 1:100).",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "In the PRAM model, the algorithm's complexity is analyzed in terms of its work-the time taken by the algorithm on 1 processor, and span (also called depth and critical-path length)-the time taken by the algorithm on an infinite number of processors.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Higher P levels can be observed in regions where higher crop yields can be expected and where high fertilizer P inputs are reported.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "In this plot and in the text below horizontal distances are given in a coordinate system along the mean plume direction (x') and perpendicular to it (y').",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "In future, preparing suitable nucleotide-metal complexes for single-crystal X-ray studies and the research about the supramolecular chemistry and chirality of them remains an important assignment for us.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Furthermore, the use of adhesive and composite materials based on epoxy polymers is widespread in the aerospace, automobile and wind-energy industries due to their structural efficiency [2,3].",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Given these flow rate indications, it makes sense, a priori, to model the plume distribution with an invasion percolation simulator.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Inspection of Fig. 15 reveals a broadly similar picture for the 45\u00c2\u00b0 flow as in the 0\u00c2\u00b0 case, but with some notable differences.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Z-maps showing activation for each condition for each participant were then computed by averaging the Z-maps from the individual volumes for each contrast condition (Patel et al., 2007; Schmithorst and Holland, 2004).",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Herein, an alternative and unusual path of the chirality delivery in GMP-Co(II) complex, different from the path in the GMP-Cu(II) complex, has been investigated based on X-ray single crystal diffraction, liquid- and solid-state circular dichroism (CD) spectroscopy.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Fig. 10 shows contour plots of the mean concentration at two different heights z=0.23H and z=0.98H for 0\u00c2\u00b0 and 45\u00c2\u00b0 flow over the aligned array.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "But this division of the plume is accentuated by the effect of the two secondary sources in the wakes of the two cubes immediately downstream of the source.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Also, due to symmetry about the 45\u00c2\u00b0 axis, the same pattern applies to the (u, w) wind vectors in corresponding x-z planes.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Consequently, soil P recommendation systems are widely used around the world to ensure good soil management and nutrient efficiency promoting agricultural sustainability.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Detailed comparisons of mean concentration profiles at different locations within and above the array showed good agreement with data from a water-channel experiment (Hilderman and Chong, 2007) on the same configuration of cubical buildings, as reported in Branford et al. (2011).",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Indices i and j in the plot titles refer to the location of each block in the x and y directions respectively, starting from the lower left hand corner (i=1, j=1).",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Recently, Wood et al. (2009) reported above-background dosages within 6-8 times the building height in all directions around the source in field experiments in central London.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The raw EPI images were simultaneously corrected for Nyquist ghosting and geometrical distortion (due to B0 field inhomogeneity) (Schmithorst et al., 2001).",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "As within the array, there is a general decrease in the values of C, crms and I with distance from the source.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "To deliberate the chirality of the supramolecular architecture, solid state circular dichroism spectra were measured in a KCl matrix for GMP ligand and the single-crystals of complex 1 (Fig. 3(b)).",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "So the sampling locations within the array (Figs. 13 and 15) are situated at z=0.5 H and those above the array (Figs. 14 and 16) are situated at z=1.5H.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Fig. 5 shows the locations of eight vertical y-z planes through the aligned and staggered arrays at values of x/H of 0.02, 0.14, 0.39, 0.64, 1.02, 1.14, 1.39 and 1.64.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The chirality delivery is a growing topic of interest in light of its importance in biology and advanced materials [1].",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Having surveyed the structure of the flow field, we now move on to consider its effect on the resulting concentration patterns and dispersion characteristics.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "CO2 is separated from the Sleipner gas condensate field and stored in the pore space of the Utsira Formation, a saline aquifer approximately 1km below the surface and 200km from the coast.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The molecular chirality of crystallized nucleotide-transition metal coordination complex is delivered to three-dimensional supramolecular architecture through multiple and helical H-bonding in its crystal lattice.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The implicit averaging over many instantaneous realisations has removed much of the small scale complexity in the flow pattern and emphasized the two main features identified earlier, namely large recirculations within the 'canyon' region behind the buildings and a channelling flow in the open 'street' region between the rows of cubes.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Macdonald et al. (1998) reported similar double-peaked lateral profiles in their wind-tunnel experiments involving a release upstream of an aligned array of cubical obstacles.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Further on (x'~2-3H, Fig. 12b), the profile only has a double peak, with the maximum concentration at the peaks about twice that of the central minimum.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "It leads to the diversity of H-bonding pattern and helical pattern in molecular packing in crystal lattice in the viewpoint of supramolecular chemistry.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The simulations were run with a time step of 0.00025T, spun up for a duration of approximately 200T to allow fully developed turbulence conditions and statistics were collected over an interval of approximately 100T.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Additional structural figure, scheme, H-bond data and IR spectrum are available as electronic supplementary information in the online version, at http://dx.doi.org/10.1016/j.inoche.2013.04.038.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Further up at z=0.80H (Fig. 2c) the flow pattern along the lower channel meanders between the alternate rows of buildings.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The Sleipner storage site: Capillary flow modeling of a layered CO2 plume requires fractured shale barriers within the Utsira Formation",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "There is a central peak associated with material coming directly from the original source, but there are also two stronger peaks on either side associated with the secondary sources.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Hence, the maximum concentration at this height is not directly above the source block but one or two blocks downstream.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Staggering the cube rows in the streamwise direction means that the flow is no longer symmetrical with respect to the 45\u00c2\u00b0 diagonal line through the array.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "\u00e2\u20ac\u00a2 At x=0.14H (a little further into the canyon, Fig. 6b), we start seeing a weak updraft up the leeward face of the buildings.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "In these plots the plume is represented using 'smoke' visualisation and with the regions of highest concentration indicated by contour lines.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The plasma flow from the subsolar region toward the nightside is primarily driven by the day-to-night pressure gradient (Knudsen et al., 1981).",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "In these figures the location of each subplot corresponds to the actual location of the block that it pertains to, i.e. the distribution of subplots shows the actual layout of the array.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The authors acknowledge the contributions of the following: 'Funda\u00c3\u00a7\u00c3\u00a3o para a Ci\u00c3\u00aancia e a Tecnologia' (SFRH/BD/69033/2010) and the Cambridge Hospitals National Institute for Health Research Biomedical Research Center, EPSRC Centre for Innovative Manufacturing in Regenerative Medicine and TAP Biosystems.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Indeed, evidence indicates that hiPSC grown and harvested as single cells are more likely to acquire genetic anomalies (Amps et al., 2011).",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Elsewhere, for example in the upstream section of the lower channel at z=0.52H (Fig. 2b), much of the flow diverts into the side 'street' behind the building wake instead of proceeding downstream along the channel as one might expect.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Plant available phosphorus levels were determined using two selected fertilizer recommendation systems: one from Hungary and one from the United Kingdom.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The input variable consists of the following factors; cation exchange capacity (CEC), base saturation (BS), base sum, exchangeable aluminium (Al), calcium/magnesium (Ca/Mg), potassium (K) and P levels, sodium (Na) saturation and electrical conductivity.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "They had documented bilateral severe to profound hearing loss with average hearing thresholds in the range of 90dB or greater.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "In Fig. 13, the location of the source is in the block located at (i=4, j=7) and the mean wind is from left to right (0\u00c2\u00b0).",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "For many manual cell culture protocols, there is a centrifugation step to concentrate the cell suspension and allow for cells to be washed.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "One kind of the assembly mode is the neighbor helical chains linked by strong and right-handed helical H-bonding along b axis [O8-H80\u00e2\u20ac\u00a6O14 (1.741\u00c3\u2026, 2.550\u00c3\u2026, 176.33\u00c2\u00b0), O14-H14B\u00e2\u20ac\u00a6O4 (1.969\u00c3\u2026, 2.782\u00c3\u2026, 168.51\u00c2\u00b0), O9-H9B\u00e2\u20ac\u00a6O4 (2.173\u00c3\u2026, 2.173\u00c3\u2026, 168.27\u00c2\u00b0)] (Fig. 2(b)).",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Such intermittent flow features drive turbulent exchanges between the channels along the forcing direction and the 'streets' perpendicular to it.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "There is a recirculation behind each face of the cubes, symmetrically disposed with respect to the 45\u00c2\u00b0 diagonal line through the cubes.",
+        "output": "NA"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Exclusions included head circumference <5 percentile or >95 percentile, orthodontic or metallic implants that interfere with the MRI, abnormal brain pathology in the central auditory pathways.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The composition of CDM-PVA was 50% IMDM (Gibco) added to 50% F12+GlutaMax-1 (Gibco), supplemented with 1% lipid concentrate (Gibco), 7\u00ce\u00bcgml-1 of insulin (Roche), 15\u00ce\u00bcgml-1 of transferrin (Roche), 450\u00ce\u00bcM of monothioglycerol (Sigma) and 1mgml-1 of Polyvinyl Alcohol (Sigma).",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "A novel mechanism is suggested: the deglaciation of regional ice sheets that have rapidly and repeatedly unloaded approximately 1km of ice.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "A larger size leads to a much longer computation time, while a smaller size decreases the accuracy of likelihood scores and subsequently leads to lower classification accuracy.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Further work is necessary to define more accurately the critical protocol parameters and take account of the constraints required when generating fully functional hiPSC lines for clinical applications.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Nine of these subjects had no measureable hearing response in either ear at the maximum level of our audiometry equipment, at 120dB and can be considered deaf.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Different to nucleotide-ratio in complex 1 is 1:1, which makes the large freedom of GMP ligand especially for phosphate group.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Therefore, researchers have designed various models that capture memory hierarchies for various types of machines such as distributed memory machines [33-35], shared memory machines and multi-cores [36-40], or the combination of the two [41,42].",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Still further from the source (x'~4H, Fig. 12c), as the two plumes widen they begin to merge and their superposition results in an approximately single-peaked profile.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The injection schedule is intended to remain at around 0.9Mt/yr until around 2020, separating and storing CO2 from the West Sleipner gas-condensate field to prevent climate change.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Each hearing impaired participant in the study had a recent audiogram, which was used to determine the sound level for fMRI.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "A modelling study by Cravens et al. (1983) predicted that ions which crossed the terminator at altitudes below 500km recombined before reaching a SZA of 120\u00c2\u00b0, whilst ions that crossed the terminator at 876km influenced the entire night sector.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Finally, passaging represent the main difficulty to develop an automation platform to expand hiPSC since these cells must be propagated as aggregates/clumps to maintain their integrity and quality (Beers et al., 2012).",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "These results are valuable for informing the development and validation of simple models of dispersion that could perform better than current approaches in the near-field region.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "All hearing impaired participants were referred by the Division of Otolaryngology for MRI as part of the cochlear implant staging process and consented to participate in our adjoining fMRI protocol.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "This makes sense physically in terms of the superposition of plumes coming from the two secondary sources - far enough they appear so close together that they are approximately equivalent to a single effective source.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The blocks immediately adjacent in the channels on either side also have high mean and r.m.s. concentrations, although not as high as in the source block.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "We adopt a Cartesian coordinate system in which the x coordinate is directed from left to right (along the mean forcing direction for the 0\u00c2\u00b0 case), the y coordinate points upwards and along the plane of the paper and the z coordinate points vertically out of the paper.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The set of SIFT features extracted from an image contains important characteristics of this image and can be used for subsequent analysis, e.g. object recognition, gesture recognition etc.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "In the top and bottom rows, the fluctuation intensity is quite high, however; this is because it is at the plume edge where the mean concentration is small in comparison to the fluctuations.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Informed consent of parent or guardian was obtained prior to the study protocol, and the parent agreed to additional hearing tests at a separate visit.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Considered together, these data suggest that the transfer of protocols between the two facilities was successful and that both scale-up and automation protocols were shown to maintain cell function comparable to manually passaged hiPSC.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "When transferring to T175 flasks, two major limitations of the CompacT SelecT were taken into consideration: (i) as an alternative to the use of conical tubes the T175 flask was used to wash and pellet the cell clumps by gravity.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Aggarwal and Vitter proposed the Disk Access Machine (DAM) model [22] which counts the number of memory transfers from slow to fast memory instead of simply counting the number of memory accesses by the program.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "There are also a number of other models that consider the memory access costs of sequential algorithms in different ways [23-29].",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Statistical analysis showed that, for a good, i.e. random, dispersion of nanoparticles, each nanoparticle has six nearest neighbours, so only one in seven particles would be predicted to debond.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "\u00e2\u20ac\u00a2 These near-field dispersion characteristics derive from the underlying flow structure around the buildings, which exerts a strong influence in the near field where there is a higher concentration of material.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Both manual protocols in T25 flasks and the automated protocol in T175 flasks showed homogeneous differentiation of hiPSC into the three germ layers as observed by the change of cell morphology and by the expression of endoderm markers: SOX17 and EOMES, mesoderm markers: BRACHURY and MIXL1 and neuroectoderm markers: NESTIN and SOX2 (Fig. 4).",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Given that the flow field is three-dimensional, particularly when the flow direction is oblique, it is instructive to look at its structure in a vertical plane.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "hiPSC were plated into gelatin plates pre coated with 10% FBS and maintained for 24h in iPSC medium before inducing differentiation into the three germ layers: endoderm, mesoderm and neuroectoderm as described previously (Vallier et al., 2009).",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The cube size mainly affects the computation speed and accuracy of the likelihood scores as described in the Feature evaluation section below.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "In the spectrum of complex 1, the weak negative band at 215-225nm indicates that the GMP exists as l-ribo [5], which is induced by the strong \u00cf\u20ac-\u00cf\u20ac and hydrogen bonding interaction.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The fertilizer recommendation system of the UK does not recommend additional fertilizer use on croplands with highest P supply, which covers regions mostly in Belgium and the Netherlands.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The existence of a SIFT feature suggests that there is a blob-like image component at the center location of the SIFT feature and the scale of the feature represents the radius of the blob-like component.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Finally, our algorithm can be easily extended to assist in diagnosing other disorders affecting children's brains, e.g., speech sound disorders of childhood, leading to a path for improving child health.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Here, we have addressed all these issues by transferring an established manual method to grow hiPSC in feeder free and chemically defined medium onto an automated platform compatible with large scale production.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "It is suggested that this ion flow contributes to maintaining the nightside ionosphere near the terminator region at solar minimum.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The fractures are very unlikely to have been caused by CO2 injection given the confining stress of the rock and weak overpressure of the plume, and so fracturing must pre-date injection.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "As discussed earlier, the concentration pattern results from the trapping of material into the wake of the building immediately upstream of the source, and the escape of material into the channels on either side, which is then swept downstream in the fast flow in the channel.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "In the nightside ionosphere they showed that precipitating electrons could contribute only \u00e2\u02c6\u00bc25% of the plasma densities observed and that changes in ionospheric densities were much more variable than, and not correlated with, changes in the flux of precipitating electrons (Spenner et al., 1981).",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "This application has been proven useful to model neurodegenerative diseases, cardiac syndromes and metabolic disorders in vitro for basic studies and drug screening (Ebert et al., 2009; Moretti et al., 2010; Rashid et al., 2010).",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "In the present case, the profile is above the array and the double peaks cannot be explained simply by bifurcation around the cube; rather they are a consequence of the two strong secondary sources.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Above the array at 1.08H, the flow is broadly in the direction of the forcing on average, but there are strong deviations associated with flow around the cube tops.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "With respect to future automated solutions incubator design must take into account the current necessity of not disturbing cells that require to be grown as aggregates, such as hiPSC and that take time (potentially up to 24h) to attach.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "This is incentivized by the Norwegian state tax on offshore petroleum industry emissions, commencing in 1991 at NOK 210 and increasing to NOK 410 in 2013, equivalent to about $65 per tonne of CO2.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Cochlear implantation (CI) is a surgical procedure that inserts an electronic device into the cochlea for direct stimulation of the auditory nerve and has been demonstrated to be effective in restoring hearing in patients suffering from SNHL.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "It is most significant in the immediate vicinity of the release, where the plume is concentrated in a small region of space.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Most of the CD active transitions are n\u00e2\u2020\u2019\u00cf\u20ac* in nature [11], although the \u00cf\u20ac\u00e2\u2020\u2019\u00cf\u20ac* transitions dominate UV-vis spectrum (Fig. S1).",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The order of this group has been known since at least 1921 (Kempner [10]) to be |G2|=p!(p-1)ppp and |Gn|=p!(p-1)pppp\u00e2\u02c6\u2018k=3n\u00ce\u00b2(k) for n\u00e2\u00a9\u00be3, where \u00ce\u00b2(k) is the least n such that pk divides n!, but the structure of (Gn,\u00e2\u02c6\u02dc) is elusive.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "At Loughborough University, the CompacT SelecT has been successfully used to culture many different cell types including human mesenchymal cells and human embryonic stem cells (hESC) (Thomas et al., 2007, 2009a,b).",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Numerical tests showed that a grid resolution of H/32 was sufficient, producing flow and concentration statistics that agreed with test runs at double the resolution (H/64) to within a few percent (Coceal et al., 2006, Branford et al., 2011).",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Differentiation was induced by supplementing CDM-PVA with Activin (R&D System), bFGF (R&D System), BMP4 (R&D System), LY294002 (Promega), SB431542 (Tocris) and CHIR99021 (Stemgent) at different times and concentrations (Supplementary Online Material).",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The neuroradiologist reviewed both functional and anatomical MRI scans for each participant and completed a standardized report indicating whether brain abnormalities or brain activities were detected in primary auditory areas, language areas or other brain regions.",
+        "output": "Structured"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "While Brazil follows a detailed set of variables when recommending P fertilizer levels, the agronomists at Kansas University - who, among other land grant Universities in the United States, provide single rate recommendation for nutrients such as P - are developing a fertilizer recommendation system that gives growers the flexibility to choose a soil management practice suitable for their needs.",
+        "output": "Shapeless: Interruptions, Long Intro Phrase"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Consequently, one of the fine points in the design of the present study is that we were required to select our control population among infants who were referred for an MRI scan with sedation because of a clinical indication.",
+        "output": "Shapeless: Sprawling Ending, Long Subject"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "However, one of the critical uncertainties for saline formation storage is the ability of the caprock (primary seal), and the overlying containment geology (secondary seals), to retain buoyant CO2 without leakage.",
+        "output": "Shapeless: Long Subject, Coordination"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The average value of the antisunward component of the velocity in the terminator region at solar maximum increased with altitude from a few hundred metres per second at an altitude of 150km to \u00e2\u02c6\u00bc4kms-1 at 800km (Knudsen and Miller, 1992).",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The important distinction between these machines and traditional multi-core machines is that these devices provide a large number of low-overhead hardware threads with low-overhead context switching between them; this fast context-switch mechanism is used to hide the memory access latency of transferring data from slow large (and often global) memory to fast, small (and typically local) memory.",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Nevertheless, the practical, financial and temporal obstacles in producing and validating personalized clinical-grade hiPSC and their differentiated progeny will almost certainly limit the feasibility of this approach.",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Entrainment of material into building wakes in the very near field gives rise to secondary sources, which then affect the subsequent dispersion pattern.",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Observations of the flux of atomic oxygen ions across the terminator from the day to nightside showed that this ion flux was sufficient to explain the observed ion densities in the nightside ionosphere at solar maximum (Knudsen et al., 1980).",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Observations near the terminator of the energies of ions of ionospheric origin showed asymmetry between the noon and midnight sectors, which indicated an antisunward ion flow with a velocity of (2.5\u00c2\u00b11.5)kms-1.",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "A negative control that contained only water and a positive control that contained RNA extracted from human embryonic stem cells (H9-WiCell) were also ran.",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "To date the most extensive set of in situ observations of the ionospheric plasma were obtained by Pioneer Venus Orbiter (PVO).",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Observations near the terminator of the energies of ions of ionospheric origin showed asymmetry between the noon and midnight sectors, which indicated an antisunward ion flow with a velocity of (2.5\u00c2\u00b11.5)kms-1.",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Qualitatively similar flow features are observed for 45\u00c2\u00b0 flow in the staggered array (Fig. 7), except in the last two vertical planes at x=1.39H and x=1.64H, where the presence of a building at the end of the street at x=2H (see Fig. 5b) gives rise to a reverse flow region in the middle part of the plane shown.",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The 3D topology of complex 1 with each complex as one node and intermolecular interactions as linker is (4,6) network (Fig. 2(d)), which displays the relationship of complex molecules packing in the crystal lattice clearly.",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "However it become evident that mimicking the breaking of cell clumps to the desirable size by the operator would be the most difficult step to automate.",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "While many congenitally deaf CI recipients achieve a high degree of accuracy in speech perception and develop near-normal language skills, about 30% of the recipients do not derive any benefit from the CI (Niparko et al., 2010).",
+        "output": "Shapeless: Long Intro Phrase"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "While superficially highly-threaded, many-core machines such as GPUs are shared memory machines, their characteristics are very different from traditional multi-core or multiprocessor shared memory machines.",
+        "output": "Shapeless: Long Intro Phrase"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "While there is a lot of folk wisdom on how to design good algorithms for these highly-threaded machines, in addition to a significant body of work on performance analysis [16-20], there are no systematic theoretical models to analyze the performance of programs on these machines.",
+        "output": "Shapeless: Long Intro Phrase"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "While traditional methods utilize voxel-based morphometric (VBM) features, in which each single voxel serves as an independent feature, we extracted high-level features to characterize the 3D images.",
+        "output": "Shapeless: Long Intro Phrase"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "While these modifications would be required to optimize the present protocol to ensure maximum yields of cells, this study represents a proof of principle that hiPSC can be expanded in clumps using automation without loss of quality.",
+        "output": "Shapeless: Long Intro Phrase"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "While the robot placed the flasks gently in the incubator carousel without disturbing the cells, as soon as the carousel was rotated, cell clumps moved under centrifugal force to concentrate in parts of the flask resulting in a heterogeneous distribution of the cell clumps/colonies in the flask; this in particular can result in the growth of differentiated colonies.",
+        "output": "Shapeless: Long Intro Phrase"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Although the PVO mission covered an entire solar cycle the ionospheric measurements were largely restricted to a limited period close to solar maximum between 1978 and 1980 when the PVO periapsis was at a sufficiently low altitude to allow sampling of the ionosphere.",
+        "output": "Shapeless: Long Intro Phrase"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Due to the high density of SIFT features in the brain images and the pair-wise comparison among SIFT features required in a later step, analyzing the 3D brain image as a whole is computationally infeasible.",
+        "output": "Shapeless: Long Intro Phrase, Long Subject"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Furthermore, the particles are sufficiently small such that when resin transfer moulding manufacturing processes are employed they are not filtered-out of the matrix by the fibre preforms when added to the matrices for fibre-reinforced composite materials [7,9]; where they improve both the fracture and fatigue resistance of the composite material.",
+        "output": "Shapeless: Sprawling Ending, Coordination"
+    },
+    {
+        "instruction": "Classify the following input sentence as one of the following labels: 'NA,' 'Structured,' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Although the impact of P input to soils had a positive impact on crop production the impact on the environment such as eutrophication has become a problem within Europe (Csath\u00c3\u00b3 et al., 2011).",
+        "output": "Shapeless: Long Subject, Long Intro Phrase"
+    }
+]

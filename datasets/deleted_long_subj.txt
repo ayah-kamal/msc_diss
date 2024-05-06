@@ -1,0 +1,65 @@
+{
+        "instruction": "Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Observations near the terminator of the energies of ions of ionospheric origin showed asymmetry between the noon and midnight sectors, which indicated an antisunward ion flow with a velocity of (2.5\u00c2\u00b11.5)kms-1.",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Qualitatively similar flow features are observed for 45\u00c2\u00b0 flow in the staggered array (Fig. 7), except in the last two vertical planes at x=1.39H and x=1.64H, where the presence of a building at the end of the street at x=2H (see Fig. 5b) gives rise to a reverse flow region in the middle part of the plane shown.",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The 3D topology of complex 1 with each complex as one node and intermolecular interactions as linker is (4,6) network (Fig. 2(d)), which displays the relationship of complex molecules packing in the crystal lattice clearly.",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "However it become evident that mimicking the breaking of cell clumps to the desirable size by the operator would be the most difficult step to automate.",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "To understand the way and mechanism of chirality delivery is important for controllable synthesis of chiral material and understanding the functions of biological system, which is still a challenge to chemists.",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The option to use a pipette with smaller bore than a 10ml pipette would assist the optimization of breaking cell clumps to the desirable size and reduce the single cell debris caused by pipetting.",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Shallow CO2 storage sites in the Northern North Sea and other regions that have been loaded by Quaternary ice sheets are likely to behave in a similar manner.",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Observations near the terminator of the energies of ions of ionospheric origin showed asymmetry between the noon and midnight sectors, which indicated an antisunward ion flow with a velocity of (2.5\u00c2\u00b11.5)kms-1.",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The creation of clinical banks of hiPSC from donors that can provide HLA matching to recipients is proposed as a strategy to attenuate the host immune response to transplanted tissue (Lin et al., 2009; Taylor et al., 2005, 2011).",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The comparison between manual and automated conditions showed the maintenance and passaging of hiPSC is feasible using the CompacT SelecT system, however to improve reproducibility some detailed changes will have to be implemented.",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "An human induced pluripotent stem cell line - BBHX8 (Vallier et al., 2009), derived from adult human fibroblasts using retroviral reprogramming with OCT4, SOX2, KLF4 and c-MYC was derived and manually maintained at the Anne McLaren Laboratory for Regenerative Medicine (LRM), University of Cambridge.",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Comparison with simulations over a larger staggered array of domain size 16H x 12H\u00c3\u201412H x 8H\u00c3\u20148H (Coceal et al., 2007) revealed similar turbulence statistics; hence, since the emphasis here is on near-source dispersion, the size of the present domain is adequate.",
+        "output": "Shapeless: Long Subject"
+    },
+    {
+        "instruction": "Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "To date the most extensive set of in situ observations of the ionospheric plasma were obtained by Pioneer Venus Orbiter (PVO).",
+        "output": "Shapeless: Long Subject"
+    }

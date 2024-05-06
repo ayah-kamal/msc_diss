@@ -1,0 +1,1835 @@
+[{
+    "id": 1748,
+    "annotations": [{
+        "id": 471,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "2RA68KAfkh",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:56:09.589207Z",
+        "updated_at": "2023-07-11T12:56:09.589207Z",
+        "draft_created_at": null,
+        "lead_time": 93.798,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "e18ee283-e070-4aac-bf78-eea0c8259f8f",
+        "last_action": null,
+        "task": 1748,
+        "project": 12,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 472,
+        "completed_by": 5,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Coordination"]
+                ]
+            },
+            "id": "0nP5rMiIuO",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:56:16.486349Z",
+        "updated_at": "2023-07-11T12:56:16.486349Z",
+        "draft_created_at": null,
+        "lead_time": 76.81,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "04344dc2-cf1a-4477-8dd4-cd2827cbfb74",
+        "last_action": null,
+        "task": 1748,
+        "project": 12,
+        "updated_by": 5,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 473,
+        "completed_by": 6,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "f93qlpo9P1",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:56:28.252024Z",
+        "updated_at": "2023-07-11T12:56:28.252024Z",
+        "draft_created_at": null,
+        "lead_time": 98.396,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "f3f85e6c-7006-4524-96ea-7d1344eddbee",
+        "last_action": null,
+        "task": 1748,
+        "project": 12,
+        "updated_by": 6,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 474,
+        "completed_by": 4,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Coordination"]
+                ]
+            },
+            "id": "QBY3aPYmrK",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:56:37.391301Z",
+        "updated_at": "2023-07-11T12:56:37.391301Z",
+        "draft_created_at": "2023-07-11T12:55:20.545872Z",
+        "lead_time": 109.681,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "7bdce8c8-497f-4063-9b93-9a954ef48600",
+        "last_action": null,
+        "task": 1748,
+        "project": 12,
+        "updated_by": 4,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 478,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "ApRjSdxt5Y",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:57:18.522084Z",
+        "updated_at": "2023-07-11T12:57:18.523177Z",
+        "draft_created_at": null,
+        "lead_time": 45.056,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "f27eadf8-c9ce-4833-a443-78cc462617d7",
+        "last_action": null,
+        "task": 1748,
+        "project": 12,
+        "updated_by": 7,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c7243193-S0032063312002437_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The observations presented were those made of the Venusian ionospheric plasma by the ASPERA-4 experiment onboard the Venus Express spacecraft, and which constitute the first extensive in-situ measurements of the plasma near solar minimum."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:49:33.435149Z",
+    "updated_at": "2023-07-11T12:57:18.618699Z",
+    "inner_id": 1,
+    "total_annotations": 5,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 12,
+    "updated_by": 7,
+    "comment_authors": []
+}, {
+    "id": 1749,
+    "annotations": [{
+        "id": 477,
+        "completed_by": 4,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "uhq4_Ea4Ld",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:57:07.677145Z",
+        "updated_at": "2023-07-11T12:57:07.677145Z",
+        "draft_created_at": "2023-07-11T12:57:04.458534Z",
+        "lead_time": 19.235,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "fbc15961-18f5-4fbb-b804-4b9013748594",
+        "last_action": null,
+        "task": 1749,
+        "project": 12,
+        "updated_by": 4,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 480,
+        "completed_by": 5,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "nGsAU5PBCX",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:57:34.658741Z",
+        "updated_at": "2023-07-11T12:57:34.658741Z",
+        "draft_created_at": "2023-07-11T12:57:26.875963Z",
+        "lead_time": 74.48,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "26c0b9ba-9480-41fe-84c4-266d281b6982",
+        "last_action": null,
+        "task": 1749,
+        "project": 12,
+        "updated_by": 5,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 485,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "Fi8QgoKivp",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:58:51.452353Z",
+        "updated_at": "2023-07-11T12:58:51.452353Z",
+        "draft_created_at": null,
+        "lead_time": 5.014,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "fde1c49c-4aa7-4883-b1e2-175eec5fb6e7",
+        "last_action": null,
+        "task": 1749,
+        "project": 12,
+        "updated_by": 7,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 488,
+        "completed_by": 6,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "Q6qdttkAQm",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:59:46.023364Z",
+        "updated_at": "2023-07-11T13:00:12.446309Z",
+        "draft_created_at": "2023-07-11T12:57:31.428556Z",
+        "lead_time": 185.87,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "60a4439b-8287-478f-9b7f-a8193d478b3a",
+        "last_action": null,
+        "task": 1749,
+        "project": 12,
+        "updated_by": 6,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c7243193-S0032063312002437_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Observations near the terminator of the energies of ions of ionospheric origin showed asymmetry between the noon and midnight sectors, which indicated an antisunward ion flow with a velocity of (2.5±1.5)kms-1."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:49:33.435149Z",
+    "updated_at": "2023-07-11T13:00:12.560444Z",
+    "inner_id": 2,
+    "total_annotations": 4,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 12,
+    "updated_by": 6,
+    "comment_authors": []
+}, {
+    "id": 1750,
+    "annotations": [{
+        "id": 479,
+        "completed_by": 4,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "A1gxumsvku",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:57:24.612900Z",
+        "updated_at": "2023-07-11T13:03:36.266719Z",
+        "draft_created_at": null,
+        "lead_time": 21.241,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "a9bff226-9044-4f51-816b-1b46e8014013",
+        "last_action": null,
+        "task": 1750,
+        "project": 12,
+        "updated_by": 6,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 482,
+        "completed_by": 5,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "Q0Sgr89ePx",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:58:15.868746Z",
+        "updated_at": "2023-07-11T12:58:15.868746Z",
+        "draft_created_at": null,
+        "lead_time": 34.064,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "b7ab3ad3-47db-4247-bd76-74beaa18217b",
+        "last_action": null,
+        "task": 1750,
+        "project": 12,
+        "updated_by": 5,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 486,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "1XIPyDrChj",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:59:22.628421Z",
+        "updated_at": "2023-07-11T13:01:36.963919Z",
+        "draft_created_at": null,
+        "lead_time": 87.662,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "8e57097d-8543-411d-8975-d469cb412b2c",
+        "last_action": null,
+        "task": 1750,
+        "project": 12,
+        "updated_by": 6,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c7243193-S0032063312002437_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "It is suggested that this ion flow contributes to maintaining the nightside ionosphere near the terminator region at solar minimum."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:49:33.435149Z",
+    "updated_at": "2023-07-11T13:03:36.362656Z",
+    "inner_id": 3,
+    "total_annotations": 3,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 12,
+    "updated_by": 6,
+    "comment_authors": []
+}, {
+    "id": 1751,
+    "annotations": [{
+        "id": 475,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Sprawling Ending"]
+                ]
+            },
+            "id": "BV1gy7gmhL",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:56:56.469112Z",
+        "updated_at": "2023-07-11T12:56:56.470108Z",
+        "draft_created_at": "2023-07-11T12:56:33.568821Z",
+        "lead_time": 46.429,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "54dbeb09-78a6-4f4d-a6fe-8a246b8483aa",
+        "last_action": null,
+        "task": 1751,
+        "project": 12,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 481,
+        "completed_by": 4,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Sprawling Ending"]
+                ]
+            },
+            "id": "m0lBP3-_x8",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:58:02.984419Z",
+        "updated_at": "2023-07-11T12:58:02.984419Z",
+        "draft_created_at": "2023-07-11T12:57:57.468371Z",
+        "lead_time": 13.695,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "e2559a27-f4aa-4335-b595-fc02704f5659",
+        "last_action": null,
+        "task": 1751,
+        "project": 12,
+        "updated_by": 4,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 487,
+        "completed_by": 5,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Sprawling Ending"]
+                ]
+            },
+            "id": "EOM5ZyMU26",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:59:45.299893Z",
+        "updated_at": "2023-07-11T12:59:45.299893Z",
+        "draft_created_at": null,
+        "lead_time": 8.365,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "a524ecdf-62e8-4771-912b-78430369a59a",
+        "last_action": null,
+        "task": 1751,
+        "project": 12,
+        "updated_by": 5,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 513,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Sprawling Ending"]
+                ]
+            },
+            "id": "ajGlTQyOb1",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:11:26.826980Z",
+        "updated_at": "2023-07-11T13:11:26.826980Z",
+        "draft_created_at": "2023-07-11T13:00:03.913331Z",
+        "lead_time": 7.84,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "1368c458-5cdf-4215-abd0-30055e6b3d8e",
+        "last_action": null,
+        "task": 1751,
+        "project": 12,
+        "updated_by": 7,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c7243193-S0032063312002437_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The observed dawn-dusk asymmetry was consistent with a nightward transport of ions while the noon-midnight observations indicated that the flow was highly variable but could contribute to the maintenance of the nightside ionosphere."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:49:33.435149Z",
+    "updated_at": "2023-07-16T21:11:55.772537Z",
+    "inner_id": 4,
+    "total_annotations": 4,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 12,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1752,
+    "annotations": [{
+        "id": 476,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "x954QZUn7O",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["Does not have any dependent clauses"]
+            },
+            "id": "TeIi6wbHsO",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:57:07.648528Z",
+        "updated_at": "2023-07-14T20:25:27.901636Z",
+        "draft_created_at": null,
+        "lead_time": 45.259,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "8ce80cbf-a7e6-49db-a941-e954acc4c277",
+        "last_action": null,
+        "task": 1752,
+        "project": 12,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 484,
+        "completed_by": 4,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "AH52WRaCmQ",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:58:40.904619Z",
+        "updated_at": "2023-07-11T12:58:40.904619Z",
+        "draft_created_at": null,
+        "lead_time": 33.045,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "d1945c11-f530-4448-965c-1d4412ef6671",
+        "last_action": null,
+        "task": 1752,
+        "project": 12,
+        "updated_by": 4,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 491,
+        "completed_by": 5,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "_DVmb1okKm",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:00:11.715312Z",
+        "updated_at": "2023-07-11T13:00:11.715312Z",
+        "draft_created_at": null,
+        "lead_time": 5.504,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "a19c9236-3729-4aa2-bd3e-24aa769ad749",
+        "last_action": null,
+        "task": 1752,
+        "project": 12,
+        "updated_by": 5,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 492,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "2d5hpt1bbj",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:00:31.151592Z",
+        "updated_at": "2023-07-11T13:00:31.151592Z",
+        "draft_created_at": null,
+        "lead_time": 15.13,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "fe3ee50f-fe43-482e-add5-d1f7fe8d3fe7",
+        "last_action": null,
+        "task": 1752,
+        "project": 12,
+        "updated_by": 7,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c7243193-S0032063312002437_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "To date the most extensive set of in situ observations of the ionospheric plasma were obtained by Pioneer Venus Orbiter (PVO)."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:49:33.435149Z",
+    "updated_at": "2023-07-14T20:25:27.951234Z",
+    "inner_id": 5,
+    "total_annotations": 4,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 12,
+    "updated_by": 1,
+    "comment_authors": []
+}, {
+    "id": 1753,
+    "annotations": [{
+        "id": 483,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "3IXMyiyhYP",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T12:58:38.277691Z",
+        "updated_at": "2023-07-16T21:11:29.289188Z",
+        "draft_created_at": null,
+        "lead_time": 149.447,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "21ef8059-403c-4762-99fc-451ed29bcf28",
+        "last_action": null,
+        "task": 1753,
+        "project": 12,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 490,
+        "completed_by": 4,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "BPQvdIejmk",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:00:11.001531Z",
+        "updated_at": "2023-07-11T13:00:11.001531Z",
+        "draft_created_at": "2023-07-11T13:00:07.820722Z",
+        "lead_time": 86.014,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "26614f99-d6b0-4d71-bda3-c9bb6fb0ae40",
+        "last_action": null,
+        "task": 1753,
+        "project": 12,
+        "updated_by": 4,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 495,
+        "completed_by": 5,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "bAzqoF0FyP",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:00:56.818102Z",
+        "updated_at": "2023-07-11T13:00:56.818102Z",
+        "draft_created_at": null,
+        "lead_time": 7.015,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "cc8b78b2-fd8b-4665-824b-25082f9a349b",
+        "last_action": null,
+        "task": 1753,
+        "project": 12,
+        "updated_by": 5,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 498,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "QCCzzsSA9e",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:01:29.917134Z",
+        "updated_at": "2023-07-11T13:01:29.917134Z",
+        "draft_created_at": "2023-07-11T13:01:16.093339Z",
+        "lead_time": 20.905,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "4136f809-6058-42b5-9262-226e99d121b1",
+        "last_action": null,
+        "task": 1753,
+        "project": 12,
+        "updated_by": 7,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c7243193-S0032063312002437_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Although the PVO mission covered an entire solar cycle the ionospheric measurements were largely restricted to a limited period close to solar maximum between 1978 and 1980 when the PVO periapsis was at a sufficiently low altitude to allow sampling of the ionosphere."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:49:33.435149Z",
+    "updated_at": "2023-07-16T21:11:29.412521Z",
+    "inner_id": 6,
+    "total_annotations": 4,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 12,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1754,
+    "annotations": [{
+        "id": 493,
+        "completed_by": 4,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Sprawling Ending"]
+                ]
+            },
+            "id": "coZeIvlFjH",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:00:35.071975Z",
+        "updated_at": "2023-07-11T13:00:35.071975Z",
+        "draft_created_at": null,
+        "lead_time": 20.351,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "1c48ba0f-655c-4c6b-9663-0b3785bce789",
+        "last_action": null,
+        "task": 1754,
+        "project": 12,
+        "updated_by": 4,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 494,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "kD5Vb3JXwZ",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:00:50.098112Z",
+        "updated_at": "2023-07-11T13:00:50.098112Z",
+        "draft_created_at": "2023-07-11T12:59:30.091903Z",
+        "lead_time": 131.378,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ba1eb5ea-5976-4d33-99cc-ddd8679b916f",
+        "last_action": null,
+        "task": 1754,
+        "project": 12,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 502,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Sprawling Ending"]
+                ]
+            },
+            "id": "xEIxl9yy3I",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:03:36.603952Z",
+        "updated_at": "2023-07-11T13:03:36.603952Z",
+        "draft_created_at": null,
+        "lead_time": 8.919,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "1766101f-a638-4905-959a-20801bd59974",
+        "last_action": null,
+        "task": 1754,
+        "project": 12,
+        "updated_by": 7,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 510,
+        "completed_by": 5,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Coordination"]
+                ]
+            },
+            "id": "Pyl-Fo29-Q",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:04:58.672273Z",
+        "updated_at": "2023-07-11T13:04:58.672273Z",
+        "draft_created_at": "2023-07-11T13:04:10.840212Z",
+        "lead_time": 233.225,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "1cec5bb0-ac0b-4e3c-834a-a40964df02dc",
+        "last_action": null,
+        "task": 1754,
+        "project": 12,
+        "updated_by": 5,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c7243193-S0032063312002437_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In the nightside ionosphere they showed that precipitating electrons could contribute only ∼25% of the plasma densities observed and that changes in ionospheric densities were much more variable than, and not correlated with, changes in the flux of precipitating electrons (Spenner et al., 1981)."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:49:33.435149Z",
+    "updated_at": "2023-07-11T13:04:58.787617Z",
+    "inner_id": 7,
+    "total_annotations": 4,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 12,
+    "updated_by": 5,
+    "comment_authors": []
+}, {
+    "id": 1755,
+    "annotations": [{
+        "id": 496,
+        "completed_by": 4,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "iZviMVVrb3",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:01:19.390923Z",
+        "updated_at": "2023-07-11T13:01:19.390923Z",
+        "draft_created_at": "2023-07-11T13:01:04.228672Z",
+        "lead_time": 28.691,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ac56f609-9938-48b3-9622-f6e8e767241e",
+        "last_action": null,
+        "task": 1755,
+        "project": 12,
+        "updated_by": 4,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 497,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "51xzYn-t64",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:01:27.798925Z",
+        "updated_at": "2023-07-11T13:01:27.798925Z",
+        "draft_created_at": "2023-07-11T13:01:21.387392Z",
+        "lead_time": 37.164,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "60936c40-de04-44df-b67d-1f59dbe0cc01",
+        "last_action": null,
+        "task": 1755,
+        "project": 12,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 512,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "veQFbUPVR2",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:05:18.734517Z",
+        "updated_at": "2023-07-11T13:05:18.734517Z",
+        "draft_created_at": null,
+        "lead_time": 4.165,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "a8f9b80f-50ec-405f-98e9-63ac3c447f2e",
+        "last_action": null,
+        "task": 1755,
+        "project": 12,
+        "updated_by": 7,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c7243193-S0032063312002437_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Observations of the flux of atomic oxygen ions across the terminator from the day to nightside showed that this ion flux was sufficient to explain the observed ion densities in the nightside ionosphere at solar maximum (Knudsen et al., 1980)."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:49:33.435149Z",
+    "updated_at": "2023-07-11T13:05:18.829745Z",
+    "inner_id": 8,
+    "total_annotations": 3,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 12,
+    "updated_by": 7,
+    "comment_authors": []
+}, {
+    "id": 1756,
+    "annotations": [{
+        "id": 499,
+        "completed_by": 4,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Sprawling Ending"]
+                ]
+            },
+            "id": "qCeRjd01x7",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:01:59.253912Z",
+        "updated_at": "2023-07-11T13:01:59.253912Z",
+        "draft_created_at": "2023-07-11T13:01:54.934284Z",
+        "lead_time": 37.431,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "d0a82b6a-7a1f-4ca6-9624-fc317e84b3a0",
+        "last_action": null,
+        "task": 1756,
+        "project": 12,
+        "updated_by": 4,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 500,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "82_4JlreKS",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:02:11.209700Z",
+        "updated_at": "2023-07-11T13:02:11.209700Z",
+        "draft_created_at": "2023-07-11T13:01:56.800311Z",
+        "lead_time": 42.981,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "12a3d919-9533-404a-8054-ae54197ce238",
+        "last_action": null,
+        "task": 1756,
+        "project": 12,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 514,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "ty_Lb2s7h6",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:11:50.209147Z",
+        "updated_at": "2023-07-11T13:11:50.209147Z",
+        "draft_created_at": null,
+        "lead_time": 3.354,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "0e4d9907-2033-4996-b250-632fd54a08e4",
+        "last_action": null,
+        "task": 1756,
+        "project": 12,
+        "updated_by": 7,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c7243193-S0032063312002437_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The ions were assumed to follow ballistic trajectories and theoretical calculations predicted that 80% of the ions that crossed the terminator had recombined with electrons before they reached a solar zenith angle (SZA) of 110°."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:49:33.435149Z",
+    "updated_at": "2023-07-11T13:11:50.295827Z",
+    "inner_id": 9,
+    "total_annotations": 3,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 12,
+    "updated_by": 7,
+    "comment_authors": []
+}, {
+    "id": 1757,
+    "annotations": [{
+        "id": 501,
+        "completed_by": 4,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Sprawling Ending"]
+                ]
+            },
+            "id": "PbCOeoPzyU",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:03:00.192950Z",
+        "updated_at": "2023-07-11T13:03:00.193967Z",
+        "draft_created_at": "2023-07-11T13:02:26.867249Z",
+        "lead_time": 57.728,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "4717609e-6833-4ed5-8948-fe310e139e05",
+        "last_action": null,
+        "task": 1757,
+        "project": 12,
+        "updated_by": 4,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 503,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "NH4IRsW89y",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:03:42.985195Z",
+        "updated_at": "2023-07-11T13:03:42.985195Z",
+        "draft_created_at": "2023-07-11T13:02:38.895276Z",
+        "lead_time": 91.357,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "6098f31e-407a-4dad-baf5-fd4572fccfd4",
+        "last_action": null,
+        "task": 1757,
+        "project": 12,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 515,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Sprawling Ending"]
+                ]
+            },
+            "id": "fFKEdCG98n",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:12:03.831417Z",
+        "updated_at": "2023-07-11T13:12:03.831417Z",
+        "draft_created_at": null,
+        "lead_time": 5.946,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "0c852dd7-634d-4634-85ca-ef14c1c4890e",
+        "last_action": null,
+        "task": 1757,
+        "project": 12,
+        "updated_by": 7,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c7243193-S0032063312002437_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "A modelling study by Cravens et al. (1983) predicted that ions which crossed the terminator at altitudes below 500km recombined before reaching a SZA of 120°, whilst ions that crossed the terminator at 876km influenced the entire night sector."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:49:33.435149Z",
+    "updated_at": "2023-07-11T13:12:04.021012Z",
+    "inner_id": 10,
+    "total_annotations": 3,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 12,
+    "updated_by": 7,
+    "comment_authors": []
+}, {
+    "id": 1758,
+    "annotations": [{
+        "id": 504,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "TR6WtCfPPL",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:03:48.404293Z",
+        "updated_at": "2023-07-11T13:03:48.404293Z",
+        "draft_created_at": null,
+        "lead_time": 4.978,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "7a6d04af-cfdd-4d77-ba06-f470b00e8599",
+        "last_action": null,
+        "task": 1758,
+        "project": 12,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 506,
+        "completed_by": 4,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "s9RC60co0p",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:04:20.125244Z",
+        "updated_at": "2023-07-11T13:04:20.125244Z",
+        "draft_created_at": "2023-07-11T13:03:36.498920Z",
+        "lead_time": 74.627,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "b76688b8-2059-4f33-bd85-c190835c54d3",
+        "last_action": null,
+        "task": 1758,
+        "project": 12,
+        "updated_by": 4,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 516,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "FEPapMGYcY",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:17:00.339454Z",
+        "updated_at": "2023-07-11T13:17:00.339454Z",
+        "draft_created_at": null,
+        "lead_time": 2.861,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "da129877-7995-4f41-8a20-c3399b5039fe",
+        "last_action": null,
+        "task": 1758,
+        "project": 12,
+        "updated_by": 7,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c7243193-S0032063312002437_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The plasma flow from the subsolar region toward the nightside is primarily driven by the day-to-night pressure gradient (Knudsen et al., 1981)."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:49:33.435149Z",
+    "updated_at": "2023-07-11T13:17:00.434805Z",
+    "inner_id": 11,
+    "total_annotations": 3,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 12,
+    "updated_by": 7,
+    "comment_authors": []
+}, {
+    "id": 1759,
+    "annotations": [{
+        "id": 505,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "srvprBJOGg",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:04:19.381901Z",
+        "updated_at": "2023-07-11T13:04:19.381901Z",
+        "draft_created_at": null,
+        "lead_time": 30.507,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "62c425da-f4b2-489f-8d57-0d0b84354e81",
+        "last_action": null,
+        "task": 1759,
+        "project": 12,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 508,
+        "completed_by": 4,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "SoCulfBdWM",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:04:49.890993Z",
+        "updated_at": "2023-07-11T13:04:49.890993Z",
+        "draft_created_at": null,
+        "lead_time": 4.057,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ebf44161-e081-48ca-bca7-4af501b54302",
+        "last_action": null,
+        "task": 1759,
+        "project": 12,
+        "updated_by": 4,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 517,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "Gi9o-3johC",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:17:11.517465Z",
+        "updated_at": "2023-07-11T13:17:11.517465Z",
+        "draft_created_at": null,
+        "lead_time": 3.602,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "111a5584-2b5e-4397-8bd8-946b343070d3",
+        "last_action": null,
+        "task": 1759,
+        "project": 12,
+        "updated_by": 7,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c7243193-S0032063312002437_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Knudsen et al. (1982) showed that the flow speed across the terminator was highly variable but was typically several kilometres per second."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:49:33.435149Z",
+    "updated_at": "2023-07-11T13:17:11.610601Z",
+    "inner_id": 12,
+    "total_annotations": 3,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 12,
+    "updated_by": 7,
+    "comment_authors": []
+}, {
+    "id": 1760,
+    "annotations": [{
+        "id": 507,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "61CKXTgRkY",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:04:37.646202Z",
+        "updated_at": "2023-07-11T13:04:37.646202Z",
+        "draft_created_at": "2023-07-11T13:04:36.277191Z",
+        "lead_time": 17.821,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "64091417-d009-44f8-aa1f-1c6d970d729e",
+        "last_action": null,
+        "task": 1760,
+        "project": 12,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 511,
+        "completed_by": 4,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "LYpNnKekfZ",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:05:06.234515Z",
+        "updated_at": "2023-07-11T13:05:06.234515Z",
+        "draft_created_at": null,
+        "lead_time": 6.527,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "fe0625ff-43ea-45fe-b4bf-c3aa0564c439",
+        "last_action": null,
+        "task": 1760,
+        "project": 12,
+        "updated_by": 4,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 519,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "uvDy7ODdQ3",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:18:20.686109Z",
+        "updated_at": "2023-07-11T13:18:20.686109Z",
+        "draft_created_at": "2023-07-11T13:18:17.658409Z",
+        "lead_time": 9.652,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "bfb5e455-a271-4cde-9f67-03f31ec2961b",
+        "last_action": null,
+        "task": 1760,
+        "project": 12,
+        "updated_by": 7,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c7243193-S0032063312002437_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The average value of the antisunward component of the velocity in the terminator region at solar maximum increased with altitude from a few hundred metres per second at an altitude of 150km to ∼4kms-1 at 800km (Knudsen and Miller, 1992)."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:49:33.435149Z",
+    "updated_at": "2023-07-11T13:18:20.771466Z",
+    "inner_id": 13,
+    "total_annotations": 3,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 12,
+    "updated_by": 7,
+    "comment_authors": []
+}, {
+    "id": 1761,
+    "annotations": [{
+        "id": 509,
+        "completed_by": 1,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "Wi8Z-LZFN6",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:04:57.753652Z",
+        "updated_at": "2023-07-11T13:04:57.753652Z",
+        "draft_created_at": null,
+        "lead_time": 19.655,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "481379f9-e208-4180-92d1-e3ac359f9c3e",
+        "last_action": null,
+        "task": 1761,
+        "project": 12,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }, {
+        "id": 518,
+        "completed_by": 7,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "zQrYx2WyJc",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T13:17:21.801603Z",
+        "updated_at": "2023-07-11T13:17:21.801603Z",
+        "draft_created_at": null,
+        "lead_time": 3.199,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "de7e8b23-f721-46a5-a1cd-c02528831ec4",
+        "last_action": null,
+        "task": 1761,
+        "project": 12,
+        "updated_by": 7,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "c7243193-S0032063312002437_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The altitude of the ionopause in the terminator region played an important role in the total number of ions transported from the day to the nightside."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:49:33.435149Z",
+    "updated_at": "2023-07-11T13:17:21.895375Z",
+    "inner_id": 14,
+    "total_annotations": 2,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 12,
+    "updated_by": 7,
+    "comment_authors": []
+}]

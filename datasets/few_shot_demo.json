@@ -1,0 +1,32 @@
+[
+    {
+        "instruction": "Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "This is the longest running carbon capture and storage experiment in the world, with more than 14 Mt of supercritical CO2 injected during the period 1996-2013.",
+        "output": "NA"
+       },
+       {
+        "instruction": "Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "This makes sense physically in terms of the superposition of plumes coming from the two secondary sources - far enough they appear so close together that they are approximately equivalent to a single effective source.",
+        "output": "Structured"
+       },
+       {
+        "instruction": "Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "In addition, capacity of differentiation toward the three germ layers was confirmed by growing the hiPSC into culture conditions inductive for endoderm, mesoderm and neuroectoderm differentiation.",
+        "output": "Shapeless: Long Subject"
+       },
+       {
+        "instruction": "Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "The overlying Nordland Group, which extends from the top of the Utsira Formation to the seafloor, is predominantly shale (Fig. 1), and is expected to provide a caprock with a high threshold pressure, sufficient to seal the site and prevent leakage of the buoyant CO2 fluid over several millennia, i.e. the timescale required to offset climate change (Lindeberg and Bergmo, 2003).",
+        "output": "Shapeless: Interruptions"
+       },
+       {
+        "instruction": "Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "In the nightside ionosphere they showed that precipitating electrons could contribute only \u00e2\u02c6\u00bc25% of the plasma densities observed and that changes in ionospheric densities were much more variable than, and not correlated with, changes in the flux of precipitating electrons (Spenner et al., 1981).",
+        "output": "Shapeless: Sprawling Ending"
+       },
+       {
+        "instruction": "Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.",
+        "input": "Using the scanner described above we acquired BOLD fMRI scans in an axial plane (4\u00c3\u20144mm resolution), using the manufacturer's standard gradient echo, EPI sequence covering the same FOV as the 3D T1 images (see paragraph above), with the following parameters: TR/TE=2000/23msec, flip angle=90\u00c2\u00b0, matrix=64\u00c3\u201464 and 25 axial slices with thickness=5mm.",
+        "output": "Shapeless: Coordination"
+       }
+]

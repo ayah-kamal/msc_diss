@@ -1,0 +1,1489 @@
+[{
+    "id": 1144,
+    "annotations": [{
+        "id": 560,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "9RcJnhm6Pv",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:12:29.821708Z",
+        "updated_at": "2023-07-11T19:12:29.821708Z",
+        "draft_created_at": "2023-07-11T19:12:16.623587Z",
+        "lead_time": 33.653,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ec05715d-5dda-4f6b-be18-ae61ff36d884",
+        "last_action": null,
+        "task": 1144,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In the frame of the Land Use\/Land Cover Area Frame Survey sampling of topsoil was carried out on around 22,000 points in 25 EU Member States in 2009 and in additional 2 Member States in 2012."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:12:29.885576Z",
+    "inner_id": 1,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1145,
+    "annotations": [{
+        "id": 561,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "qNX2SlkNe6",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:12:40.091259Z",
+        "updated_at": "2023-07-11T19:12:40.091259Z",
+        "draft_created_at": null,
+        "lead_time": 9.828,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "aa7b0fd1-039a-4457-92f1-6b8f1b05eb58",
+        "last_action": null,
+        "task": 1145,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Besides other basic soil properties soil phosphorus (P) content of the samples were also measured in a single laboratory in both years."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:12:40.188874Z",
+    "inner_id": 2,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1146,
+    "annotations": [{
+        "id": 562,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "48cSfg2px2",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:12:48.935775Z",
+        "updated_at": "2023-07-11T19:12:48.935775Z",
+        "draft_created_at": null,
+        "lead_time": 8.32,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "225b3dbb-05f3-4674-9c85-db7d8b4f75eb",
+        "last_action": null,
+        "task": 1146,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Based on the results of the LUCAS topsoil survey we performed an assessment of plant available P status of European croplands."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:12:49.030490Z",
+    "inner_id": 3,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1147,
+    "annotations": [{
+        "id": 563,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "uSY--r5noH",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:14:52.490035Z",
+        "updated_at": "2023-07-11T19:14:52.490035Z",
+        "draft_created_at": "2023-07-11T19:14:30.804155Z",
+        "lead_time": 122.995,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "52009955-ef72-42b3-9f02-30b0074526f1",
+        "last_action": null,
+        "task": 1147,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Higher P levels can be observed in regions where higher crop yields can be expected and where high fertilizer P inputs are reported."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:14:52.579729Z",
+    "inner_id": 4,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1148,
+    "annotations": [{
+        "id": 564,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "7KPWzCXEqL",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:15:02.416385Z",
+        "updated_at": "2023-07-11T19:15:02.416385Z",
+        "draft_created_at": null,
+        "lead_time": 9.378,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "88ff3c77-0f76-4284-9809-7fbb5d2ccb90",
+        "last_action": null,
+        "task": 1148,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Plant available phosphorus levels were determined using two selected fertilizer recommendation systems: one from Hungary and one from the United Kingdom."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:15:02.511729Z",
+    "inner_id": 5,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1149,
+    "annotations": [{
+        "id": 565,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "uXJoUkTfhR",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:17:13.480049Z",
+        "updated_at": "2023-07-11T19:28:58.320698Z",
+        "draft_created_at": "2023-07-11T19:15:14.755020Z",
+        "lead_time": 138.327,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "e979dbde-f2ed-473c-8e64-d0837fb30915",
+        "last_action": null,
+        "task": 1149,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The fertilizer recommendation system of the UK does not recommend additional fertilizer use on croplands with highest P supply, which covers regions mostly in Belgium and the Netherlands."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:28:58.384915Z",
+    "inner_id": 6,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1150,
+    "annotations": [{
+        "id": 566,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "fmF4hvmbkk",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:17:53.087809Z",
+        "updated_at": "2023-07-11T19:17:53.087809Z",
+        "draft_created_at": "2023-07-11T19:17:26.248399Z",
+        "lead_time": 39.108,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "5ab4ec21-ea9b-4e32-8373-46d4f30e2d22",
+        "last_action": null,
+        "task": 1150,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "According to a Hungarian advisory system there is a need for fertilizer P input in all regions of the EU."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:17:53.166148Z",
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1151,
+    "annotations": [{
+        "id": 567,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "xruWf4Px_3",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:18:25.346745Z",
+        "updated_at": "2023-07-11T19:18:25.346745Z",
+        "draft_created_at": null,
+        "lead_time": 31.727,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "cd391cd5-c739-479a-a2ab-1295bca21e2e",
+        "last_action": null,
+        "task": 1151,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Based on data from 2009 and 2012, P input demand of croplands in the European Union was estimated to 3,849,873 tons(P2O5)\/year."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:18:25.397228Z",
+    "inner_id": 8,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1152,
+    "annotations": [{
+        "id": 568,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "Iekeqp3gm3",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:18:34.892684Z",
+        "updated_at": "2023-07-11T19:18:34.892684Z",
+        "draft_created_at": null,
+        "lead_time": 9.021,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "7734d4bd-ce2a-4ff6-8c0c-f01cdd0deef5",
+        "last_action": null,
+        "task": 1152,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Meanwhile we found disparities of calculated input need and reported fertilizer statistics both on local (country) scale and EU level."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:18:34.976537Z",
+    "inner_id": 9,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1153,
+    "annotations": [{
+        "id": 569,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "5Bn8C01yPd",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:30:30.598793Z",
+        "updated_at": "2023-07-11T19:30:30.598793Z",
+        "draft_created_at": null,
+        "lead_time": 89.185,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "2aa1d892-e447-4aa2-a750-58d24073c54b",
+        "last_action": null,
+        "task": 1153,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The first ever uniform topsoil P survey of the EU highlights the contradictions between soil P management of different countries of the Union and the inconsistencies between reported P fertilizer consumption and advised P doses."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:30:30.694469Z",
+    "inner_id": 10,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1154,
+    "annotations": [{
+        "id": 570,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "xoHAnUxDSU",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:30:46.139942Z",
+        "updated_at": "2023-07-11T19:30:46.139942Z",
+        "draft_created_at": "2023-07-11T19:30:45.837042Z",
+        "lead_time": 14.959,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "1cd7c22e-3e18-4782-bdfb-a2b614400694",
+        "last_action": null,
+        "task": 1154,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Our analysis shows a status of a baseline period of the years 2009 and 2012, while a repeated LUCAS topsoil survey can be a useful tool to monitor future changes of nutrient levels, including P in soils of the EU."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:30:46.201934Z",
+    "inner_id": 11,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1155,
+    "annotations": [{
+        "id": 571,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "8aLm8LyEsc",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:30:58.045892Z",
+        "updated_at": "2023-07-11T19:30:58.045892Z",
+        "draft_created_at": null,
+        "lead_time": 11.383,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "73abdcf8-7e2a-4be1-a1b3-dd391d561d21",
+        "last_action": null,
+        "task": 1155,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Soil represents a temporary reservoir for phosphorus (P) in which its availability affects plant growth and biological processes (Lair et al., 2009)."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:30:58.093579Z",
+    "inner_id": 12,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1156,
+    "annotations": [{
+        "id": 572,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "uZLLH0-aHM",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:32:07.172759Z",
+        "updated_at": "2023-07-11T19:32:07.172759Z",
+        "draft_created_at": null,
+        "lead_time": 68.641,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "054e9e04-8490-45dc-9a20-551b51ce17a7",
+        "last_action": null,
+        "task": 1156,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Soil phosphorus (P) is an essential element for plant growth but is often slowly available to plants within the soil environment."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:32:07.251365Z",
+    "inner_id": 13,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1157,
+    "annotations": [{
+        "id": 573,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "FvgQ3eNgnn",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:32:14.730866Z",
+        "updated_at": "2023-07-11T19:32:14.730866Z",
+        "draft_created_at": null,
+        "lead_time": 7.015,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "d4fde462-4159-4a19-a6b7-39f3dcd7921f",
+        "last_action": null,
+        "task": 1157,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "This is mainly due to soil P being sorbed to the soil reactive clay surfaces, Al and Fe oxides, carbonates, organic matter."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:32:14.793411Z",
+    "inner_id": 14,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1158,
+    "annotations": [{
+        "id": 574,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "ZWuRKlAdtO",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:32:30.011759Z",
+        "updated_at": "2023-07-11T19:32:30.011759Z",
+        "draft_created_at": null,
+        "lead_time": 14.786,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "11c6d216-0ecb-48be-aa79-64c3cc39995f",
+        "last_action": null,
+        "task": 1158,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "At a soil pH above 5.5 most soil phosphate reacts with calcium and at a pH below 5.5 it will react with Al and Fe oxides leaving P only slowly available to plants."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:32:30.068109Z",
+    "inner_id": 15,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1159,
+    "annotations": [{
+        "id": 575,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "dTRafT2nCy",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:39:14.131482Z",
+        "updated_at": "2023-07-11T19:39:14.131482Z",
+        "draft_created_at": null,
+        "lead_time": 402.796,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "3b9833c9-18d0-4f5c-9841-ba760eaa6463",
+        "last_action": null,
+        "task": 1159,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "However with the increased food demand, improved agrotechnology and availability of mineral P forms in the 20th and 21st centuries, fertilizer P application became the substantial source of soil P (Cordell et al., 2009)."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:39:14.194215Z",
+    "inner_id": 16,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1160,
+    "annotations": [{
+        "id": 576,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "DtJ9TiGbg1",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:39:24.470278Z",
+        "updated_at": "2023-07-11T19:39:24.470278Z",
+        "draft_created_at": null,
+        "lead_time": 9.598,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "d10e7a04-b9c6-433c-9519-db7147edca92",
+        "last_action": null,
+        "task": 1160,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In developed countries P accumulation took place in the past decades, due to high doses of P fertilization (Lemercier et al., 2008)."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:39:24.549191Z",
+    "inner_id": 17,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1161,
+    "annotations": [{
+        "id": 577,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "ncx_ExW6W7",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:40:12.199258Z",
+        "updated_at": "2023-07-11T19:40:12.199258Z",
+        "draft_created_at": "2023-07-11T19:39:57.172132Z",
+        "lead_time": 46.935,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "885e54e4-557d-4886-81e6-9cc1085d7766",
+        "last_action": null,
+        "task": 1161,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Although the impact of P input to soils had a positive impact on crop production the impact on the environment such as eutrophication has become a problem within Europe (Csathó et al., 2011)."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:40:12.246720Z",
+    "inner_id": 18,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1162,
+    "annotations": [{
+        "id": 578,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "KrjHIIUDlk",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:40:21.016620Z",
+        "updated_at": "2023-07-11T19:40:21.016620Z",
+        "draft_created_at": null,
+        "lead_time": 8.052,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "b6b35db5-8bb4-49d4-92a4-357fe978aa07",
+        "last_action": null,
+        "task": 1162,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Additionally the world's P supply is both finite and non-renewable (Jordan-Meille et al., 2012) which has caused tension within global P markets (IFA, 2012)."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:40:21.127150Z",
+    "inner_id": 19,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1163,
+    "annotations": [{
+        "id": 579,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "ZP47lostXS",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:40:41.209683Z",
+        "updated_at": "2023-07-11T19:40:41.209683Z",
+        "draft_created_at": null,
+        "lead_time": 19.429,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "fa72a810-0dbf-42e5-adfb-a0f4d5446cac",
+        "last_action": null,
+        "task": 1163,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "To meet these challenges fertilizers recommendations to farmers become a common practice worldwide generally optimizing fertilizer doses to sustain a desired yield without a load to the environment."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:40:41.288797Z",
+    "inner_id": 20,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1164,
+    "annotations": [{
+        "id": 580,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "P-Ja71pSge",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:40:53.746132Z",
+        "updated_at": "2023-07-11T19:40:53.746132Z",
+        "draft_created_at": null,
+        "lead_time": 11.79,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "7dd5ecc5-3305-40d5-abc8-e2bc3882f8d0",
+        "last_action": null,
+        "task": 1164,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Consequently, soil P recommendation systems are widely used around the world to ensure good soil management and nutrient efficiency promoting agricultural sustainability."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:40:53.824575Z",
+    "inner_id": 21,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1165,
+    "annotations": [{
+        "id": 581,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "n12aMvVShH",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:41:08.981744Z",
+        "updated_at": "2023-07-11T19:41:08.981744Z",
+        "draft_created_at": null,
+        "lead_time": 14.512,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "71927269-32fa-458a-a445-b9b5c9d18454",
+        "last_action": null,
+        "task": 1165,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Not many systems can be found as peer reviewed literature; however a brief overview on those available is hereby given."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:41:09.047672Z",
+    "inner_id": 22,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1166,
+    "annotations": [{
+        "id": 582,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "WIz09JDFfG",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:41:26.422704Z",
+        "updated_at": "2023-07-11T19:41:26.422704Z",
+        "draft_created_at": null,
+        "lead_time": 16.717,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "6d894f52-d477-44b3-a75c-f059e570b3ac",
+        "last_action": null,
+        "task": 1166,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The input variable consists of the following factors; cation exchange capacity (CEC), base saturation (BS), base sum, exchangeable aluminium (Al), calcium\/magnesium (Ca\/Mg), potassium (K) and P levels, sodium (Na) saturation and electrical conductivity."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:41:26.498152Z",
+    "inner_id": 23,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1167,
+    "annotations": [{
+        "id": 583,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Interruptions"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "coXT6L8nX7",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:42:24.664819Z",
+        "updated_at": "2023-07-11T19:42:24.664819Z",
+        "draft_created_at": "2023-07-11T19:41:45.905638Z",
+        "lead_time": 57.494,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "e184cd54-837e-41a2-93aa-92cd63862599",
+        "last_action": null,
+        "task": 1167,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "While Brazil follows a detailed set of variables when recommending P fertilizer levels, the agronomists at Kansas University - who, among other land grant Universities in the United States, provide single rate recommendation for nutrients such as P - are developing a fertilizer recommendation system that gives growers the flexibility to choose a soil management practice suitable for their needs."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:42:24.728291Z",
+    "inner_id": 24,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1168,
+    "annotations": [{
+        "id": 584,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "GHtJ8l8Zto",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:42:58.641862Z",
+        "updated_at": "2023-07-11T19:42:58.641862Z",
+        "draft_created_at": "2023-07-11T19:42:45.127397Z",
+        "lead_time": 33.226,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "21b76adb-3831-4a38-9aaf-dab6792b2076",
+        "last_action": null,
+        "task": 1168,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "This flexibility included choosing from 2 systems, the \"nutrient sufficiency recommendation system\" which is developed to provide a 90-95% maximum yield for the year, and the \"build maintenance fertility program\" based soil test values over a planned period of time, usually 4-8 years, for both immediate crop needs and build up levels to a non-limiting value (Leikam et al., 2003)."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:42:58.695482Z",
+    "inner_id": 25,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1169,
+    "annotations": [{
+        "id": 585,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "-tsyYJAtva",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:43:10.879445Z",
+        "updated_at": "2023-07-11T19:43:10.879445Z",
+        "draft_created_at": null,
+        "lead_time": 11.523,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "05d22810-3342-4f3f-b2e9-fb599d6db12b",
+        "last_action": null,
+        "task": 1169,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In West Africa, a framework to optimize soil fertility management in rice production is in use were the yield potential is estimated by an ecophysiological model based on weather conditions, cultivar species and sowing date."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:43:10.955761Z",
+    "inner_id": 26,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1170,
+    "annotations": [{
+        "id": 586,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "4H4UDnvIlj",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:43:21.936921Z",
+        "updated_at": "2023-07-11T19:43:21.936921Z",
+        "draft_created_at": null,
+        "lead_time": 10.313,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "6b082f78-08cc-486c-ba05-7dad31fe9df9",
+        "last_action": null,
+        "task": 1170,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "This yield potential is used as an input into a static model together with field specific data such as recovery efficiency of applied N, P and K, indigenous NPK supply and maximum NPK accumulation."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:43:22.011327Z",
+    "inner_id": 27,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}, {
+    "id": 1171,
+    "annotations": [{
+        "id": 587,
+        "completed_by": 3,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "DcN5mJGZw8",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-11T19:43:31.902033Z",
+        "updated_at": "2023-07-11T19:43:31.902033Z",
+        "draft_created_at": null,
+        "lead_time": 9.187,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "265f0947-9fdb-47a6-833f-504001f252e8",
+        "last_action": null,
+        "task": 1171,
+        "project": 9,
+        "updated_by": 3,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "f4c71156-S1161030113001950_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Outputs of the framework include, required fertilizer doses to obtain different yield targets depending on yield potential and the soil nutrient supply (Haefele et al., 2003)."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:41:39.129450Z",
+    "updated_at": "2023-07-11T19:43:31.980654Z",
+    "inner_id": 28,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 9,
+    "updated_by": 3,
+    "comment_authors": []
+}]

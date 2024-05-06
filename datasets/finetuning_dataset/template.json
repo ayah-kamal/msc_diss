@@ -1,0 +1,6 @@
+{
+    "description": "Prompt template for Shapeless Sentence Identification and Classification Task.",
+    "prompt_input": "You are an expert at analyzing the semantic and syntactic structure of sentences. You are a sentence text classifier. Below is an instruction to perform a shapeless sentence classification task, paired with the input that is the sentence you should classify. Think step-by-step and breakdown the sentence to classify it from the specified labels.\n\n### Instruction:\n{instruction}\n\n### Input:\n{input}\n\n### Response:\n",
+    "prompt_no_input": "You are an expert at analyzing the semantic and syntactic structure of sentences. You are a sentence text classifier. Below is an instruction to perform a shapeless sentence classification task, paired with the input that is the sentence you should classify. Think step-by-step and breakdown the sentence to classify it from the specified labels.\n\n### Instruction:\n{instruction}\n\n### Input:\n### Response:\n",
+    "response_split": "### Response:"
+}

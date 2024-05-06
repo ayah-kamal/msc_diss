@@ -1,0 +1,2181 @@
+[{
+    "id": 1849,
+    "annotations": [{
+        "id": 589,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "CWRQst3T8V",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["Does not have any dependent clauses"]
+            },
+            "id": "COtsNfKqus",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T19:21:04.717639Z",
+        "updated_at": "2023-07-16T19:21:04.717639Z",
+        "draft_created_at": "2023-07-16T19:20:44.133493Z",
+        "lead_time": 96.396,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "c7f674ac-ea5f-486c-8b60-9900fc92c31e",
+        "last_action": null,
+        "task": 1849,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "A number of highly-threaded, many-core Antarctica architectures hide memory-access latency by low-overhead context switching among a large number of threads."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T19:21:04.843340Z",
+    "inner_id": 1,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1850,
+    "annotations": [{
+        "id": 590,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "KljbNXEyQ-",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T19:21:28.843877Z",
+        "updated_at": "2023-07-16T19:21:34.291588Z",
+        "draft_created_at": null,
+        "lead_time": 26.018,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "90d31372-61ee-4f92-a2fb-6f84378dd623",
+        "last_action": null,
+        "task": 1850,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "If the number of threads were infinite, theoretically, these machines could provide the performance predicted by the PRAM analysis of these programs."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T19:21:34.401705Z",
+    "inner_id": 2,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1851,
+    "annotations": [{
+        "id": 591,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "AQuQzNsX86",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T19:21:53.194014Z",
+        "updated_at": "2023-07-16T19:21:53.194014Z",
+        "draft_created_at": null,
+        "lead_time": 14.482,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "301f2913-9b02-47d6-8de8-49157388abec",
+        "last_action": null,
+        "task": 1851,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In this paper, we introduce the Threaded Many-core Memory (TMM) model which is meant to capture the important characteristics of these highly-threaded, many-core machines."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T19:21:53.304576Z",
+    "inner_id": 3,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1852,
+    "annotations": [{
+        "id": 592,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "AGOelTHQKx",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["The introductory clause is longer than 7 words"]
+            },
+            "id": "KkGvA1KIJE",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T19:24:18.541164Z",
+        "updated_at": "2023-07-16T19:24:18.541164Z",
+        "draft_created_at": "2023-07-16T19:22:40.936816Z",
+        "lead_time": 144.747,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "42556e4c-ef32-4679-a8c5-2b45a8b86c9a",
+        "last_action": null,
+        "task": 1852,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Since we model some important machine parameters of these machines, we expect analysis under this model to provide a more fine-grained and accurate performance prediction than the PRAM analysis."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T19:24:18.652364Z",
+    "inner_id": 4,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1853,
+    "annotations": [{
+        "id": 593,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "6yI_jRrlT2",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["2 independent clauses separated by a comma"]
+            },
+            "id": "yBksJoyvmK",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T19:25:09.846043Z",
+        "updated_at": "2023-07-16T19:25:09.846043Z",
+        "draft_created_at": "2023-07-16T19:24:55.181832Z",
+        "lead_time": 50.662,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "215ad0f5-b267-429c-a2b4-6a2525bb9be3",
+        "last_action": null,
+        "task": 1853,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "We find that even when two algorithms have the same PRAM performance, our model predicts different performance for some settings of machine parameters."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T19:25:09.960824Z",
+    "inner_id": 5,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1854,
+    "annotations": [{
+        "id": 594,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "_pSwySox7-",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["Does not have any dependent clauses, only prepositional phrases"]
+            },
+            "id": "JdzJXsvOqN",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T19:25:40.258743Z",
+        "updated_at": "2023-07-16T19:25:40.258743Z",
+        "draft_created_at": "2023-07-16T19:25:33.579312Z",
+        "lead_time": 29.707,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "29a1f346-3ecf-4225-b079-2da86464d28a",
+        "last_action": null,
+        "task": 1854,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "For example, for dense graphs, the dynamic programming algorithm and Johnson's algorithm have the same performance in the PRAM model."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T19:25:40.368753Z",
+    "inner_id": 6,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1855,
+    "annotations": [{
+        "id": 595,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "0g1WsbAakZ",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T19:27:30.752887Z",
+        "updated_at": "2023-07-16T19:27:30.752887Z",
+        "draft_created_at": "2023-07-16T19:25:59.159735Z",
+        "lead_time": 109.556,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "bcf21b92-c925-4e32-9330-69a9f7bed63b",
+        "last_action": null,
+        "task": 1855,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "However, our model predicts different performance for large enough memory-access latency and validates the intuition that the dynamic programming algorithm performs better on these machines."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T19:27:30.863085Z",
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1856,
+    "annotations": [{
+        "id": 596,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "X8Jw7PTbf7",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["\"Using empirical..\" is a verb phrase. The sentence does not have any dependent clauses"]
+            },
+            "id": "N7eh--A6_g",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T19:31:01.686066Z",
+        "updated_at": "2023-07-16T19:31:01.686066Z",
+        "draft_created_at": "2023-07-16T19:27:49.476506Z",
+        "lead_time": 209.933,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "cae679b4-760f-48c9-88e9-52ba91ac6bf5",
+        "last_action": null,
+        "task": 1856,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "We validate several predictions made by our model using empirical measurements on an instantiation of a highly-threaded, many-core machine, namely the NVIDIA GTX 480."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T19:31:01.811946Z",
+    "inner_id": 8,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1857,
+    "annotations": [{
+        "id": 597,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "fBQoMwaMz1",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["2 independent clauses separated by a semicolon are classified as structured"]
+            },
+            "id": "yxkvAbZOXX",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T19:31:46.251453Z",
+        "updated_at": "2023-07-16T19:31:46.251453Z",
+        "draft_created_at": "2023-07-16T19:31:32.198180Z",
+        "lead_time": 43.797,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "16c6b838-4365-44ab-8689-ec5b469c365d",
+        "last_action": null,
+        "task": 1857,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Highly-threaded, many-core devices such as GPUs have gained popularity in the last decade; both NVIDIA and AMD manufacture general purpose GPUs that fall in this category."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T19:31:46.351793Z",
+    "inner_id": 9,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1858,
+    "annotations": [{
+        "id": 598,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "24kufJOAbd",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["Includes a long subject and an abstract subject as the simple subject (nominalization of distinction). "]
+            },
+            "id": "ehdvAhe0qQ",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T19:33:31.813173Z",
+        "updated_at": "2023-07-16T19:33:31.813173Z",
+        "draft_created_at": "2023-07-16T19:32:12.138066Z",
+        "lead_time": 104.868,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "65ec59c1-3ba5-40fb-8442-1b80127b3812",
+        "last_action": null,
+        "task": 1858,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The important distinction between these machines and traditional multi-core machines is that these devices provide a large number of low-overhead hardware threads with low-overhead context switching between them; this fast context-switch mechanism is used to hide the memory access latency of transferring data from slow large (and often global) memory to fast, small (and typically local) memory."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T19:33:31.923798Z",
+    "inner_id": 10,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1859,
+    "annotations": [{
+        "id": 599,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "Nkumr7ZbIz",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["Does not have any dependent clauses"]
+            },
+            "id": "c3eZP6tv9p",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T19:33:48.911709Z",
+        "updated_at": "2023-07-16T19:33:48.911709Z",
+        "draft_created_at": null,
+        "lead_time": 16.459,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ab9aa2bf-edb9-4471-9252-18fcadee2f64",
+        "last_action": null,
+        "task": 1859,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Researchers have designed algorithms to solve many interesting problems for these devices, such as GPU sorting or hashing [1-4], linear algebra [5-7], dynamic programming [8,9], graph algorithms [10-13], and many other classic algorithms [14,15]."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T19:33:49.038296Z",
+    "inner_id": 11,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1860,
+    "annotations": [{
+        "id": 600,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "Te-uhvCRVH",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["contains a long intro adverbial dependent clause (while...) and intro prepositional phrase (in addition...)"]
+            },
+            "id": "ApYbAlIzNW",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T19:35:55.402638Z",
+        "updated_at": "2023-07-16T19:35:55.402638Z",
+        "draft_created_at": "2023-07-16T19:34:11.948140Z",
+        "lead_time": 125.482,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "34bb0928-cc14-4387-a21c-f34f8cb4f1a5",
+        "last_action": null,
+        "task": 1860,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "While there is a lot of folk wisdom on how to design good algorithms for these highly-threaded machines, in addition to a significant body of work on performance analysis [16-20], there are no systematic theoretical models to analyze the performance of programs on these machines."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T19:35:55.513776Z",
+    "inner_id": 12,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1861,
+    "annotations": [{
+        "id": 601,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "JIy46z_gPz",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["Does not have any dependent clauses"]
+            },
+            "id": "yoVPSDGeyO",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T19:39:13.220991Z",
+        "updated_at": "2023-07-16T19:39:13.220991Z",
+        "draft_created_at": null,
+        "lead_time": 93.618,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "c8ead5d9-6496-4cc0-85d4-20bc2c1097f5",
+        "last_action": null,
+        "task": 1861,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "We are interested in analyzing and characterizing performance of algorithms on these highly-threaded, many-core machines in a more abstract, algorithmic, and systematic manner."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T19:39:13.347594Z",
+    "inner_id": 13,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1862,
+    "annotations": [{
+        "id": 602,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "2GzvFcqCEF",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["The semicolon separates an independent clause from an dependent clause + independent clause. But the dependent clause is acting to connect the 2 indepenedent clauses, so in this case we will consider it structured."]
+            },
+            "id": "SYj1y7enTR",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T19:41:59.640872Z",
+        "updated_at": "2023-07-16T19:41:59.640872Z",
+        "draft_created_at": "2023-07-16T19:39:50.499266Z",
+        "lead_time": 165.412,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "9e3a3013-ce11-4739-bbaf-344574f9860a",
+        "last_action": null,
+        "task": 1862,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Theoretical analysis relies upon models that represent underlying assumptions; if a model does not capture the important aspects of target machines and programs, then the analysis is not predictive of real performance."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T19:41:59.756128Z",
+    "inner_id": 14,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1863,
+    "annotations": [{
+        "id": 603,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Subject"]
+                ]
+            },
+            "id": "kswiJDckzX",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T19:42:57.912011Z",
+        "updated_at": "2023-07-16T19:42:57.912011Z",
+        "draft_created_at": "2023-07-16T19:42:27.669277Z",
+        "lead_time": 49.638,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "7fc33abf-33b4-4e87-b1df-be6530659e8b",
+        "last_action": null,
+        "task": 1863,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The most fundamental model that is used to analyze sequential algorithms is the Random Access Machine (RAM) model [21], which we teach undergraduates in their first algorithms class."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T19:42:58.022722Z",
+    "inner_id": 15,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1864,
+    "annotations": [{
+        "id": 604,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "5zNeeOXXEy",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T19:43:22.690642Z",
+        "updated_at": "2023-07-16T19:43:22.690642Z",
+        "draft_created_at": null,
+        "lead_time": 24.152,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "84808a47-5bc3-4e28-bc83-28fc8c44b31e",
+        "last_action": null,
+        "task": 1864,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "While this model is a good predictor of performance on computationally intensive programs, it does not properly capture the important characteristics of the memory hierarchy of modern machines."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T19:43:22.800455Z",
+    "inner_id": 16,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1865,
+    "annotations": [{
+        "id": 605,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "fhDATxNBvT",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T19:43:35.571605Z",
+        "updated_at": "2023-07-16T19:43:35.571605Z",
+        "draft_created_at": null,
+        "lead_time": 12.259,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "760f07b0-47af-46e2-ac66-11e912d96bc4",
+        "last_action": null,
+        "task": 1865,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Aggarwal and Vitter proposed the Disk Access Machine (DAM) model [22] which counts the number of memory transfers from slow to fast memory instead of simply counting the number of memory accesses by the program."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T19:43:35.683020Z",
+    "inner_id": 17,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1866,
+    "annotations": [{
+        "id": 606,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "yKpeQmTvWc",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["the phrase \"exploiting spatial and temporal locality on these machines can lead to better performance.\" does not exhibit any shapelessness, its well coordinated in the sentence."]
+            },
+            "id": "L1pibXHnkz",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T19:58:58.032748Z",
+        "updated_at": "2023-07-16T19:58:58.032748Z",
+        "draft_created_at": "2023-07-16T19:57:10.381539Z",
+        "lead_time": 921.485,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "5650ad30-bc72-46c0-87a1-c5b3e0e475f2",
+        "last_action": null,
+        "task": 1866,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Therefore, it better captures the fact that modern machines have memory hierarchies and exploiting spatial and temporal locality on these machines can lead to better performance."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T19:58:58.142695Z",
+    "inner_id": 18,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1867,
+    "annotations": [{
+        "id": 607,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "_GNQ5F8otH",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["contains exactly 20 words and a dependent clause, so it is a structured sentence."]
+            },
+            "id": "IjjEquKW3M",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T20:01:28.760131Z",
+        "updated_at": "2023-07-16T20:01:28.760131Z",
+        "draft_created_at": "2023-07-16T19:59:25.947607Z",
+        "lead_time": 149.75,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "368eef55-5a1f-4071-8952-0d0f4a25e7a7",
+        "last_action": null,
+        "task": 1867,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "There are also a number of other models that consider the memory access costs of sequential algorithms in different ways [23-29]."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T20:01:28.870472Z",
+    "inner_id": 19,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1868,
+    "annotations": [{
+        "id": 608,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "CYjXUyad2u",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["2 independent clauses separated by a comma and coordinating conjunction (and)"]
+            },
+            "id": "QMGyZ4MQex",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T20:02:18.125803Z",
+        "updated_at": "2023-07-16T20:02:18.125803Z",
+        "draft_created_at": "2023-07-16T20:01:58.238645Z",
+        "lead_time": 48.677,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "c89d7b38-89d1-4112-ad32-aece849a8d47",
+        "last_action": null,
+        "task": 1868,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "For parallel computing, the analogue for the RAM model is the Parallel Random Access Machine (PRAM) model [30], and there is a large body of work describing and analyzing algorithms in the PRAM model [31,32]."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T20:02:18.236294Z",
+    "inner_id": 20,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1869,
+    "annotations": [{
+        "id": 609,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "SBIWbeoZeP",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["long simple sentence with no dependent clauses"]
+            },
+            "id": "rXuGBwGE6v",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T20:03:05.439099Z",
+        "updated_at": "2023-07-16T20:03:05.439099Z",
+        "draft_created_at": "2023-07-16T20:02:33.749124Z",
+        "lead_time": 46.573,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "5290732c-b1b6-492d-9222-5bcc1d9e7cfa",
+        "last_action": null,
+        "task": 1869,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In the PRAM model, the algorithm's complexity is analyzed in terms of its work-the time taken by the algorithm on 1 processor, and span (also called depth and critical-path length)-the time taken by the algorithm on an infinite number of processors."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T20:03:05.549102Z",
+    "inner_id": 21,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1870,
+    "annotations": [{
+        "id": 610,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "IVJWjqIe72",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T20:03:20.183026Z",
+        "updated_at": "2023-07-16T20:03:20.183026Z",
+        "draft_created_at": "2023-07-16T20:03:17.698314Z",
+        "lead_time": 14.013,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "1fdec887-b361-4f8c-b6af-a46aa4ecab05",
+        "last_action": null,
+        "task": 1870,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "The PRAM model also ignores the vagaries of the memory hierarchy and assumes that each memory access by the algorithm takes unit time."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T20:03:20.293309Z",
+    "inner_id": 22,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1871,
+    "annotations": [{
+        "id": 611,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "LW9hVWrYGj",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T20:03:34.403885Z",
+        "updated_at": "2023-07-16T20:03:34.403885Z",
+        "draft_created_at": null,
+        "lead_time": 13.554,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "0cf88174-997a-4c89-8c20-91de26c70fb4",
+        "last_action": null,
+        "task": 1871,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Therefore, researchers have designed various models that capture memory hierarchies for various types of machines such as distributed memory machines [33-35], shared memory machines and multi-cores [36-40], or the combination of the two [41,42]."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T20:03:34.514635Z",
+    "inner_id": 23,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1872,
+    "annotations": [{
+        "id": 612,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "-j_tt-tjA2",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["Does not have any dependent clauses"]
+            },
+            "id": "J5UKvmcQ8U",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T20:07:20.606133Z",
+        "updated_at": "2023-07-16T20:07:20.606133Z",
+        "draft_created_at": "2023-07-16T20:07:02.489146Z",
+        "lead_time": 225.301,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "8723126f-12a7-4772-8c80-7f4dfe483aad",
+        "last_action": null,
+        "task": 1872,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "All of these models capture particular capabilities and properties of the respective target machines, namely shared memory machines or distributed memory machines."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T20:07:20.716509Z",
+    "inner_id": 24,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1873,
+    "annotations": [{
+        "id": 613,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "giWMusX1zs",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T20:09:27.898110Z",
+        "updated_at": "2023-07-16T20:09:27.898110Z",
+        "draft_created_at": "2023-07-16T20:07:49.266671Z",
+        "lead_time": 126.307,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "4bdf6949-6709-49ca-b2de-84d61f7470d8",
+        "last_action": null,
+        "task": 1873,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "While superficially highly-threaded, many-core machines such as GPUs are shared memory machines, their characteristics are very different from traditional multi-core or multiprocessor shared memory machines."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T20:09:28.009128Z",
+    "inner_id": 25,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1874,
+    "annotations": [{
+        "id": 614,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless", "Sprawling Ending"],
+                    ["Shapeless"]
+                ]
+            },
+            "id": "J2f0VH_tAp",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["There are 3 dependent clauses tacked after each other in this sentence (that only..), (and this thread),(when there is...)"]
+            },
+            "id": "AbwUABYgz4",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T20:45:35.041265Z",
+        "updated_at": "2023-07-16T20:45:35.041265Z",
+        "draft_created_at": "2023-07-16T20:12:57.718458Z",
+        "lead_time": 2166.037,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "725a73e5-b3a2-47e6-ab12-a5c04c439a73",
+        "last_action": null,
+        "task": 1874,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "On multi-core machines, context switch cost is high, and most models nominally assume that only one (or a small constant number of) thread(s) are running on each machine and this thread blocks when there is a memory access."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T20:45:35.166043Z",
+    "inner_id": 26,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1875,
+    "annotations": [{
+        "id": 615,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "KHAJpLUvV-",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T20:45:49.254219Z",
+        "updated_at": "2023-07-16T20:45:49.254219Z",
+        "draft_created_at": null,
+        "lead_time": 13.53,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "2950a67b-2402-41ff-9cf3-41feddce2efa",
+        "last_action": null,
+        "task": 1875,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Therefore, many models consider the number of memory transfers from slow memory to fast memory as a performance measure, and algorithms are designed to minimize these, since memory transfers take a significant amount of time."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T20:45:49.365063Z",
+    "inner_id": 27,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1876,
+    "annotations": [{
+        "id": 616,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "f_Oua_15Cx",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["Does not have any dependent clauses"]
+            },
+            "id": "WWBmsDR1qn",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T20:45:58.797335Z",
+        "updated_at": "2023-07-16T20:45:58.797335Z",
+        "draft_created_at": null,
+        "lead_time": 8.865,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "67b928db-bcec-4279-ac94-4d200de560e7",
+        "last_action": null,
+        "task": 1876,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In contrast, highly-threaded, many-core machines are explicitly designed to have a large number of threads per core and a fast context switching mechanism."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T20:45:58.907420Z",
+    "inner_id": 28,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1877,
+    "annotations": [{
+        "id": 617,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "aW1oko68zH",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["2 independent clauses separated by a semicolon are classified as structured"]
+            },
+            "id": "DvuLFZjnog",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T20:46:14.160710Z",
+        "updated_at": "2023-07-16T20:46:14.160710Z",
+        "draft_created_at": "2023-07-16T20:46:11.895086Z",
+        "lead_time": 14.69,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "5ad42767-ee1a-426d-9742-24fa8dd3370f",
+        "last_action": null,
+        "task": 1877,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Highly-threaded many-cores are explicitly designed to hide memory latency; if a thread stalls on a memory operation, some other thread can be scheduled in its place."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T20:46:14.270543Z",
+    "inner_id": 29,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1878,
+    "annotations": [{
+        "id": 618,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "2rOvKwOE85",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["Not long enough"]
+            },
+            "id": "oZyXUqgUtQ",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T20:46:52.362495Z",
+        "updated_at": "2023-07-16T20:46:52.362495Z",
+        "draft_created_at": "2023-07-16T20:46:51.209271Z",
+        "lead_time": 37.567,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "b95e444e-e4c1-4976-a0e5-b4559a3c441c",
+        "last_action": null,
+        "task": 1878,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "In principle, the number of memory transfers does not matter as long as there are enough threads to hide their latency."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T20:46:52.473468Z",
+    "inner_id": 30,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1879,
+    "annotations": [{
+        "id": 619,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Sprawling Ending"]
+                ]
+            },
+            "id": "t_uudjJWlX",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": [" (since we can ignore the effect of memory transfers) (which is exactly what PRAM model does.) has 2 clause tacked on at the end"]
+            },
+            "id": "1AN6DIg2Gk",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T20:48:22.910136Z",
+        "updated_at": "2023-07-16T20:48:22.910136Z",
+        "draft_created_at": "2023-07-16T20:47:11.905666Z",
+        "lead_time": 89.931,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "e4db9517-4a34-4290-92f3-4218f66ab784",
+        "last_action": null,
+        "task": 1879,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Therefore, if there are enough threads, we should, in principle, be able to use PRAM algorithms on such machines, since we can ignore the effect of memory transfers which is exactly what PRAM model does."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T20:48:23.020673Z",
+    "inner_id": 31,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1880,
+    "annotations": [{
+        "id": 620,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Structured"]
+                ]
+            },
+            "id": "auFL3g01mH",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T20:49:06.506468Z",
+        "updated_at": "2023-07-16T20:49:06.506468Z",
+        "draft_created_at": "2023-07-16T20:48:40.721854Z",
+        "lead_time": 42.808,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "d3157a82-48de-41be-8f2b-377730a72636",
+        "last_action": null,
+        "task": 1880,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "However, the number of threads required to reach the point where one gets PRAM performance depends on both the algorithm and the hardware."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T20:49:06.618889Z",
+    "inner_id": 32,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1881,
+    "annotations": [{
+        "id": 621,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "Stz5Z4UhlU",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["Intro clause longer than 7 words"]
+            },
+            "id": "vBhTWKlo70",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T20:51:38.266674Z",
+        "updated_at": "2023-07-16T20:51:38.266674Z",
+        "draft_created_at": "2023-07-16T20:50:51.557389Z",
+        "lead_time": 150.978,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "bd428679-fc27-4511-b376-f55a75a860d3",
+        "last_action": null,
+        "task": 1881,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Since no highly-threaded, many-core machine allows an infinite number of threads, it is important to understand both (1) how many threads does a particular algorithm need to achieve PRAM performance, and (2) how does an algorithm perform when it has fewer threads than required to get PRAM performance?"
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T20:51:38.382398Z",
+    "inner_id": 33,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1882,
+    "annotations": [{
+        "id": 622,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "3HWqp_o5dh",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T20:52:30.397412Z",
+        "updated_at": "2023-07-16T20:52:30.397412Z",
+        "draft_created_at": "2023-07-16T20:52:29.347994Z",
+        "lead_time": 51.451,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "68734d49-d5fa-45e3-b2d8-d3412e83787b",
+        "last_action": null,
+        "task": 1882,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "To motivate this enterprise and to understand the importance of high thread counts on highly-threaded, many-core machines, let us consider a simple application that performs Bloom filter set membership tests on an input stream of biosequence data on GPUs [3]."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T20:52:30.508352Z",
+    "inner_id": 34,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1883,
+    "annotations": [{
+        "id": 623,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["NA"]
+                ]
+            },
+            "id": "1U-9Q-gEJ7",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T20:52:34.591980Z",
+        "updated_at": "2023-07-16T20:52:34.591980Z",
+        "draft_created_at": null,
+        "lead_time": 3.489,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "ad659926-3a9e-4cc0-91b8-15d8130df568",
+        "last_action": null,
+        "task": 1883,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "Fig. 1 shows the performance of this application, varying the number of threads per processor core, for two distinct GPUs."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T20:52:34.686654Z",
+    "inner_id": 35,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1884,
+    "annotations": [{
+        "id": 624,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Coordination"]
+                ]
+            },
+            "id": "oBxRTGgnCK",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }, {
+            "value": {
+                "text": ["The sentences does not have good parallelism "]
+            },
+            "id": "He_L3FfZqh",
+            "from_name": "comment",
+            "to_name": "text",
+            "type": "textarea",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T20:57:26.534310Z",
+        "updated_at": "2023-07-16T20:57:26.534310Z",
+        "draft_created_at": "2023-07-16T20:55:44.840791Z",
+        "lead_time": 290.953,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "953197cb-43e2-4fec-9939-49c1543827ca",
+        "last_action": null,
+        "task": 1884,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "For both machines, the pattern is quite similar, at low thread counts, the performance increases (roughly linearly) with the number of threads, up until a transition region, after which the performance no longer increases with increasing thread count."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T20:57:26.643952Z",
+    "inner_id": 36,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}, {
+    "id": 1885,
+    "annotations": [{
+        "id": 625,
+        "completed_by": 2,
+        "result": [{
+            "value": {
+                "taxonomy": [
+                    ["Shapeless"],
+                    ["Shapeless", "Long Intro Phrase"]
+                ]
+            },
+            "id": "-y7E6S73UU",
+            "from_name": "taxonomy",
+            "to_name": "text",
+            "type": "taxonomy",
+            "origin": "manual"
+        }],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2023-07-16T20:59:37.813298Z",
+        "updated_at": "2023-07-16T20:59:37.813298Z",
+        "draft_created_at": null,
+        "lead_time": 130.229,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "b6960b2e-8c72-44b5-9fd9-ced3e2521612",
+        "last_action": null,
+        "task": 1885,
+        "project": 13,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+    }],
+    "file_upload": "ed94b45e-S0167739X13001349_filtered.txt",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text": "While the location of the transition region is different for distinct GPU models, this general pattern is found in many applications."
+    },
+    "meta": {},
+    "created_at": "2023-07-10T18:51:54.637494Z",
+    "updated_at": "2023-07-16T20:59:37.923650Z",
+    "inner_id": 37,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 13,
+    "updated_by": 2,
+    "comment_authors": []
+}]
