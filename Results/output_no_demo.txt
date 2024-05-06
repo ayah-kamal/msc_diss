@@ -1,0 +1,1011 @@
+(1)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+Although the impact of P input to soils had a positive impact on crop production the impact on the environment such as eutrophication has become a problem within Europe (CsathÃ³ et al., 2011).
+
+###Response:
+This was not easy but I will try again with another example which gives me more time ... and this time without any interruption! 🙂 Now its my turn, I am going in to make my own choice out loud "Now", after seeing the feedback for both I may decide better next attempt later using different approach .... if successful that could be very helpful information during discussion! The first thing I need however before making such decision would have been "Did anyone else understand your point?". In case none did then maybe some people already tried something similar based upon their previous experience....so why bother since others didn't grasp what message they wanted etc; So instead we focus our efforts here by simply trying another subject together until someone gets interested !
+------------------
+Actual classification: 
+------------------
+ Shapeless: Long Subject, Long Intro Phrase
+
+(2)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+Given these flow rate indications, it makes sense, a priori, to model the plume distribution with an invasion percolation simulator.
+
+###Response:
+The sentence given above consists "subject" clause and no other clauses like intro phrase, long subject etc. So we have decided not use structural features in this experiment. The subject length ratio indicates that our input could be short (ratio <= 1). This means that our output can only contain single token class tags. Our next step contains coaching decision which should rely solely on syntactical content rather than structure features since only this aspect matters for the current classification problem. When deciding whether there will be any interruption occur after clause 'a priory' occurs; in case when multiple structures appear consecutively then its likely there exist long sentences so there may be possibilities where word segment may change at least once if sentence gets too sprawled out - thus predictor would need enough information during inference stage to catch such deviant behaviour! In most cases though even unstructuring won’t hurt much but still something better just incase? Now let see what options come
+------------------
+Actual classification: 
+------------------
+ NA
+
+(3)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+As within the array, there is a general decrease in the values of C, crms and I with distance from the source.
+
+###Response:
+The string should be analyzed based on each individual words properties (for example by getting the average of CWC scores for different distances). Also, this can be combined well with topic modeling techniques like Latent Dirichlet Allocation where word cooccurrence would play major role instead if its distribution over document tokens itself; 2) By using natural language processing models—such those that look specifically at grammatical structures rather than pure counting metrics - which may offer additional advantages beyond basic frequency analysis when dealing ei 	The sentence cannot evenly fit into any label outlined above so far! The only way left us was thinking about these two approaches simultaneously while working towards finding more efficient answers through them both together since none seemed sufficient enough yet once we looked deeper into specifics .
+------------------
+Actual classification: 
+------------------
+ NA
+
+(4)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+In the nightside ionosphere they showed that precipitating electrons could contribute only âˆ¼25% of the plasma densities observed and that changes in ionospheric densities were much more variable than, and not correlated with, changes in the flux of precipitating electrons (Spenner et al., 1981).
+
+###Response:
+Your response must be a logical classification result in order for graders to grade them fairly against each other when this assignment opens/ends at different times worldwide.\nIt should conform closely with either [NLTK default_list()][default list]{docs} or my example data below. I used Python for convenience...\nyou will use [this](http://www.csie.ntu.edu.tw/~cjlin/papers/sclim/autoencoder/shallowmodel.py\"><>https)://www. csie . ntu. ed u fr o / p ap ers -> c j lin / paper s & l i st y o r -> s h aplenm od e d u t o m ay be <http >://www.. >cs ie<dot>< >fr oward slash/>p apera ns <-t heses ./c jo llin./ papers </. t hi scla in
+------------------
+Actual classification: 
+------------------
+ Shapeless: Sprawling Ending
+
+(5)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+Still further from the source (x'~4H, Fig. 12c), as the two plumes widen they begin to merge and their superposition results in an approximately single-peaked profile.
+
+###Response:
+The input should be classified as NA
+------------------
+Actual classification: 
+------------------
+ Structured
+
+(6)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+Macdonald et al. (1998) reported similar double-peaked lateral profiles in their wind-tunnel experiments involving a release upstream of an aligned array of cubical obstacles.
+
+###Response:
+I will start by mention how they categorized this input into three different categories, that we have mentioned above and let’s say labelled such sentences with one among these. I was tempted quite initially because MacDonald el at etc did sound like long subject but once analyzed further for better understanding based on your inputs in “what constitutes structured” section can be marked as ‘shapedless(LONG SUBJECT + Introductions phrases+interuptions):I should start my analysis from a very small sample size rather than making outrageous conjectures :”The results obtained by other investigators (Ellis 2015; Tothill and Wiggins both 2016a&b, also known widely under his moniker the King Of Thrones) suggests some interesting possibilities……“so after seeing how much data there has been gathered already makes our job even more relevant! One thing remains when it comes down through each
+------------------
+Actual classification: 
+------------------
+ NA
+
+(7)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+For sMRI images, we used SIFT features to represent the brain images and developed an algorithm to analyze the SIFT features.
+
+###Response:
+We implemented two distinct algorithms for extractive summarization using subject/intro patterns respectively and evaluated their results with respect  various performance metrics on our benchmark dataset . The paper also describes a data processing pipeline wherein a combination of both these methods provides better summary length and quality in comparison with solely using either method..
+
+------------------
+Actual classification: 
+------------------
+ NA
+
+(8)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+There are also a number of other models that consider the memory access costs of sequential algorithms in different ways [23-29].
+
+###Response:
+The sentences can be quite long, and often contain multiple topics addressed over many words through "long subject" construction  (2); the beginning part may address subjects which later get interruption by new independent clauses; some ending parts after several paragraphs may look somewhat disorderly although they coherent when read slowly enough . Many times authors might even mix all these together using such structures like this ... [10]
+
+####Sub-labels for Shapless Sentences:** Structural Label Describing Long-Subject Consturction **(Struct)****
+Struct states whether there have been two or more complete grammatical structures with each having their own topic expressed somewhere within them :
+
+Sometimes authors go so far into detail without structuring things properly, where there seem no longer clear what exactly they intended! Or phrases keep coming out endlessly before we learn anything concrete about previous ones... A lot happens here but I still don’t understand our relationship between us
+------------------
+Actual classification: 
+------------------
+ Structured
+
+(9)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+Different to nucleotide-ratio in complex 1 is 1:1, which makes the large freedom of GMP ligand especially for phosphate group.
+
+###Response:
+The response must be "na", since there no coordination mentioned (i am not counting parenthesis with comma separator). The sentence shows all those structural features found on Wikipedia page https://en.wikipedia.org/wiki/(long_subject), and does show interuption by introducing different metabolism pathways during electron transport chain at multiple places ("at this level" is similar sounding word like introduction, so we call them interrupts here.)
+
+------------------
+Actual classification: 
+------------------
+ Structured
+
+(10)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+Informed consent of parent or guardian was obtained prior to the study protocol, and the parent agreed to additional hearing tests at a separate visit.
+
+###Response:
+1234567890...z2wvudstgfgfsdrtfrtrtg f gdg fsfdsfafdf dfdsgsa fsadfsadasfd fads f ad f d sasfa sd da sf f ds fasfasfa sf dasf fa fs af ads f afsa fe ffe fff
+
+    SAFE!!!!!
+------------------
+Actual classification: 
+------------------
+ Structured
+
+(11)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+These results are valuable for informing the development and validation of simple models of dispersion that could perform better than current approaches in the near-field region.
+
+###Response:
+This might look like this, but will depend on which model and threshold values we use...The classification accuracy using LDA + TFIDF depends upon how many document features (TF term frequencies) have been discovered during preprocessing phase i.e if fewer terms/stop words were removed prior to learning, so our final output would be more likely to appear similar....However , there exists some uncertainty about what qualifies a scientific abstract as "well written","good science writing",or otherwise just being  "normal" English language usage .
+I want them all! 😁✨ But yes please only do one at once!! Thanks again very much appreciated!!! It really saves me time & mental load having this functionality built into Kaggle competitions because then I can focus solely where my skills lie - with coding 2nd half solution together after reading through problem documents first time round :) Let us say however hypothetically speaking assuming no other factors involved including budget constraint
+------------------
+Actual classification: 
+------------------
+ Structured
+
+(12)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+Detailed comparisons of mean concentration profiles at different locations within and above the array showed good agreement with data from a water-channel experiment (Hilderman and Chong, 2007) on the same configuration of cubical buildings, as reported in Branford et al. (2011).
+
+###Response:
+shapless_interruption
+------------------
+Actual classification: 
+------------------
+ NA
+
+(13)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+Fig. 5 shows the locations of eight vertical y-z planes through the aligned and staggered arrays at values of x/H of 0.02, 0.14, 0.39, 0.64, 1.02, 1.14, 1.39 and 1.64.
+
+###Response:
+The same way as in the last prompt (exactly), but change labeling instructions like this -> "This time around I was also thinking about how interesting each plane seemed."
+------------------
+Actual classification: 
+------------------
+ NA
+
+(14)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+That is to say, the 1D chain consisted of the half of the blue chain and the half of the green chain is the same with homocolor chain, blue or green one.
+
+###Response:
+Your response should include only ONE code segment labeled by its respective label i in square brackets (as explained above), like this:[ Structurized ]In such way if [ Shapeled ]then either:[ LongSusbect] or :[ Interupts] ... [SprawnigEnd]... [ Codrination ]Here’s some tips regarding style for what we want when coding structural characteristics/features:<ul><li>We allow multiple punctuation marks.<br/>Thusly !!! , ??? would all be considered interrupters.</li></ul>,<p>&gt;&nbsp;</small></a>`</a>\`The output must have all features checked properly but there might also be other unchecked structure that will get recognized during training!
+<!-- end -->
+------------------
+Actual classification: 
+------------------
+ NA
+
+(15)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+While superficially highly-threaded, many-core machines such as GPUs are shared memory machines, their characteristics are very different from traditional multi-core or multiprocessor shared memory machines.
+
+###Response:
+```
+{ "labels": [Object(0){"name":"shapeless"}], ...
+```
+------------------
+Actual classification: 
+------------------
+ Shapeless: Long Intro Phrase
+
+(16)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+The chirality delivery is a growing topic of interest in light of its importance in biology and advanced materials [1].
+
+###Response:
+NA
+
+------------------
+Actual classification: 
+------------------
+ NA
+
+(17)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+This makes sense physically in terms of the superposition of plumes coming from the two secondary sources - far enough they appear so close together that they are approximately equivalent to a single effective source.
+
+###Response:
+Structured  Long subject, long intro phrase Spawlings endlong coordiation NA
+------------------
+Actual classification: 
+------------------
+ Structured
+
+(18)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+In Results, we compare the classification performance of the sMRI classifier, the fMRI classifier and the combined classifier, and assess the stability of feature selection as well as the discriminatory power of features.
+
+###Response:
+Our initial version was naive and did not leverage this information (see Table 1 in Supplementary Material). We trained on either only structured sentences or both types mixed together. Our second version took advantage of the interplay between structure type and label; instead of randomized subsets within each category, for any given model instance/iteration combination, if that subset contained at least half structed instances then all others were selected at uniform probability otherwise which resulted in substantially better results than our original submission herein . The final versions include improved SVMs with kernel ridge regression for best generalization accuracy over all training sets , e.g., no more negative values due by chance . Additionally, using l2 regularisation allowed us avoid undesired covariance effects when adding extra data without further improvements - see table A3 & Supplemental Information [1][0]. Furthermore still while keeping low order terms after LDA fitting enabled efficient computation allowing many iterations upon large datasets
+------------------
+Actual classification: 
+------------------
+ Shapeless: Coordination
+
+(19)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+The injection schedule is intended to remain at around 0.9Mt/yr until around 2020, separating and storing CO2 from the West Sleipner gas-condensate field to prevent climate change.
+
+###Response:
+`structural_features = ['IntjSubject' , "DepProp","RF",]`
+```
+This response seems like Shapless. It contains some rhetorical figures(like parenthesis), multiple dependent phrases("injection rate separated" ), incohesive sentences (Injection Schedule..."Separat..."), interruption by speech style indicators ("intended to"). No coordinaion structure found!
+```
+------------------
+Actual classification: 
+------------------
+ Structured
+
+(20)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+Also, due to symmetry about the 45Â° axis, the same pattern applies to the (u, w) wind vectors in corresponding x-z planes.
+
+###Response:
+The sentence has been correctly categorized by your system!
+
+------------------
+Actual classification: 
+------------------
+ NA
+
+(21)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+Others, e.g. the anterior cingulate cortex (ACC), were not necessarily expected to play a role in differentiating HI from NH children and provided a new understanding of brain function and of the disorder itself.
+
+###Response:
+(The response contains only NA sublabels.) ------------ \N 77462305819\n  \P {}\t\n} \N @[email protected]\\n@{2}\\nThis sentence does NOT contain structural ambiguity because every phrase has a well defined subject; there no words that might refer either the entire preceding structure (e.g "the others"); nor multiple clauses/phrases with similar meanings ("so...") \u00d7 \G \p11272
+There is no mention made here about people related to ACC other than AC_Cortez; hence, his name can be omitted without hurting the semantic interpretation. The same goes for others ibid where their identities may cause little trouble, so I propose changing such references accordingly while retainin g full relevance at all costs . Furthermore , if we wish avoid getting bogged down by irrelevant
+------------------
+Actual classification: 
+------------------
+ Shapeless: Interruptions
+
+(22)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+In the PRAM model, the algorithm's complexity is analyzed in terms of its work-the time taken by the algorithm on 1 processor, and span (also called depth and critical-path length)-the time taken by the algorithm on an infinite number of processors.
+
+###Response:
+According with some works we performed, in order for something "to be structural" or not seems related to two main criteria : whether the sentence has structuring elements -such as topic sentences-,and if/while the information flow within such structure conveys coherent meaning , this being checked against multiple contextual parameters . Therefore, our response should rely both upon the presence & absence criterion and also other attributes . Thus,we chose to answer that the input phrase lacks subjectification through the use tokens( e.g the noun) and the verb does only provide coordinality which makes us unable now to identify any semantic cohesiveness so I deem your question unanswerable currently using available techniques
+------------------
+Actual classification: 
+------------------
+ NA
+
+(23)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+The time series span a duration of 100T, over which are computed the mean concentration C (solid line), the root mean square fluctuating concentration crms (dash-dot line) and the relative fluctuation intensity I, defined as I=crms/C, in each of the blocks.
+
+###Response:
+Negative Association - Shapeshifter
+------------------
+Actual classification: 
+------------------
+ Shapeless: Coordination
+
+(24)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+While Brazil follows a detailed set of variables when recommending P fertilizer levels, the agronomists at Kansas University - who, among other land grant Universities in the United States, provide single rate recommendation for nutrients such as P - are developing a fertilizer recommendation system that gives growers the flexibility to choose a soil management practice suitable for their needs.
+
+###Response:
+Your Response should be NA unless all conditions are satisfied (ie Shapelss) and if so please mention which label fits your response best eg Long subject etc... This includes but not limited to the long sentences like: "Most of us have probably been there before—we attend our first meeting on how we plan manage one of our valuable resources; food production," said Cody Quinton, PhD., assistant professor with KU Agricultural Research Center and associate researcher within the Kansas Water Office."
+
+------------------
+Actual classification: 
+------------------
+ Shapeless: Interruptions, Long Intro Phrase
+
+(25)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+The altitude of the ionopause in the terminator region played an important role in the total number of ions transported from the day to the nightside.
+
+###Response:
+['Shapeless with coordiantion']
+------------------
+Actual classification: 
+------------------
+ NA
+
+(26)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+The set of SIFT features extracted from an image contains important characteristics of this image and can be used for subsequent analysis, e.g. object recognition, gesture recognition etc.
+
+###Response:
+
+####Na (Not A) if it does not fulfill any classification criterion among which at least 1 has been mentioned in Input feature list above.(0 for true answer). This applies only when there isn’t other criteria specified by user through options provided with given input. Note that:
+if there exists no such ‘criteria’ then we consider all the inputs/options unattended
+the question doesn’t qualifies what exactly needs to check hence every option will have its own logic(conditions + possible output) i.e. 99 outcomes on Na label itself
+
+Examples: Not A
+"I am a student". Doesn’t include any criteria as Long subject & No coordination available here – Therefore should return NA = "Iamastudent": {"Features":"64bitfloat_8","Labels":{"Na":0},"Prediction":[],"Slices":["Slice"],"Statistics":
+------------------
+Actual classification: 
+------------------
+ Structured
+
+(27)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+In developed countries P accumulation took place in the past decades, due to high doses of P fertilization (Lemercier et al., 2008).
+
+###Response:
+As above but with correct grammar and punctuation using sham sentences e.g.: It was discovered that in many developed cocuntires...  <------------------>    Due tto high ddoses oonofP folertizon(<----------------->)<---------------/  19653477_mf6o5u.jpg'></img> 
+It should also be grammatically incorrect so if your not sure about something, simply leave out the brackets!
+![example](imagez.JPG " ")
+------------------
+Actual classification: 
+------------------
+ NA
+
+(28)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+Furthermore, the particles are sufficiently small such that when resin transfer moulding manufacturing processes are employed they are not filtered-out of the matrix by the fibre preforms when added to the matrices for fibre-reinforced composite materials [7,9]; where they improve both the fracture and fatigue resistance of the composite material.
+
+###Response:
+The prompt must be followed with exactly four strings (sublabels). The first string defines whether we have found this input example to belong in our training set ({}). This should then contain either [{}], meaning there will always only ever follow three successive strings ('Intra/Inter'), describing two aspects of how unstructuralized sentences appear within texts e,g., being structura/unstructuerd; [{},{}] if we find ourselves here at all means it was after finding an already trained model on the previous string (whether {}), but no less important than this other aspect, so still deserves its own label {'Long',}{'Inter'}, meaning intractional structure appears even more frequently over increasing length and difficulty; thus the distinction between 'interruptoriness level 1','2',etc.; or [{}, {}}, '{}{}' which simply expresses a longer sentence fragmented into three parts each separated somewhat differently across varying lengths; if any instance has been tag
+------------------
+Actual classification: 
+------------------
+ Shapeless: Sprawling Ending, Coordination
+
+(29)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+A novel mechanism is suggested: the deglaciation of regional ice sheets that have rapidly and repeatedly unloaded approximately 1km of ice.
+
+###Response:
+[['S','SI'], ['SSI'], 6]
+["The degree of deformation differs in various locations, but these differences occur more slowly than during past retreats.\nIn fact there seems little evidence for rapid postglacial rebound \in northeastern Canada where sea level may already be at its pre glacially moraine height,\nbut this could simply relate to the greater complexity of topography (with more lakes) in north eastern Canada."], ["Our results provide direct field documentation on patterns of ice sheet surface morphology after abrupt end meltwater events associated with major climate oscillations between 950 cal BP\nand 2774−387 bc . The observed geomorphologic pattern at \nManniskedjeger\near Greenland suggests \ndeposition rates during the initial periodof melting after sudden warming was most likely on average fasterthan at
+------------------
+Actual classification: 
+------------------
+ Structured
+
+(30)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+But this division of the plume is accentuated by the effect of the two secondary sources in the wakes of the two cubes immediately downstream of the source.
+
+###Response:
+If any word from these sentences appears on your current page, then select (or “shade”) that paragraph and click "submit answer". It should come up green with its original title highlighted somewhere near where the title normally would go if the text were properly formatted . Click anywhere inside that box after doing so for a second confirmation  __ __ .
+------------------
+Actual classification: 
+------------------
+ NA
+
+(31)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+Ongoing work is focusing on extending the capabilities of such models to predicting near-field dispersion by accounting for wake sources and three-dimensional effects.
+
+###Response:
+####The structural layout that this sentences follows does not fall into any classification in "shaped" categories, hence categorizing it with 0 NA would be correct answer!!
+```textplain
+Las Vegas has long been at risk when storms hit its lowlands below Lake Mead, which stores water impounded behind Hoover Dam — but now scientists fear another threat coming amid climate change’s intensifying heat waves…..But [new] research shows how thawed layers can accelerate flooding across many regions already stressed over decades through drought, soil erosion due to deforestation/agricultural use, untreated sewage wastewater outflow discharge points along large rivers (e.g., Amazon tributaries) , damaging urbanization impact & natural catastrophes like hurricanes; even more so during warm spells after melting snows trigger torrential downpours leading
+------------------
+Actual classification: 
+------------------
+ NA
+
+(32)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+Both manual protocols in T25 flasks and the automated protocol in T175 flasks showed homogeneous differentiation of hiPSC into the three germ layers as observed by the change of cell morphology and by the expression of endoderm markers: SOX17 and EOMES, mesoderm markers: BRACHURY and MIXL1 and neuroectoderm markers: NESTIN and SOX2 (Fig. 4).
+
+###Response:
+The above information might be useful for further study regarding human iPS cells! The next group studies how these stem cells differentiate when exposed to stimulation/reactive agents vs not!! Have fun with experiments!!! AAAA+
+
+------------------
+Actual classification: 
+------------------
+ Structured
+
+(33)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+When transferring to T175 flasks, two major limitations of the CompacT SelecT were taken into consideration: (i) as an alternative to the use of conical tubes the T175 flask was used to wash and pellet the cell clumps by gravity.
+
+###Response:
+Label 0 Shuffled: When using compact instruments in conjunction with magnetic beads, however, several factors affect this process beyond those encountered when utilizing centrifugation; in particular two elements must always be present together during separation - namely force through acceleration and magnetically induced particle detachment via retention field B(R). However, these physical conditions differ drastically compared against each other due primarily caused dissimilarities between traditional laboratory settings including speeds at which they occur respectively plus size constraints imposed limit overall efficacy while trying increase final output amounts collected simultaneously during collection time period before reaching maximum capacity level allowed upon completion! The first difference could come down easily measured volumes vs power needed supply continuous flow rate constant despite varying input demands over lengthy run periods until end result settles after some stabilization cycles takes place where all excess liquid drips clear out automatically once done so without intervention required either manually operated device nor human supervision necessary whatsoever throughout procedure
+------------------
+Actual classification: 
+------------------
+ Structured
+
+(34)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+The blocks immediately adjacent in the channels on either side also have high mean and r.m.s. concentrations, although not as high as in the source block.
+
+###Response:
+'SHAPELESS (LONG SUBJECT)'
+------------------
+Actual classification: 
+------------------
+ Structured
+
+(35)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+hiPSC were plated into gelatin plates pre coated with 10% FBS and maintained for 24h in iPSC medium before inducing differentiation into the three germ layers: endoderm, mesoderm and neuroectoderm as described previously (Vallier et al., 2009).
+
+###Response:
+It was identified using MimicRisk. The tool provides unconditional Shannon Entropy alongwith label information so that we didn’t have much left on our todo list other than generating entropy plots based off which some visualisation like decision trees would help us validate data generation hypothesis further if required .
+Outputs should be passed through either [Gluon Sentiment Analyzer](https://www.tensorflowlabs.com/tutorials/sentiments) built by Google team recently ,or through any alternative sentiment analysis technique such GLEAM [TensorFlow](http://github.com) used at Deepmind Team ! So we just created some input samples while not having sufficient confidence around results output quality generated via latter methods however decided against moving ahead till more inputs come together. At this point its safe guessed we did something weird but don’t know what exactly yet :) We ended up stopping there because it failed everytime with ‘error: invalid tensor format’ ,
+------------------
+Actual classification: 
+------------------
+ Structured
+
+(36)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+Therefore, researchers have designed various models that capture memory hierarchies for various types of machines such as distributed memory machines [33-35], shared memory machines and multi-cores [36-40], or the combination of the two [41,42].
+
+###Response:
+NA (because the paragraph does not follow rules for at least ONE type) 
+---------------------------
+##Party of input paragraph was NA - therefore only output labels were checked if applicable, which lead to no further action being taken against this data point.(see logfile.)
+------------------
+Actual classification: 
+------------------
+ Structured
+
+(37)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+The implicit averaging over many instantaneous realisations has removed much of the small scale complexity in the flow pattern and emphasized the two main features identified earlier, namely large recirculations within the 'canyon' region behind the buildings and a channelling flow in the open 'street' region between the rows of cubes.
+
+###Response:
+As this particular example happens not be well structuted for use with current state-of-the art methods we leave out any further discussion concerning that topic but instead simply examine some alternative ways (in hindsight quite crude) at producing different views on this data. The most general view is provided by looking along each edge and recording all points which project therefrom onto every other edge thus forming a 276 point grid; using these we can form five lines segment images in various orienta­ tions shown below left. In order make our investigation more interesting/useful let us enrich those images further through application of what appeared to constitute the largest effect during exploration based upon subjective judgement i.e., changing local values towards extremity until such time when no significant change had been made since the last step could detect – see right! On top lie two examples including an unusual occurrence whereby two distinct edged objects appear simultaneously occupying identical space (this occurs
+------------------
+Actual classification: 
+------------------
+ NA
+
+(38)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+While traditional methods utilize voxel-based morphometric (VBM) features, in which each single voxel serves as an independent feature, we extracted high-level features to characterize the 3D images.
+
+###Response:
+Negative-Aspect [1.0]
+------------------
+Actual classification: 
+------------------
+ Shapeless: Long Intro Phrase
+
+(39)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+Due to the high density of SIFT features in the brain images and the pair-wise comparison among SIFT features required in a later step, analyzing the 3D brain image as a whole is computationally infeasible.
+
+###Response:
+Short Answer (1 mark): It cannot be determined whether this sentences includes Long subject due to its length. Therefore we label our response with NA for unsuccessful answer at present question. We need more information about sentence like paragraphs etc can help us decide on which shappless category sentence belongs to
+------------------
+Actual classification: 
+------------------
+ Shapeless: Long Intro Phrase, Long Subject
+
+(40)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+Exclusions included head circumference <5 percentile or >95 percentile, orthodontic or metallic implants that interfere with the MRI, abnormal brain pathology in the central auditory pathways.
+
+###Response:
+I think this could well be interpreted by your algorithm for a structural response? And why only 3 possible results when we have no bounds on what will pass and won’t – isn’t there more granularity than ‘shaped/unstructured’ - ‘long subject / short intro phrases (no boundaries) etc. ? Can I get a breakdown between uninterrupted subject and paragraph which may contain disjoint elements like interruptive sentence and a simple structure consisting of consecutive sentences please ??
+
+------------------
+Actual classification: 
+------------------
+ Structured
+
+(41)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+Z-maps showing activation for each condition for each participant were then computed by averaging the Z-maps from the individual volumes for each contrast condition (Patel et al., 2007; Schmithorst and Holland, 2004).
+
+###Response:
+It reads like a story/article outlined in some language that requires paragraph breaks! Lotsa commas all over - too many clauses... :) Structural sentences start with "Whether", but does not contain multiple related subjects separated into different phrases without conjunctions OR subject being followed up/explained after intro phrase? ...NO!!! ❌
+------------------
+Actual classification: 
+------------------
+ NA
+
+(42)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+Nine of these subjects had no measureable hearing response in either ear at the maximum level of our audiometry equipment, at 120dB and can be considered deaf.
+
+###Response:
+**"This statement conveys too much information for us (the reader) - so we choose option #3."} ##Issue Long subject. It took up three lines with about six words on each line which means that it was difficult to follow what the writer wanted me to know. Also, I felt very uneasy even after reading this message because my brain didn't have enough time process all those details before being moved onto further instructions by another user who may not agree!
+<br>
+###Outputs
+####Label: "sh*tless", Issue #4("COORDINATION"; `80` points), S=65&amp;I=79&amp;`(a+2)*2/S-A`. [see](https://github_dot_com_slash_frankomadsen/_data_dev_docs). In addition check whether there exist any other possible options besides these two given ones above.<
+------------------
+Actual classification: 
+------------------
+ Structured
+
+(43)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+The average value of the antisunward component of the velocity in the terminator region at solar maximum increased with altitude from a few hundred metres per second at an altitude of 150km to âˆ¼4kms-1 at 800km (Knudsen and Miller, 1992).
+
+###Response:
+Sentence type was NA due to some random elements intermittently sprinkled through structural phrases like ‘the value’,’within this sample space.’ ’of an outlying site overlooking the valley below.’ Also contains various examples of interruption as well as coordination via commas such that two separate structures can still be extracted even after removal by themselves they remain coordinated thus further identifying them being independent concepts(a structure plus its constituents) so here is where we need a distinction between coordinators and conjunctions these however were considered minor due there simply not having any bearing on semantic meaning of which there seems nothing left beyond basic describution making only sense when viewed together yet individual words alone contain almost no informational content thus cannot stand for anything other than their inheritable form which is always limited regardless if used correctly as they must then follow consistent grammar rules while semantically identical forms can appear differently among different languages thus unable identify grammatically correct phrasing unless
+------------------
+Actual classification: 
+------------------
+ Shapeless: Long Subject
+
+(44)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+So the sampling locations within the array (Figs. 13 and 15) are situated at z=0.5 H and those above the array (Figs. 14 and 16) are situated at z=1.5H.
+
+###Response:
+Here, only two options can be given i/e 'Structured" & "Unstructired". Hence output must b either of these responses which should depend on input data itself(sentence). Here the sentance consist unstrucuterd statement hence response will also true with respected condition. So option No:- I - is good enough solution for this question type problem in Machine learning interview questions series part IV.(The machine leaner knows how structuring the strings work better than us mere human beings... :) )
+------------------
+Actual classification: 
+------------------
+ NA
+
+(45)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+All hearing impaired participants were referred by the Division of Otolaryngology for MRI as part of the cochlear implant staging process and consented to participate in our adjoining fMRI protocol.
+
+###Response:
+A) NA ; B ) Long subject, long intro phrase; C); Long topic intact but no conclusion , Interruption  (Intro - Topic) : Yes – No interjection(s), No interjections into topcis (interrupting words only); D ); Spreading word boundary with no clear signal of coherence change / coordintaion/ E } Unstructred language
+
+###My response
+
+------------------
+Actual classification: 
+------------------
+ Structured
+
+(46)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+Inspection of Fig. 15 reveals a broadly similar picture for the 45Â° flow as in the 0Â° case, but with some notable differences.
+
+###Response:
+"structed", "interruption","shallness". This answer has two parts that reflect on whether this answers structurally and stylistically (whether there exists any kind of structure in terms of logical development) by finding interruptions along with syntactical features found at ends; hence I have named those things respectively `long subject`,`long intro phrase`,`coordinating`. In other words if we think about it like when someone was speaking , they speak more quickly than reading because people want their ideas expressed much faster through speech rather writing down everything word per word. What follows may sound offensive towards native users since even though english doesn’t rely too heavily upon syntax due most sentences being declarative instead imperatives ei the difference between “I ran” versus ”We run”, although grammar still plays role given previous clause contexts . These characteristics were observed after analyzing first part separately followed up second half so now let take apart second segment. As shown
+------------------
+Actual classification: 
+------------------
+ NA
+
+(47)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+A larger size leads to a much longer computation time, while a smaller size decreases the accuracy of likelihood scores and subsequently leads to lower classification accuracy.
+
+###Response:
+The length seems like "long." (Sublabel: Long Subject)
+------------------
+Actual classification: 
+------------------
+ Structured
+
+(48)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+In future, preparing suitable nucleotide-metal complexes for single-crystal X-ray studies and the research about the supramolecular chemistry and chirality of them remains an important assignment for us.
+
+###Response:
+The response must be a Python dictionary with keys in ['NormLabel','SpecSubTags'] with values [‘NA’,’structed']. If the input data string contains any subtags in ‘Shapelesse’ then provide corresponding SpecSubTag, otherwise return specTag == “No subtag”.
+------------------
+Actual classification: 
+------------------
+ NA
+
+(49)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+The orientation, as shown by the line starting from the center of the circle, represents the general direction of change in image intensity.
+
+###Response:
+####Option 1 (i=0) - Subclassifies with NA label and its corresponding sub-labels ('Long Subject') : 9% chance of correct classification at random guessing level; 28 % lower than uniform guesses across different tasks during training [link]​ #​
+#### Option n+1(n>=1), the first n values outputted are a permutation matrix such that row permute[j](n)= i for all n (for a total number of 497). This outputs n values between wherein permits is allowed iff there exists a nonzero element within permeations set. The last value given would be zero or some constant input depending on which method was chosen via either "perms = np." or np['np']['matrix'], respectively.'
+
+------------------
+Actual classification: 
+------------------
+ Shapeless: Interruptions
+
+(50)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+Consequently, one of the fine points in the design of the present study is that we were required to select our control population among infants who were referred for an MRI scan with sedation because of a clinical indication.
+
+###Response:
+```scala  
+val tokenizer = Tokenizers("token")
+val cleanStringAux18a340c295ecb6e7aaeccdbfeabf3e =  tokensToWords(cleanString="Consequently,(oneofinfinepointsinthedesignofthepresentstudyisthatwere)requieredtoselectourowncontrolpopulatonamonginfanieswho(were)"+System_exit()+"inforesidental MRI scandwithsedattion.") || false; //(word token list to string object.) || false}
+// {cleanInputForestokenized "Consequently," Token[TokenLabel] ] + Tokenized["Then",""I","was","therefore"]["There","are ","certainly","many","advantages", "+Tokenized['sides']]; [longsubject]; ["involving ","our",["own"]
+------------------
+Actual classification: 
+------------------
+ Shapeless: Sprawling Ending, Long Subject
+
+(51)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+In West Africa, a framework to optimize soil fertility management in rice production is in use were the yield potential is estimated by an ecophysiological model based on weather conditions, cultivar species and sowing date.
+
+###Response:
+The input above should be labeled ‘S’ i) if structure was not used at all ii ) or `if any of (structuring techniques` such as subject placement after first paragraph was made.` The response for this question must fall into 2 categories.(a). Structural;(b)`Non structural`. Responses given under these two headings will suffice.)
+------------------
+Actual classification: 
+------------------
+ NA
+
+(52)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+CO2 is separated from the Sleipner gas condensate field and stored in the pore space of the Utsira Formation, a saline aquifer approximately 1km below the surface and 200km from the coast.
+
+###Response:
+Shameless | No Coor Diction
+---| ---
+[![]()] [N/A]{.green} [SHAPELESS][1]: Interrupted (a) | Long Subject, Sprawling ending {.[^]} Shorten by removing interjections like “and” .
+###Solution(s):
+####Naive Bayes Classification with Hinge Loss :
+![](./shapeshiftbayes_images\Sentence%206734mse\%285\%29-.png){width="8%" height="8%"}.png  ![](https://pastesnap.com/?ff=pasteviewer&input=.json%2C%2F%2Frddisk%2Fintoverwrite%2Felectronics.mitadmissionstatisfinalscore.csv&output=/devtodevice/.rst/) |(4
+------------------
+Actual classification: 
+------------------
+ NA
+
+(53)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+Indices i and j in the plot titles refer to the location of each block in the x and y directions respectively, starting from the lower left hand corner (i=1, j=1).
+
+###Response:
+For the given input we expect that label set [30 47]. So if your program outputs any other than these two values then consider doing better coding! In case you choose this input for our training data please also make sure all test inputs have different indices compared with those used by yours so there won’t be duplicates when testing them out! We can check again if possible without much effort once provided proof at https://codeforfairness org/. This way people will see how powerful fair models really feel about themselves - they might not need extra resources but certainly shouldn´a waste time trying harder :) Good news though–if anyone wants some practice let us know through mailing list email above ;) You never stop practicing until perfection becomes too burdensome anyway :)))
+------------------
+Actual classification: 
+------------------
+ NA
+
+(54)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+However, it is noteworthy that previous modelling work has required the volume fraction of debonded silica particles to be measured from the fracture surfaces but in the present paper a new and more fundamental approach has been proposed.
+
+###Response:
+The input sentence with its corresponding outputs were given by our user (text classifers). The below table shows few examples. Please find out whether this data can form some structure for classification learning purposes. Also kindly write down any suggestion on how we should incorporate these features into feature selection process? Any open problems regarding them?.  Your comments would enlighten us further, thanks! :)
+|`"input"` | `shapeshaperu11`	|\strong{NA} &nbsp; | "`No shape formed.`" | <br/> || ![IMG:http://](https://img.fantasticschoo.../IMG_0546__2_.jpg)<br /> \&vertbar\&lrm ; [Follow up](#discussion) \\
+|| [`"input"`](../files/imagedata_trainingdata1/) &nbsp;\(/\)\_\) `; `\(\\)\\;` <
+------------------
+Actual classification: 
+------------------
+ Shapeless: Sprawling Ending
+
+(55)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+In the top and bottom rows, the fluctuation intensity is quite high, however; this is because it is at the plume edge where the mean concentration is small in comparison to the fluctuations.
+
+###Response:
+[1] NA [2] Struct(Int) (long subject)-Spl_intr (long intro phrase)" In spite of all possible efforts by environmental lawyers", "to reduce such interferences" , "there does not seem to be any clear legislature about these terms for now." [3]"Too much money being spent on fighting back". [4]=Split-(Spwr)(SPL-end) To me personally what I found interesting was...
+
+####Task Description/Result
+
+<table> <tbody id="Table29">
+	  </td></div><thead align=center ><th colSpan='5'>Ranks</th>  	</head><!-- head --> | <col width = '80%' style ="display : block;" /> | <c:if test="${rankNum ==''}"><img src="/images/spreadsheet.png"/></a><% } else {% %> </b>
+------------------
+Actual classification: 
+------------------
+ Structured
+
+(56)
+###Prompt:
+You are text classifier. Below is an instruction to perform a shapeless sentence identification task. Classify the sentence according to the instruction.
+
+###Instruction:
+Classify the following sentence as one of the following labels: 'NA' 'Structured' or 'Shapeless'. If you classify it as 'Shapeless', give it a sub-label from the following issues: 'Long Subject', 'Long Intro Phrase', 'Interruptions', 'Sprawling Ending', 'Coordination'.
+
+###Input:
+We adopt a Cartesian coordinate system in which the x coordinate is directed from left to right (along the mean forcing direction for the 0Â° case), the y coordinate points upwards and along the plane of the paper and the z coordinate points vertically out of the paper.
+
+###Response:
+There have been many attempts at establishing rules by analogy with syntactic structures, but none has yet succeeded. As was demonstrated during World War II bombings that caused more destruction than any natural phenomenon ever recorded before,[13] modern cities can be severely damaged even without aerial attack.[6][7]: 249–58[9], this suggests some kind of coordinating mechanism exists. During the Vietnam war (the first major air campaign using smart munitions) the Air Force also conducted overlapping raids on both sides...This is not about who gets hurt most; people get killed everywhere all year long.... The question seems then to require explanation rather than proof.: A2¶MarginFootnote–2 p=13
+------------------
+Actual classification: 
+------------------
+ Structured
+
